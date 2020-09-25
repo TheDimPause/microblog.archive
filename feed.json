@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2020/09/25/published-photos-on.html",
+				
+				"content_html": "<p>Published 1 photos on my <a href=\"https://www.flickr.com/photos/thedimpause/50381968036\">Flickr account</a> 📷 🏷️ industrial, flickrfriday</p>\n",
+				"content_text": "Published 1 photos on my [Flickr account](https://www.flickr.com/photos/thedimpause/50381968036) 📷 🏷️ industrial, flickrfriday\n",
+				"date_published": "2020-09-25T11:34:28+01:00",
+				"url": "https://thedimpau.se/2020/09/25/published-photos-on.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/24/big-bread.html",
+				
+				"content_html": "<p>Big bread 🥖</p>\n\n<p><img src=\"uploads/2020/c7cb5c2f2e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Big bread 🥖 \n\n<img src=\"uploads/2020/c7cb5c2f2e.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-24T19:02:47+01:00",
+				"url": "https://thedimpau.se/2020/09/24/big-bread.html",
+				"tags": ["Photography","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/24/watched-interstellar.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Interstellar, 2014 - ★★★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [Interstellar, 2014 - ★★★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-09-24T17:22:02+01:00",
+				"url": "https://thedimpau.se/2020/09/24/watched-interstellar.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/20/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Kevin Morby (35), David Bowie (17), Cornershop (15), Laura Marling (15) &amp; John Martyn (13) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Kevin Morby (35), David Bowie (17), Cornershop (15), Laura Marling (15) & John Martyn (13) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2020-09-20T08:39:24+01:00",
+				"url": "https://thedimpau.se/2020/09/20/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/19/pembroke-castle-check.html",
+				
+				"content_html": "<p>Check in 🗺 — Pembroke Castle. 🏰</p>\n",
+				"content_text": "Check in 🗺 — Pembroke Castle. 🏰\n",
+				"date_published": "2020-09-19T12:01:00+01:00",
+				"url": "https://thedimpau.se/2020/09/19/pembroke-castle-check.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/19/addressing-the-claims.html",
+				
+				"content_html": "<p><a href=\"https://medium.com/@KatyMontgomerie/addressing-the-claims-in-jk-rowlings-justification-for-transphobia-7b6f761e8f8f\">Addressing The Claims In JK Rowling’s Justification For Transphobia</a> 🔗 — <em>Excerpt:</em> Recently JK Rowling, author of Harry Potter, tweeted some transphobic statements and dogwhistles on Twitter that I have addressed here. After a few days silence she wrote a lengthy post trying to justify her position on her website.</p>\n",
+				"content_text": "[Addressing The Claims In JK Rowling’s Justification For Transphobia](https://medium.com/@KatyMontgomerie/addressing-the-claims-in-jk-rowlings-justification-for-transphobia-7b6f761e8f8f) 🔗 — _Excerpt:_ Recently JK Rowling, author of Harry Potter, tweeted some transphobic statements and dogwhistles on Twitter that I have addressed here. After a few days silence she wrote a lengthy post trying to justify her position on her website.\n",
+				"date_published": "2020-09-19T10:58:09+01:00",
+				"url": "https://thedimpau.se/2020/09/19/addressing-the-claims.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/18/pembroke-rugby-football.html",
+				
+				"content_html": "<p>Check in 🗺 — Pembroke Rugby Football Club. Old Speckled Hen.🍺</p>\n",
+				"content_text": "Check in 🗺 — Pembroke Rugby Football Club. Old Speckled Hen.🍺\n",
+				"date_published": "2020-09-18T16:05:00+01:00",
+				"url": "https://thedimpau.se/2020/09/18/pembroke-rugby-football.html",
+				"tags": ["Location","Beer","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/18/breakfast-on-manorbier.html",
+				
+				"content_html": "<p>Breakfast on Manorbier beach this morning.</p>\n\n<p><a href=\"https://thedimpau.se/uploads/2020/ebf3b38338.jpg\"><img src=\"uploads/2020/ebf3b38338.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/a0cfcc9888.jpg\"><img src=\"uploads/2020/a0cfcc9888.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Breakfast on Manorbier beach this morning.\n\n<a href=\"https://thedimpau.se/uploads/2020/ebf3b38338.jpg\"><img src=\"uploads/2020/ebf3b38338.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/a0cfcc9888.jpg\"><img src=\"uploads/2020/a0cfcc9888.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-18T12:31:25+01:00",
+				"url": "https://thedimpau.se/2020/09/18/breakfast-on-manorbier.html",
+				"tags": ["Photography","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/09/18/the-dial-inn.html",
+				
+				"content_html": "<p>Check in 🗺 — The Dial Inn, Lamphey. Bilidowcar Single Hop Pale Ale (Tenby Harbour Brewery). 🍺</p>\n",
+				"content_text": "Check in 🗺 — The Dial Inn, Lamphey. Bilidowcar Single Hop Pale Ale (Tenby Harbour Brewery). 🍺\n",
+				"date_published": "2020-09-18T12:26:00+01:00",
+				"url": "https://thedimpau.se/2020/09/18/the-dial-inn.html",
+				"tags": ["Location","Beer","Fluo"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2020/09/17/never-cooked-on.html",
 				
 				"content_html": "<p>Never cooked on a gas barbecue before this week. Never thought I’d close a lid on a barbecue whilst cooking. Never had barbecued vegetables three days in a row. But here I am.</p>\n\n<p><a href=\"https://thedimpau.se/uploads/2020/de40097828.jpg\"><img src=\"uploads/2020/de40097828.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/bafdbd4334.jpg\"><img src=\"uploads/2020/bafdbd4334.jpg\" width=\"600\" height=\"581\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
@@ -54,8 +135,8 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2020/09/16/currently-reading-another.html",
 				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781847925633\">Another Now</a> by Yanis Varoufakis 📚</p>\n",
-				"content_text": "Currently reading: [Another Now](https://micro.blog/books/9781847925633) by Yanis Varoufakis 📚\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781847925633\">Another Now: Dispatches from an Alternative Present</a> by Yanis Varoufakis 📚</p>\n",
+				"content_text": "Currently reading: [Another Now: Dispatches from an Alternative Present](https://micro.blog/books/9781847925633) by Yanis Varoufakis 📚\n",
 				"date_published": "2020-09-16T18:04:00+01:00",
 				"url": "https://thedimpau.se/2020/09/16/currently-reading-another.html",
 				"tags": ["Books","Politics","Fluo"]
