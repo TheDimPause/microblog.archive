@@ -7,13 +7,184 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2020/10/10/crete.html",
+				
+				"content_html": "<p>Crete, 2004</p>\n\n<p><img src=\"uploads/2020/094f84a504.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Crete, 2004\n\n<img src=\"uploads/2020/094f84a504.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-10T18:23:20+01:00",
+				"url": "https://thedimpau.se/2020/10/10/crete.html",
+				"tags": ["Photography","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/09/watched-the-fly.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">The Fly, 1958 - ★★★★½</a> 🎥</p>\n",
+				"content_text": "Watched: [The Fly, 1958 - ★★★★½](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-09T15:52:40+01:00",
+				"url": "https://thedimpau.se/2020/10/09/watched-the-fly.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/08/watched-akira.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Akira, 1988 - ★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [Akira, 1988 - ★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-08T11:42:29+01:00",
+				"url": "https://thedimpau.se/2020/10/08/watched-akira.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/08/092445.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781529042085\">The Fire of Joy</a> by Clive James 📚</p>\n",
+				"content_text": "Currently reading: [The Fire of Joy](https://micro.blog/books/9781529042085) by Clive James 📚\n",
+				"date_published": "2020-10-08T09:24:45+01:00",
+				"url": "https://thedimpau.se/2020/10/08/092445.html",
+				"tags": ["Books","Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/08/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780241425442\">The Thursday Murder Club</a> by Richard Osman 📚</p>\n",
+				"content_text": "Currently reading: [The Thursday Murder Club](https://micro.blog/books/9780241425442) by Richard Osman 📚\n",
+				"date_published": "2020-10-08T09:23:34+01:00",
+				"url": "https://thedimpau.se/2020/10/08/currently-reading-the.html",
+				"tags": ["Books","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/07/watched-genius-within.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Genius Within: The Inner Life of Glenn Gould, 2009 - ★★★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [Genius Within: The Inner Life of Glenn Gould, 2009 - ★★★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-07T15:40:11+01:00",
+				"url": "https://thedimpau.se/2020/10/07/watched-genius-within.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/07/earliest-frescoes-in.html",
+				
+				"content_html": "<p><a href=\"http://www.thehistoryblog.com/archives/59745\">Earliest frescoes in Venice found during mosaic restoration</a> 🔗 <blockquote>They also offer a rare glimpse into the artistic development of the lagoon before it was completely dominated by Venice.</blockquote></p>\n",
+				"content_text": "[Earliest frescoes in Venice found during mosaic restoration](http://www.thehistoryblog.com/archives/59745) 🔗 <blockquote>They also offer a rare glimpse into the artistic development of the lagoon before it was completely dominated by Venice.</blockquote>\n",
+				"date_published": "2020-10-07T09:23:27+01:00",
+				"url": "https://thedimpau.se/2020/10/07/earliest-frescoes-in.html",
+				"tags": ["Links","History"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/07/the-most-important.html",
+				
+				"content_html": "<p><a href=\"https://thecorrespondent.com/733/the-most-important-invention-of-the-20th-century-keeps-us-alive-but-is-killing-the-environment-the-solution-eat-less-meat/\">The most important invention of the 20th century keeps us alive but is killing the environment. The solution? Eat less meat</a> 🔗</p>\n\n<blockquote>\n<p>What has been made into a commodity cannot easily be brought back to being a luxury. That’s the luxury trap. And it’s not the first time we’ve fallen for it.</p>\n</blockquote>\n",
+				"content_text": " [The most important invention of the 20th century keeps us alive but is killing the environment. The solution? Eat less meat](https://thecorrespondent.com/733/the-most-important-invention-of-the-20th-century-keeps-us-alive-but-is-killing-the-environment-the-solution-eat-less-meat/) 🔗\r\n\r\n>What has been made into a commodity cannot easily be brought back to being a luxury. That’s the luxury trap. And it’s not the first time we’ve fallen for it.\n",
+				"date_published": "2020-10-07T09:02:19+01:00",
+				"url": "https://thedimpau.se/2020/10/07/the-most-important.html",
+				"tags": ["Links","Food","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/06/continuing-the-saga.html",
+				
+				"content_html": "<p>Continuing the saga - <a href=\"https://www.theguardian.com/food/2020/aug/29/meera-sodha-vegan-recipe-ugandan-rolex\">Meera Sodha&rsquo;s vegan recipe for Ugandan rolex</a>. Superb! Far exceeded my expectations; can’t imagine the egg-based version would be better.</p>\n\n<p><a href=\"https://thedimpau.se/uploads/2020/25a9d1ac09.jpg\"><img src=\"uploads/2020/25a9d1ac09.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/4d47d8d9a9.jpg\"><img src=\"uploads/2020/4d47d8d9a9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/aeed60366f.jpg\"><img src=\"uploads/2020/aeed60366f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Continuing the saga - [Meera Sodha's vegan recipe for Ugandan rolex](https://www.theguardian.com/food/2020/aug/29/meera-sodha-vegan-recipe-ugandan-rolex). Superb! Far exceeded my expectations; can’t imagine the egg-based version would be better.\n\n<a href=\"https://thedimpau.se/uploads/2020/25a9d1ac09.jpg\"><img src=\"uploads/2020/25a9d1ac09.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/4d47d8d9a9.jpg\"><img src=\"uploads/2020/4d47d8d9a9.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/aeed60366f.jpg\"><img src=\"uploads/2020/aeed60366f.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-06T19:58:35+01:00",
+				"url": "https://thedimpau.se/2020/10/06/continuing-the-saga.html",
+				"tags": ["Photography","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/06/from-standup-to.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/stage/2020/oct/06/frank-skinner-poetry-podcast-absolute-radio\">From standup to stanzas: Frank Skinner&rsquo;s terrific guide to poetry</a> 🔗</p>\n\n<blockquote>\n<p>Now embarking on its second series, the podcast is a terrific listen: bursting with enthusiasm for its chosen poems and constantly amusing about Skinner’s relationship with them.</p>\n</blockquote>\n",
+				"content_text": " [From standup to stanzas: Frank Skinner's terrific guide to poetry](https://www.theguardian.com/stage/2020/oct/06/frank-skinner-poetry-podcast-absolute-radio) 🔗\r\n\r\n>Now embarking on its second series, the podcast is a terrific listen: bursting with enthusiasm for its chosen poems and constantly amusing about Skinner’s relationship with them.\n",
+				"date_published": "2020-10-06T14:35:59+01:00",
+				"url": "https://thedimpau.se/2020/10/06/from-standup-to.html",
+				"tags": ["Links","Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/04/aston-villa-liverpool.html",
+				
+				"content_html": "<p>Aston Villa - Liverpool finishes 7-2. Outstanding night for Villa! ⚽️</p>\n",
+				"content_text": "Aston Villa - Liverpool finishes 7-2. Outstanding night for Villa! ⚽️ \n",
+				"date_published": "2020-10-04T21:16:33+01:00",
+				"url": "https://thedimpau.se/2020/10/04/aston-villa-liverpool.html",
+				"tags": ["Football","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/04/aston-villa-v.html",
+				
+				"content_html": "<p>Aston Villa v Liverpool. Villa leading 4-1 at half-time! Hat-trick for Ollie Watkins 😃 ⚽️</p>\n",
+				"content_text": "Aston Villa v Liverpool. Villa leading 4-1 at half-time! Hat-trick for Ollie Watkins 😃 ⚽️ \n",
+				"date_published": "2020-10-04T20:12:15+01:00",
+				"url": "https://thedimpau.se/2020/10/04/aston-villa-v.html",
+				"tags": ["Football","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/04/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Juliette Gréco (80), Michael Kiwanuka (34), Glenn Gould (28), Pet Shimmers (22) &amp; Doves (10) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Juliette Gréco (80), Michael Kiwanuka (34), Glenn Gould (28), Pet Shimmers (22) & Doves (10) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2020-10-04T08:46:55+01:00",
+				"url": "https://thedimpau.se/2020/10/04/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/03/watched-hacksaw-ridge.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Hacksaw Ridge, 2016 - ★★½</a> 🎥</p>\n",
+				"content_text": "Watched: [Hacksaw Ridge, 2016 - ★★½](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-03T22:42:14+01:00",
+				"url": "https://thedimpau.se/2020/10/03/watched-hacksaw-ridge.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/03/bread-today-turned.html",
+				
+				"content_html": "<p>Bread today turned out surprisingly cat-like. Tasted good but not sure what made the loaf collapse. 🍞</p>\n\n<p><img src=\"uploads/2020/c59f2d5395.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Bread today turned out surprisingly cat-like. Tasted good but not sure what made the loaf collapse. 🍞 \n\n<img src=\"uploads/2020/c59f2d5395.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-03T19:51:54+01:00",
+				"url": "https://thedimpau.se/2020/10/03/bread-today-turned.html",
+				"tags": ["Photography","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/03/how-the-indian.html",
+				
+				"content_html": "<p><a href=\"https://theguardian.com/sport/blog/2020/oct/03/how-the-indian-premier-league-clean-bowled-english-t20-cricket\">How the Indian Premier League clean bowled English T20 cricket</a> 🔗🏏 <blockquote>Two hundred million people watched the IPL season opener in Abu Dhabi &hellip; more than the Super Bowl audience and not too far off the Champions League final.</blockquote></p>\n",
+				"content_text": "[How the Indian Premier League clean bowled English T20 cricket](https://theguardian.com/sport/blog/2020/oct/03/how-the-indian-premier-league-clean-bowled-english-t20-cricket) 🔗🏏 <blockquote>Two hundred million people watched the IPL season opener in Abu Dhabi ... more than the Super Bowl audience and not too far off the Champions League final.</blockquote>\n",
+				"date_published": "2020-10-03T11:33:08+01:00",
+				"url": "https://thedimpau.se/2020/10/03/how-the-indian.html",
+				"tags": ["Links","Cricket","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/03/why-radiohead-are.html",
+				
+				"content_html": "<p><a href=\"https://theguardian.com/music/2020/oct/02/why-radiohead-are-the-blackest-white-band-of-our-times\">Why Radiohead are the Blackest white band of our times</a> 🔗\n<blockquote>Radiohead released Kid A 20 years ago today. It pointed a new direction for rock music – and mirrored radical Black art by imagining new spaces to live in amid a hostile world</blockquote></p>\n",
+				"content_text": "[Why Radiohead are the Blackest white band of our times](https://theguardian.com/music/2020/oct/02/why-radiohead-are-the-blackest-white-band-of-our-times) 🔗\n<blockquote>Radiohead released Kid A 20 years ago today. It pointed a new direction for rock music – and mirrored radical Black art by imagining new spaces to live in amid a hostile world</blockquote>\n",
+				"date_published": "2020-10-03T10:43:24+01:00",
+				"url": "https://thedimpau.se/2020/10/03/why-radiohead-are.html",
+				"tags": ["Links","Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/03/baking-wont-get.html",
+				
+				"content_html": "<p><a href=\"https://theguardian.com/commentisfree/2020/oct/03/baking-wont-get-me-through-a-covid-winter-but-a-bossy-breathless-melvyn-bragg-just-might\">Baking won’t get me through a Covid winter but a bossy, breathless Melvyn Bragg just might</a> 🔗\n<blockquote>In Our Time, I often think, is like going to an amazing free university at the top of Enid Blyton’s Magic Faraway Tree</blockquote></p>\n",
+				"content_text": "[Baking won’t get me through a Covid winter but a bossy, breathless Melvyn Bragg just might](https://theguardian.com/commentisfree/2020/oct/03/baking-wont-get-me-through-a-covid-winter-but-a-bossy-breathless-melvyn-bragg-just-might) 🔗\n<blockquote>In Our Time, I often think, is like going to an amazing free university at the top of Enid Blyton’s Magic Faraway Tree</blockquote>\n",
+				"date_published": "2020-10-03T10:23:28+01:00",
+				"url": "https://thedimpau.se/2020/10/03/baking-wont-get.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/02/for-my-second.html",
+				
+				"content_html": "<p>For my second night of cooking Meera Sodha recipes I’ve gone for <a href=\"https://www.theguardian.com/food/2020/sep/05/meera-sodhas-vegan-recipe-for-chilli-cornbread-with-broccoli\">vegan chilli cornbread with broccoli</a>. And baked black-eyed beans.</p>\n\n<p><a href=\"https://thedimpau.se/uploads/2020/6977523af6.jpg\"><img src=\"uploads/2020/6977523af6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/cc9cea1ac3.jpg\"><img src=\"uploads/2020/cc9cea1ac3.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "For my second night of cooking Meera Sodha recipes I’ve gone for [vegan chilli cornbread with broccoli](https://www.theguardian.com/food/2020/sep/05/meera-sodhas-vegan-recipe-for-chilli-cornbread-with-broccoli). And baked black-eyed beans.\n\n<a href=\"https://thedimpau.se/uploads/2020/6977523af6.jpg\"><img src=\"uploads/2020/6977523af6.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://thedimpau.se/uploads/2020/cc9cea1ac3.jpg\"><img src=\"uploads/2020/cc9cea1ac3.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-02T20:43:08+01:00",
+				"url": "https://thedimpau.se/2020/10/02/for-my-second.html",
+				"tags": ["Photography","Food","Fluo"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2020/10/02/watched-thirty-two.html",
 				
 				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Thirty Two Short Films About Glenn Gould, 1993 - ★★★★</a> 🎥</p>\n",
 				"content_text": "Watched: [Thirty Two Short Films About Glenn Gould, 1993 - ★★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
 				"date_published": "2020-10-02T17:22:27+01:00",
 				"url": "https://thedimpau.se/2020/10/02/watched-thirty-two.html",
-				"tags": ["FilmTV"]
+				"tags": ["Music","FilmTV"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/10/01/cooking-meera-sodhas.html",
@@ -31,7 +202,7 @@
 				"content_text": "Watched: [The Social Dilemma, 2020 - ★★½](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
 				"date_published": "2020-10-01T14:52:42+01:00",
 				"url": "https://thedimpau.se/2020/10/01/watched-the-social.html",
-				"tags": ["FilmTV"]
+				"tags": ["SciTech","FilmTV"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/10/01/france-divided-over.html",
