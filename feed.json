@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2020/10/25/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Ivor Cutler (18), Glenn Gould (17), Robert Wyatt (13), Kevin Morby (10) &amp; Doves (6) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Ivor Cutler (18), Glenn Gould (17), Robert Wyatt (13), Kevin Morby (10) & Doves (6) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2020-10-25T10:02:12+01:00",
+				"url": "https://thedimpau.se/2020/10/25/my-top-weekly.html",
+				"tags": ["Music","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/24/very-weird-that.html",
+				
+				"content_html": "<p>Very weird that Six Nations rugby on now. But watching Ireland v Italy 🏉</p>\n",
+				"content_text": "Very weird that Six Nations rugby on now. But watching Ireland v Italy 🏉\n",
+				"date_published": "2020-10-24T15:45:58+01:00",
+				"url": "https://thedimpau.se/2020/10/24/very-weird-that.html",
+				"tags": ["Rugby","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/24/watched-borat-subsequent.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Borat Subsequent Moviefilm, 2020 - ★★★½</a> 🎥</p>\n",
+				"content_text": "Watched: [Borat Subsequent Moviefilm, 2020 - ★★★½](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-24T13:42:13+01:00",
+				"url": "https://thedimpau.se/2020/10/24/watched-borat-subsequent.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/21/watched-borat-cultural.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, 2006 - ★★★½</a> 🎥</p>\n",
+				"content_text": "Watched: [Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, 2006 - ★★★½](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-21T21:22:25+01:00",
+				"url": "https://thedimpau.se/2020/10/21/watched-borat-cultural.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/20/bunch-of-grapes.html",
+				
+				"content_html": "<p>Check in 🗺 — Bunch of Grapes for lunch and Grey Trees’ Mosaic Pale Ale 🍺</p>\n",
+				"content_text": "Check in 🗺 — Bunch of Grapes for lunch and Grey Trees’ Mosaic Pale Ale 🍺\n",
+				"date_published": "2020-10-20T12:20:12+01:00",
+				"url": "https://thedimpau.se/2020/10/20/bunch-of-grapes.html",
+				"tags": ["Location","Beer"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/19/the-state-of.html",
+				
+				"content_html": "<p><a href=\"https://www.monbiot.com/2020/10/16/the-state-of-it/\">The State of It</a> – George Monbiot 🔗</p>\n\n<blockquote>\n<p>The Conservative promise to shrink the state was always a con. But it has seldom been as big a lie as it is today. Johnson grabs powers back from Parliament with both fists &hellip;</p>\n</blockquote>\n",
+				"content_text": "[The State of It](https://www.monbiot.com/2020/10/16/the-state-of-it/) – George Monbiot 🔗\r\n\r\n> The Conservative promise to shrink the state was always a con. But it has seldom been as big a lie as it is today. Johnson grabs powers back from Parliament with both fists ...\n",
+				"date_published": "2020-10-19T19:52:33+01:00",
+				"url": "https://thedimpau.se/2020/10/19/the-state-of.html",
+				"tags": ["Links","Politics","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/10/18/watched-the-greatest.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">The Greatest Showman, 2017 - ★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [The Greatest Showman, 2017 - ★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-10-18T21:02:14+01:00",
+				"url": "https://thedimpau.se/2020/10/18/watched-the-greatest.html",
+				"tags": ["FilmTV"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2020/10/18/my-top-weekly.html",
 				
 				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Glenn Gould (94), Waxahatchee (23), Kevin Morby (21), Real Estate (21) &amp; Ivor Cutler (5) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
