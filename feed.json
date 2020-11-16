@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2020/11/16/105410.html",
+				
+				"content_html": "<p>Pale marble headstone<br />\nMemory of young poet -<br />\nA broken Greek lyre</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Pale marble headstone  \nMemory of young poet -   \nA broken Greek lyre  \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-16T10:58:45+00:00",
+				"url": "https://thedimpau.se/2020/11/16/105410.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/15/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Herman Dune (29), Ivor Cutler (9), Robert Wyatt (8), Plastics (4) &amp; James Dean Bradfield (3) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Herman Dune (29), Ivor Cutler (9), Robert Wyatt (8), Plastics (4) & James Dean Bradfield (3) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2020-11-15T12:00:53+00:00",
+				"url": "https://thedimpau.se/2020/11/15/my-top-weekly.html",
+				"tags": ["Music","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/15/publish.html",
+				
+				"content_html": "<p>Rumbling thunder sounds<br />\nFar away lightning flashes<br />\nRain in the valleys</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Rumbling thunder sounds  \nFar away lightning flashes    \nRain in the valleys    \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-15T11:35:52+00:00",
+				"url": "https://thedimpau.se/2020/11/15/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/14/publish.html",
+				
+				"content_html": "<p>Trees disturbed by breeze<br />\nShadows beyond the window<br />\nSpooky gloominess</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Trees disturbed by breeze  \nShadows beyond the window  \nSpooky gloominess  \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-14T08:29:00+00:00",
+				"url": "https://thedimpau.se/2020/11/14/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/13/publish.html",
+				
+				"content_html": "<p>Difficult to guess<br />\nThe story of an image<br />\nCaught in an instant</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Difficult to guess  \nThe story of an image  \nCaught in an instant  \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-13T05:43:31+00:00",
+				"url": "https://thedimpau.se/2020/11/13/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/12/publish.html",
+				
+				"content_html": "<p>Hard and unyielding<br />\nAll things will slowly wear down<br />\nGiven enough time</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Hard and unyielding  \nAll things will slowly wear down   \nGiven enough time  \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-12T07:49:44+00:00",
+				"url": "https://thedimpau.se/2020/11/12/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/11/watched-american-beauty.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/films/by/date/\">American Beauty, 1999 - ★★★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [American Beauty, 1999 - ★★★★★](https://letterboxd.com/thedimpause/films/by/date/) 🎥\n",
+				"date_published": "2020-11-11T17:34:52+00:00",
+				"url": "https://thedimpau.se/2020/11/11/watched-american-beauty.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/11/publish.html",
+				
+				"content_html": "<p>Mary on the Green<br />\nI’d say the bright statue speaks<br />\nIn true memory</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Mary on the Green  \nI’d say the bright statue speaks  \nIn true memory  \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-11T10:06:35+00:00",
+				"url": "https://thedimpau.se/2020/11/11/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/10/pukka-tucka-check.html",
+				
+				"content_html": "<p>Check in 🗺 — Pukka Tucka. Cheese toastie and latte ☕️</p>\n",
+				"content_text": "Check in 🗺 — Pukka Tucka. Cheese toastie and latte ☕️\n",
+				"date_published": "2020-11-10T13:42:56+00:00",
+				"url": "https://thedimpau.se/2020/11/10/pukka-tucka-check.html",
+				"tags": ["Location","Coffee"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/10/mary-wollstonecraft-finally.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/books/2020/nov/10/mary-wollstonecraft-finally-honoured-with-statue-after-200-years\">Mary Wollstonecraft finally honoured with statue after 200 years</a>. 🔗</p>\n\n<blockquote>\n<p>It shows a silvery naked everywoman figure emerging free and defiantly from a swirling mingle of female forms and, thanks to a 10-year slog of fundraising, is the world’s only memorial sculpture to a woman known as the “mother of feminism”</p>\n</blockquote>\n\n<p><img src=\"uploads/2020/0392882e3d.jpg\" alt=\"Mary Wollstonecraft Tate portrait\" title=\"Mary_Wollstonecraft_Tate_portrait.jpg\" border=\"0\" width=\"600\" height=\"730\" /></p>\n",
+				"content_text": "[Mary Wollstonecraft finally honoured with statue after 200 years](https://www.theguardian.com/books/2020/nov/10/mary-wollstonecraft-finally-honoured-with-statue-after-200-years). 🔗\n\n> It shows a silvery naked everywoman figure emerging free and defiantly from a swirling mingle of female forms and, thanks to a 10-year slog of fundraising, is the world’s only memorial sculpture to a woman known as the “mother of feminism”\n\n<img src=\"uploads/2020/0392882e3d.jpg\" alt=\"Mary Wollstonecraft Tate portrait\" title=\"Mary_Wollstonecraft_Tate_portrait.jpg\" border=\"0\" width=\"600\" height=\"730\" />\n",
+				"date_published": "2020-11-10T09:50:47+00:00",
+				"url": "https://thedimpau.se/2020/11/10/mary-wollstonecraft-finally.html",
+				"tags": ["Books","Links","Fluo"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2020/11/10/publish.html",
+				
+				"content_html": "<p>Elderly pathways<br />\nStraight lines through an empty town<br />\nLost destinations</p>\n\n<p>✏️ #mbnov</p>\n",
+				"content_text": "Elderly pathways   \nStraight lines through an empty town    \nLost destinations \n\n✏️ #mbnov\n",
+				"date_published": "2020-11-10T07:31:25+00:00",
+				"url": "https://thedimpau.se/2020/11/10/publish.html",
+				"tags": ["Poetry","Fluo"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2020/11/09/publish.html",
 				
 				"content_html": "<p>Force me to select<br />\nOne highlight of the autumn -<br />\nAbundance of squash</p>\n\n<p>✏️ #mbnov</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2020/df3c02ff25.jpg\" alt=\"\" /></p>\n",
