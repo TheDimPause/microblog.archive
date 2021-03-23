@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2021/03/21/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Nick Cave &amp; Warren Ellis (16), Jack Kerouac (14), Suede (14), Waxahatchee (11) &amp; Andreas Staier (1) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Nick Cave & Warren Ellis (16), Jack Kerouac (14), Suede (14), Waxahatchee (11) & Andreas Staier (1) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2021-03-21T08:40:10+00:00",
+				"url": "https://thedimpau.se/2021/03/21/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/03/20/halftime-france-wales.html",
+				
+				"content_html": "<p>Half-time France 17 - 17 Wales in  Six Nations 🏉. Action packed first half. As a bonus I think TV coverage/camera work of French TV team is great. More up close and immediate than some UK coverage.</p>\n",
+				"content_text": "Half-time France 17 - 17 Wales in  Six Nations 🏉. Action packed first half. As a bonus I think TV coverage/camera work of French TV team is great. More up close and immediate than some UK coverage.\n",
+				"date_published": "2021-03-20T20:55:03+00:00",
+				"url": "https://thedimpau.se/2021/03/20/halftime-france-wales.html",
+				"tags": ["Rugby"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/03/19/watched-solaris.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/film/solaris/\">Solaris, 1972 - ★★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [Solaris, 1972 - ★★★★]( https://letterboxd.com/thedimpause/film/solaris/) 🎥\n",
+				"date_published": "2021-03-19T19:07:24+00:00",
+				"url": "https://thedimpau.se/2021/03/19/watched-solaris.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/03/15/watched-on-the.html",
+				
+				"content_html": "<p>Watched: <a href=\"https://letterboxd.com/thedimpause/film/on-the-road/\">On the Road, 2012 - ★★★★</a> 🎥</p>\n",
+				"content_text": "Watched: [On the Road, 2012 - ★★★★]( https://letterboxd.com/thedimpause/film/on-the-road/) 🎥\n",
+				"date_published": "2021-03-15T17:12:08+00:00",
+				"url": "https://thedimpau.se/2021/03/15/watched-on-the.html",
+				"tags": ["FilmTV"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2021/03/14/my-top-weekly.html",
 				
 				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: William The Conqueror (40), Hogwood, Academy of Ancient Music, Kirkby (28), Gardiner, Monteverdi Choir, Orchestre Révolutionnaire et Romantique (19), Taylor Swift (8) &amp; The Nightingales (7) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
