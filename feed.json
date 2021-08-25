@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2021/08/21/at-the-green.html",
+				
+				"content_html": "<p>At the Green Man Festival. Thursday and Friday excellent. Saturday: it’s raining with rain forecast all day, some heavy 🌧 ☔️ 🎵 😞</p>\n",
+				"content_text": "At the Green Man Festival. Thursday and Friday excellent. Saturday: it’s raining with rain forecast all day, some heavy 🌧 ☔️ 🎵 😞\n",
+				"date_published": "2021-08-21T07:11:50+01:00",
+				"url": "https://thedimpau.se/2021/08/21/at-the-green.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/08/19/green-man.html",
+				"title": "Green Man 2021 🎵",
+				"content_html": "<p>Off to <a href=\"https://www.greenman.net\">Green Man Festival</a> 2021 this morning. I&rsquo;ve been going to this festival since 2008. The only years I&rsquo;ve missed  were 2018 (holidaying elsewhere) and last year (because of the COVID-19 cancellation). Feels good to be going back now and seeing some live music - my first major event since the lockdowns.</p>\n\n<p>Whilst there I usually have absolutely no phone service/signal so, unless they&rsquo;ve improved the network infrastructure in the last 2 years, I probably won&rsquo;t be making any online posts or photograph uploads. Although, sometimes, in the early hours of the morning when most other phones are off or not being used you can get some sort of data connection&hellip;</p>\n\n<p>This year I will be taking a &lsquo;proper&rsquo; camera for the first time rather than just a phone. I say &lsquo;proper&rsquo; but it is a 14 year old <a href=\"https://en.wikipedia.org/wiki/Pentax_K100D\">Pentax K100D</a>. Just have to wait and see what sort of photographs I can take with it - and if it survives the experience.</p>\n\n<p>Now just hoping the weather stays good.</p>\n",
+				"content_text": "Off to [Green Man Festival](https://www.greenman.net) 2021 this morning. I've been going to this festival since 2008. The only years I've missed  were 2018 (holidaying elsewhere) and last year (because of the COVID-19 cancellation). Feels good to be going back now and seeing some live music - my first major event since the lockdowns.\n\nWhilst there I usually have absolutely no phone service/signal so, unless they've improved the network infrastructure in the last 2 years, I probably won't be making any online posts or photograph uploads. Although, sometimes, in the early hours of the morning when most other phones are off or not being used you can get some sort of data connection...\n\nThis year I will be taking a 'proper' camera for the first time rather than just a phone. I say 'proper' but it is a 14 year old [Pentax K100D](https://en.wikipedia.org/wiki/Pentax_K100D). Just have to wait and see what sort of photographs I can take with it - and if it survives the experience.\n\nNow just hoping the weather stays good.\n",
+				"date_published": "2021-08-19T07:14:18+01:00",
+				"url": "https://thedimpau.se/2021/08/19/green-man.html",
+				"tags": ["Music","Titled"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2021/08/16/great-day-of.html",
 				
 				"content_html": "<p>Great day of cricket 🏏</p>\n\n<p>Stunning victory by India over England in a gripping 2nd Test and Glamorgan beat Essex to reach the Royal London One-Day Cup Final.</p>\n\n<p>I’ve done little else than follow these matches since 11am this morning - better go and prepare an evening meal now 😊</p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2021/08/15/a-gap-in.html",
 				
-				"content_html": "<p>A gap in today’s relentless August (!) drizzle 🌧</p>\n\n<p>Let’s BBQ Beyond Burgers!</p>\n\n<p><img src=\"uploads/2021/5029964ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A gap in today’s relentless August (!) drizzle 🌧\n\nLet’s BBQ Beyond Burgers!\n\n<img src=\"uploads/2021/5029964ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A gap in today’s relentless August (!) drizzle 🌧</p>\n\n<p>Let’s BBQ Beyond Burgers!</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/5029964ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A gap in today’s relentless August (!) drizzle 🌧\n\nLet’s BBQ Beyond Burgers!\n\n<img src=\"https://thedimpau.se/uploads/2021/5029964ae2.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-15T18:04:15+01:00",
 				"url": "https://thedimpau.se/2021/08/15/a-gap-in.html",
 				"tags": ["Photography"]
