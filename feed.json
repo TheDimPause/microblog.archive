@@ -7,10 +7,127 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2021/11/21/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: The Diasonics (9), Another Sky (6), Boy Azooga (5), Furtwängler, VPO (5) &amp; Kynsy (5) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): The Diasonics (9), Another Sky (6), Boy Azooga (5), Furtwängler, VPO (5) & Kynsy (5) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2021-11-21T08:21:00+00:00",
+				"url": "https://thedimpau.se/2021/11/21/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/19/film-log-watched.html",
+				
+				"content_html": "<p>Film log - watched: <a href=\"https://letterboxd.com/thedimpause/film/drunken-angel/\">Drunken Angel, 1948 - ★★★★★</a> 🎥</p>\n",
+				"content_text": "Film log - watched: [Drunken Angel, 1948 - ★★★★★](https://letterboxd.com/thedimpause/film/drunken-angel/) 🎥\n",
+				"date_published": "2021-11-19T19:31:59+00:00",
+				"url": "https://thedimpau.se/2021/11/19/film-log-watched.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/18/how-ancient-rome.html",
+				
+				"content_html": "<p><a href=\"https://www.theneweuropean.co.uk/mary-ann-tedstone-glover-and-the-music-of-ancient-rome/\">How Ancient Rome hit the charts</a> 🔗🎵</p>\n\n<blockquote>\n<p>Composer and academic Mary Ann Tedstone Glover has brought the music of the Roman empire back to life.</p>\n</blockquote>\n",
+				"content_text": "[How Ancient Rome hit the charts](https://www.theneweuropean.co.uk/mary-ann-tedstone-glover-and-the-music-of-ancient-rome/) 🔗🎵\n\n>Composer and academic Mary Ann Tedstone Glover has brought the music of the Roman empire back to life.\n",
+				"date_published": "2021-11-18T07:27:00+00:00",
+				"url": "https://thedimpau.se/2021/11/18/how-ancient-rome.html",
+				"tags": ["Links","Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/17/film-log-watched.html",
+				
+				"content_html": "<p>Film log - watched: <a href=\"https://letterboxd.com/thedimpause/film/pulse-2001/\">Pulse, 2001 - ★★★½</a> 🎥</p>\n",
+				"content_text": "Film log - watched: [Pulse, 2001 - ★★★½](https://letterboxd.com/thedimpause/film/pulse-2001/) 🎥\n",
+				"date_published": "2021-11-17T19:27:03+00:00",
+				"url": "https://thedimpau.se/2021/11/17/film-log-watched.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/16/montales-lemons-by.html",
+				
+				"content_html": "<p><a href=\"https://www.theguardian.com/books/booksblog/2021/nov/15/poem-of-the-week-montales-lemons-by-ishion-hutchinson\">Montale’s Lemons by Ishion Hutchinson</a> 🔗</p>\n",
+				"content_text": "[Montale’s Lemons by Ishion Hutchinson](https://www.theguardian.com/books/booksblog/2021/nov/15/poem-of-the-week-montales-lemons-by-ishion-hutchinson) 🔗\n",
+				"date_published": "2021-11-16T08:38:36+00:00",
+				"url": "https://thedimpau.se/2021/11/16/montales-lemons-by.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/15/and-a-barge.html",
+				
+				"content_html": "<p>And a barge sails by 😀</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/4af6d9193d.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "And a barge sails by 😀 \n\n<img src=\"https://thedimpau.se/uploads/2021/4af6d9193d.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-11-15T09:18:39+00:00",
+				"url": "https://thedimpau.se/2021/11/15/and-a-barge.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/15/morning-view-over.html",
+				
+				"content_html": "<p>Morning view over Camden Lock from hotel room window.</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/445ac77a81.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Morning view over Camden Lock from hotel room window.\n\n<img src=\"https://thedimpau.se/uploads/2021/445ac77a81.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-11-15T09:12:28+00:00",
+				"url": "https://thedimpau.se/2021/11/15/morning-view-over.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/15/manton-reece-microblog.html",
+				
+				"content_html": "<p><a href=\"https://www.manton.org/2021/11/12/microblog-via-applescript.html\">Manton Reece - Micro.blog via AppleScript.</a> 🔗</p>\n",
+				"content_text": "[Manton Reece - Micro.blog via AppleScript.](https://www.manton.org/2021/11/12/microblog-via-applescript.html) 🔗\n",
+				"date_published": "2021-11-15T08:42:36+00:00",
+				"url": "https://thedimpau.se/2021/11/15/manton-reece-microblog.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/15/stereolab-and-kynsy.html",
+				
+				"content_html": "<p>Stereolab and Kynsy at the Roundhouse, London, Sunday 14th November 🎵</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/f17f6ebfad.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/1432928c09.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/56cc698133.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/9768fab02e.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n",
+				"content_text": "Stereolab and Kynsy at the Roundhouse, London, Sunday 14th November 🎵 \n\n<img src=\"https://thedimpau.se/uploads/2021/f17f6ebfad.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"https://thedimpau.se/uploads/2021/1432928c09.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"https://thedimpau.se/uploads/2021/56cc698133.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"https://thedimpau.se/uploads/2021/9768fab02e.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
+				"date_published": "2021-11-15T08:02:15+00:00",
+				"url": "https://thedimpau.se/2021/11/15/stereolab-and-kynsy.html",
+				"tags": ["Photography","Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/15/holiday-inn-london.html",
+				
+				"content_html": "<p>Check in 🗺 — Holiday Inn, Camden Lock for one night.</p>\n",
+				"content_text": "Check in 🗺 — Holiday Inn, Camden Lock for one night.\n",
+				"date_published": "2021-11-15T06:39:13+00:00",
+				"url": "https://thedimpau.se/2021/11/15/holiday-inn-london.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/14/roundhouse-check-in.html",
+				
+				"content_html": "<p>Check in 🗺 — The Roundhouse for the Pitchfork Music Festival with Stereolab headlining 🎵</p>\n",
+				"content_text": "Check in 🗺 — The Roundhouse for the Pitchfork Music Festival with Stereolab headlining 🎵\n",
+				"date_published": "2021-11-14T18:25:13+00:00",
+				"url": "https://thedimpau.se/2021/11/14/roundhouse-check-in.html",
+				"tags": ["Music","Location"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/14/tai-pan-alley.html",
+				
+				"content_html": "<p>Check in 🗺 — Tai Pan Alley street food collective. Nasi lembak with jackfruit rendang and an oni negroni.</p>\n",
+				"content_text": "Check in 🗺 — Tai Pan Alley street food collective. Nasi lembak with jackfruit rendang and an oni negroni.\n",
+				"date_published": "2021-11-14T16:01:23+00:00",
+				"url": "https://thedimpau.se/2021/11/14/tai-pan-alley.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/11/14/the-ice-wharf.html",
+				
+				"content_html": "<p>Beer check in via Untappd 🗺🍺. Camden Lock — Drinking a London Porter by Twickenham Fine Ales</p>\n",
+				"content_text": "Beer check in via Untappd 🗺🍺. Camden Lock — Drinking a London Porter by Twickenham Fine Ales\n",
+				"date_published": "2021-11-14T14:59:04+00:00",
+				"url": "https://thedimpau.se/2021/11/14/the-ice-wharf.html",
+				"tags": ["Location","Beer"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2021/11/13/take-out-beer.html",
 				
-				"content_html": "<p>Take out beer! Two pints of Grey Trees Brewery’s Mosaic Pale Ale fits in this carton from the Bunch of Grapes 🍺</p>\n\n<p><img src=\"uploads/2021/3e37960d4f.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n",
-				"content_text": "Take out beer! Two pints of Grey Trees Brewery’s Mosaic Pale Ale fits in this carton from the Bunch of Grapes 🍺 \n\n<img src=\"uploads/2021/3e37960d4f.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
+				"content_html": "<p>Take out beer! Two pints of Grey Trees Brewery’s Mosaic Pale Ale fits in this carton from the Bunch of Grapes 🍺</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/3e37960d4f.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n",
+				"content_text": "Take out beer! Two pints of Grey Trees Brewery’s Mosaic Pale Ale fits in this carton from the Bunch of Grapes 🍺 \n\n<img src=\"https://thedimpau.se/uploads/2021/3e37960d4f.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"date_published": "2021-11-13T18:38:06+00:00",
 				"url": "https://thedimpau.se/2021/11/13/take-out-beer.html",
 				"tags": ["Photography","Beer"]
@@ -868,7 +985,7 @@
 				"content_text": "[Spirited Away](https://www.monbiot.com/2021/09/24/spirited-away/) 🔗  – by George Monbiot\n\n>How the counterculture fell prey to the far-right’s conspiracy theories.\n",
 				"date_published": "2021-09-24T07:47:26+00:00",
 				"url": "https://thedimpau.se/2021/09/24/spirited-away-george.html",
-				"tags": ["Links","Politics","Titled"]
+				"tags": ["Links","Politics"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/09/22/film-log-watched.html",
