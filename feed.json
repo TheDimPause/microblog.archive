@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://TheDimPause.micro.blog/2021/12/21/handwriting-my-website.html",
+				
+				"content_html": "<p><a href=\"https://boffosocko.com/2021/12/20/55799844/\">Handwriting my Website with a Digital Amanuensis - Chris Aldrich</a> 🔗</p>\n",
+				"content_text": "[Handwriting my Website with a Digital Amanuensis - Chris Aldrich](https://boffosocko.com/2021/12/20/55799844/) 🔗\n",
+				"date_published": "2021-12-21T09:12:05+00:00",
+				"url": "https://thedimpau.se/2021/12/21/handwriting-my-website.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/12/19/short-sunday-afternoon.html",
+				
+				"content_html": "<p>Short Sunday afternoon walk🚶‍♂️</p>\n\n<p><img src=\"uploads/2021/9bbe8c7e66.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/ee2886f5ed.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/7c38fd4edd.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n\n<p><img src=\"uploads/2021/b08fc59ee6.jpg\" width=\"600\" height=\"auto\" alt=\"\" /></p>\n",
+				"content_text": "Short Sunday afternoon walk🚶‍♂️\n\n<img src=\"uploads/2021/9bbe8c7e66.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"uploads/2021/ee2886f5ed.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"uploads/2021/7c38fd4edd.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"uploads/2021/b08fc59ee6.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
+				"date_published": "2021-12-19T19:37:14+00:00",
+				"url": "https://thedimpau.se/2021/12/19/short-sunday-afternoon.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/12/19/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: The Police (40), Alessandrini, Concerto Italiano (17), Andy Summers (13), The Diasonics (13) &amp; Neil Young &amp; Crazy Horse (3) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): The Police (40), Alessandrini, Concerto Italiano (17), Andy Summers (13), The Diasonics (13) & Neil Young & Crazy Horse (3) via [tweekly.fm](https://tweekly.fm)\n",
+				"date_published": "2021-12-19T09:16:33+00:00",
+				"url": "https://thedimpau.se/2021/12/19/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/12/18/first-xmas-fire.html",
+				
+				"content_html": "<p>First Xmas fire 🔥</p>\n\n<p><img src=\"uploads/2021/684a272f28.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "First Xmas fire 🔥\n\n<img src=\"uploads/2021/684a272f28.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-12-18T20:16:17+00:00",
+				"url": "https://thedimpau.se/2021/12/18/first-xmas-fire.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/12/16/the-crowds-are.html",
+				
+				"content_html": "<p>The crowds are in for the early morning cricket 🏏 🐈</p>\n\n<p><img src=\"uploads/2021/be2357f09a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "The crowds are in for the early morning cricket 🏏 🐈 \n\n<img src=\"uploads/2021/be2357f09a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-16T08:00:21+00:00",
+				"url": "https://thedimpau.se/2021/12/16/the-crowds-are.html",
+				"tags": ["Photography","Cricket"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2021/12/16/the-ashes-nd.html",
+				
+				"content_html": "<p>The Ashes 2nd Test in Adelaide is a day-night match, so starts at 4am in the UK. At least I can get up at around 6:30am and follow two full sessions - much better than staying up late into the night/early morning for the standard match timings in Australia 😊🏏</p>\n",
+				"content_text": "The Ashes 2nd Test in Adelaide is a day-night match, so starts at 4am in the UK. At least I can get up at around 6:30am and follow two full sessions - much better than staying up late into the night/early morning for the standard match timings in Australia 😊🏏 \n",
+				"date_published": "2021-12-16T06:43:44+00:00",
+				"url": "https://thedimpau.se/2021/12/16/the-ashes-nd.html",
+				"tags": ["Cricket"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2021/12/14/senedd-cymru.html",
 				
-				"content_html": "<p>Senedd Cymru</p>\n\n<p><img src=\"uploads/2021/ec8d2f4fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Senedd Cymru\n\n<img src=\"uploads/2021/ec8d2f4fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Senedd Cymru</p>\n\n<p><img src=\"https://thedimpau.se/uploads/2021/ec8d2f4fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Senedd Cymru\n\n<img src=\"https://thedimpau.se/uploads/2021/ec8d2f4fd5.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-14T08:57:20+00:00",
 				"url": "https://thedimpau.se/2021/12/14/senedd-cymru.html",
 				"tags": ["Photography"]
