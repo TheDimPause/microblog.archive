@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2022/09/08/linkblog-exposed-by.html",
+				
+				"content_html": "<p>Linkblog 🔗: <a href=\"https://www.theguardian.com/books/2022/sep/08/exposed-by-caroline-vout-review-the-real-greek-and-roman-body\">Exposed by Caroline Vout review – the real Greek and Roman body</a></p>\n",
+				"content_text": "Linkblog 🔗: [Exposed by Caroline Vout review – the real Greek and Roman body](https://www.theguardian.com/books/2022/sep/08/exposed-by-caroline-vout-review-the-real-greek-and-roman-body)\n",
+				"date_published": "2022-09-08T16:59:51+01:00",
+				"url": "https://thedimpau.se/2022/09/08/linkblog-exposed-by.html",
+				"tags": ["Links"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2022/09/04/film-log-watched.html",
+				
+				"content_html": "<p>Film log - watched: <a href=\"https://letterboxd.com/thedimpause/film/everything-everywhere-all-at-once/\">Everything Everywhere All at Once, 2022 - ★★★½</a> 🎥</p>\n",
+				"content_text": "Film log - watched: [Everything Everywhere All at Once, 2022 - ★★★½](https://letterboxd.com/thedimpause/film/everything-everywhere-all-at-once/) 🎥\n",
+				"date_published": "2022-09-04T22:31:26+01:00",
+				"url": "https://thedimpau.se/2022/09/04/film-log-watched.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2022/09/04/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a>: Boult, LPO, Tortelier (7) &amp; Dactyl Terra (6) via <a href=\"https://tweekly.fm\">tweekly.fm</a></p>\n",
+				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7): Boult, LPO, Tortelier (7) & Dactyl Terra (6) via [tweekly.fm](https://tweekly.fm)\n\n",
+				"date_published": "2022-09-04T08:52:51+01:00",
+				"url": "https://thedimpau.se/2022/09/04/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2022/09/01/currently-reading-tales.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781471194412\">Tales From The Loop</a> by Simon Stålenhag 📚</p>\n",
