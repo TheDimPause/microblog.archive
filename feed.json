@@ -7,13 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/01/21/spritzes-and-crosswords.html",
+				
+				"content_html": "<p>Spritzes and crosswords in the snow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spritzes and crosswords in the snow.\n\n<img src=\"uploads/2023/aff112fd1a.jpg\" width=\"600\" alt=\"Drinks, books and crosswords on a small balcony table, snow on the ground in the background\" />\n",
+				"date_published": "2023-01-21T15:10:14+00:00",
+				"url": "https://thedimpau.se/2023/01/21/spritzes-and-crosswords.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/01/20/inspector-morse-deceived.html",
+				
+				"content_html": "<p>📺 Inspector Morse : Deceived by Flight</p>\n",
+				"content_text": "📺 Inspector Morse : Deceived by Flight\n",
+				"date_published": "2023-01-20T16:48:02+00:00",
+				"url": "https://thedimpau.se/2023/01/20/inspector-morse-deceived.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/01/20/deicing-car-again.html",
+				
+				"content_html": "<p>De-icing again, still can’t get the car to the top of our drive.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "De-icing again, still can’t get the car to the top of our drive.\n\n<img src=\"uploads/2023/8a0812e9d6.jpg\" width=\"600\" alt=\"Red car at bottom of snow covered sloping driveway\" />\n",
+				"date_published": "2023-01-20T07:59:43+00:00",
+				"url": "https://thedimpau.se/2023/01/20/deicing-car-again.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/01/19/snowy-morning.html",
+				"title": "Snowy morning",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><a href=\"https://www.thedimpause.photos\">Ian Mason</a><br />Snowy morning</p><p><a href=\"https://www.thedimpause.photos/Microphotos/i-pvcWxpD/\" title=\"Snowy morning\"><img src=\"https://www.thedimpause.photos/Microphotos/i-pvcWxpD/1/17ad89ff/Th/IMG_6947-Th.jpg\" width=\"150\" height=\"150\" alt=\"Snowy morning\" title=\"Snowy morning\" style=\"border: 1px solid #000000;\" /></a></p>\n",
+				"date_published": "2023-01-19T11:24:21+00:00",
+				"url": "https://thedimpau.se/2023/01/19/snowy-morning.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/01/17/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.444215,-2.610081&amp;ll=51.444215,-2.610081\">Location</a> check in 🗺 — Sonny Stores, Bristol</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.444215,-2.610081&ll=51.444215,-2.610081) check in 🗺 — Sonny Stores, Bristol\n",
+				"date_published": "2023-01-17T19:45:47+00:00",
+				"url": "https://thedimpau.se/2023/01/17/location-check-in.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/01/17/time-machine.html",
+				
+				"content_html": "<p>🕦 🙏 Time Machine</p>\n",
+				"content_text": "🕦 🙏 Time Machine\n",
+				"date_published": "2023-01-17T12:42:17+00:00",
+				"url": "https://thedimpau.se/2023/01/17/time-machine.html",
+				"tags": ["CompTechSci"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/01/16/the-last-samurai.html",
 				"title": "The Last Samurai, 2003 - ★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/0/7/51507-the-last-samurai-0-600-0-900-crop.jpg?v=06ced446cd\"/></p> <p>Watched on Monday January 16, 2023.</p>\n",
+				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/5/1/5/0/7/51507-the-last-samurai-0-600-0-900-crop.jpg?v=06ced446cd\"/></p> <p>Watched on Monday January 16, 2023.</p>\n",
 				"date_published": "2023-01-16T16:15:38+00:00",
 				"url": "https://thedimpau.se/2023/01/16/the-last-samurai.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/01/15/sadly-in-merthyr.html",
@@ -21,13 +75,14 @@
 				"content_html": "<p>🛒 Sadly in Merthyr Retail Park</p>\n",
 				"content_text": "🛒 Sadly in Merthyr Retail Park\n",
 				"date_published": "2023-01-15T13:36:53+00:00",
-				"url": "https://thedimpau.se/2023/01/15/sadly-in-merthyr.html"
+				"url": "https://thedimpau.se/2023/01/15/sadly-in-merthyr.html",
+				"tags": ["Location"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/01/15/sunday-morning-i.html",
 				
 				"content_html": "<p>Sunday morning. I don’t usually let our cat sleep next to my desk - the shed hair becomes an annoyance 🙄</p>\n<p>This morning she persisted, probably because nobody else is up and the bedroom doors are shut. I gave up trying to discourage her. Won’t be for long though 🐈 💤</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sunday morning. I don’t usually let our cat sleep next to my desk - the shed hair becomes an annoyance 🙄\n\nThis morning she persisted, probably because nobody else is up and the bedroom doors are shut. I gave up trying to discourage her. Won’t be for long though 🐈 💤\n\n<img src=\"uploads/2023/9f545aea40.jpg\" alt=\"Cat curled up on an armchair next to a desk\" title=\"catdesk.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Sunday morning. I don’t usually let our cat sleep next to my desk - the shed hair becomes an annoyance 🙄\n\nThis morning she persisted, probably because nobody else is up and the bedroom doors are shut. I gave up trying to discourage her. Won’t be for long though 🐈 💤\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/9f545aea40.jpg\" alt=\"Cat curled up on an armchair next to a desk\" title=\"catdesk.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2023-01-15T10:24:28+00:00",
 				"url": "https://thedimpau.se/2023/01/15/sunday-morning-i.html",
 				"tags": ["Photography"]
@@ -101,7 +156,8 @@
 				"content_html": "<p>🛣️ Motorwaying to Bristol to pick up my daughter and have a late lunch in Clifton.</p>\n",
 				"content_text": "🛣️ Motorwaying to Bristol to pick up my daughter and have a late lunch in Clifton.\n",
 				"date_published": "2023-01-07T12:18:36+00:00",
-				"url": "https://thedimpau.se/2023/01/07/motorwaying-to-bristol.html"
+				"url": "https://thedimpau.se/2023/01/07/motorwaying-to-bristol.html",
+				"tags": ["Travel"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/01/06/tinkering-with-web.html",
@@ -143,7 +199,8 @@
 				"content_html": "<p>⏰ Early morning Bank Holiday of course</p>\n",
 				"content_text": "⏰ Early morning Bank Holiday of course\n\t\t\n",
 				"date_published": "2023-01-02T07:24:03+00:00",
-				"url": "https://thedimpau.se/2023/01/02/p-early-morning.html"
+				"url": "https://thedimpau.se/2023/01/02/p-early-morning.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/01/01/tottenham-hotspur-aston.html",
@@ -185,7 +242,7 @@
 				"id": "http://thedimpause.micro.blog/2022/12/31/really-pub-wifi.html",
 				
 				"content_html": "<p>Really!? Pub Wifi password … but I’ve typed it and it works … got a feeling it’s the default and they don’t know how to change it to something that’s easier on the keyboard ⌨️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Really!? Pub Wifi password … but I’ve typed it and it works … got a feeling it’s the default and they don’t know how to change it to something that’s easier on the keyboard ⌨️ \n\n<img src=\"uploads/2022/56b86a63e0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Really!? Pub Wifi password … but I’ve typed it and it works … got a feeling it’s the default and they don’t know how to change it to something that’s easier on the keyboard ⌨️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/56b86a63e0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-31T17:19:23+00:00",
 				"url": "https://thedimpau.se/2022/12/31/really-pub-wifi.html",
 				"tags": ["Photography"]
@@ -194,7 +251,7 @@
 				"id": "http://thedimpause.micro.blog/2022/12/31/otley-oxymoron-stout.html",
 				
 				"content_html": "<p>Otley Oxymoron stout and O-Ho-Ho ESB brewed at the Bunch of Grapes 🍺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Otley Oxymoron stout and O-Ho-Ho ESB brewed at the Bunch of Grapes 🍺\n\n<img src=\"uploads/2022/95eeba5171.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Otley Oxymoron stout and O-Ho-Ho ESB brewed at the Bunch of Grapes 🍺\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/95eeba5171.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-31T14:47:12+00:00",
 				"url": "https://thedimpau.se/2022/12/31/otley-oxymoron-stout.html",
 				"tags": ["Photography","Beer"]
@@ -212,7 +269,7 @@
 				"id": "http://thedimpause.micro.blog/2022/12/31/came-up-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Came up in my Readwise Daily Review today. Hadn&rsquo;t realised that the phrase</p>\n<blockquote>\n<p>We live, as we dream — alone</p>\n</blockquote>\n<p>was Conrad&rsquo;s. I did know it from the <a href=\"https://en.wikipedia.org/wiki/Gang_of_Four_(band)\">Gang of Four</a> song  🎵 📚</p>\n",
-				"content_text": "<img src=\"uploads/2022/319d0960d0.png\" alt=\"Quote from Heart of Darkness\" title=\"Quote from Heart of Darkness\" border=\"0\" width=\"500\" height=\"281\" />\n\nCame up in my Readwise Daily Review today. Hadn't realised that the phrase \n\n>We live, as we dream — alone\n\nwas Conrad's. I did know it from the [Gang of Four](https://en.wikipedia.org/wiki/Gang_of_Four_(band)) song  🎵 📚\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/775/2022/319d0960d0.png\" alt=\"Quote from Heart of Darkness\" title=\"Quote from Heart of Darkness\" border=\"0\" width=\"500\" height=\"281\" />\n\nCame up in my Readwise Daily Review today. Hadn't realised that the phrase \n\n>We live, as we dream — alone\n\nwas Conrad's. I did know it from the [Gang of Four](https://en.wikipedia.org/wiki/Gang_of_Four_(band)) song  🎵 📚\n",
 				"date_published": "2022-12-31T13:30:17+00:00",
 				"url": "https://thedimpau.se/2022/12/31/came-up-in.html",
 				"tags": ["Photography","Books","Music"]
@@ -26994,6 +27051,15 @@
 				"date_published": "2010-01-04T00:00:00+00:00",
 				"url": "https://thedimpau.se/2010/01/04/t7383509518.html",
 				"tags": ["Games"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2009/12/29/t7167859418.html",
+				
+				"content_html": "<p>Curb Your Enthusiasm: The Complete Seventh Season DVD ~ Larry David <a href=\"http://amzn.com/B002OOWKSA\">http://amzn.com/B002OOWKSA</a> - need this on UK Amazon :(</p>\n",
+				"content_text": "Curb Your Enthusiasm: The Complete Seventh Season DVD ~ Larry David [http://amzn.com/B002OOWKSA](http://amzn.com/B002OOWKSA) - need this on UK Amazon :(\n",
+				"date_published": "2009-12-29T00:00:00+00:00",
+				"url": "https://thedimpau.se/2009/12/29/t7167859418.html",
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2009/12/21/t6888752300.html",
