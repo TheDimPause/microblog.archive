@@ -7,18 +7,116 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/04/17/got-to-bristol.html",
+				
+				"content_html": "<p>Got to Bristol Airport early (as usual), through security then had notification that flight to Lisbon delayed by an hour and a half. We ordered a bottle of Prosecco. New notification that delay is now only going to be half an hour 🫤 ✈️</p>\n<p>Still plenty of time though!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got to Bristol Airport early (as usual), through security then had notification that flight to Lisbon delayed by an hour and a half. We ordered a bottle of Prosecco. New notification that delay is now only going to be half an hour 🫤 ✈️ \n\nStill plenty of time though!\n\n<img src=\"uploads/2023/0626accb9e.jpg\" width=\"600\" alt=\"Seated man pouring glass of Prosecco\" />\n\n\n\n",
+				"date_published": "2023-04-17T13:37:43+01:00",
+				"url": "https://thedimpau.se/2023/04/17/got-to-bristol.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/16/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.456632,-2.595985&amp;ll=51.456632,-2.595985\">Location</a> check in 🗺 — Hotel du Vin &amp; Bistro, Bristol City Centre</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.456632,-2.595985&ll=51.456632,-2.595985) check in 🗺 — Hotel du Vin & Bistro, Bristol City Centre\n",
+				"date_published": "2023-04-16T15:12:32+01:00",
+				"url": "https://thedimpau.se/2023/04/16/location-check-in.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/16/travelling-from-london.html",
+				
+				"content_html": "<p>🛣️  Travelling from London to Bristol</p>\n",
+				"content_text": "🛣️  Travelling from London to Bristol\n",
+				"date_published": "2023-04-16T13:36:30+01:00",
+				"url": "https://thedimpau.se/2023/04/16/travelling-from-london.html"
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/16/predinner-cocktails-outside.html",
+				
+				"content_html": "<p>Pre-dinner cocktails outside Shiro Japanese restaurant last night. Food later was stunning. Celebrating my daughter’s birthday yesterday, mine tomorrow 🎉</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pre-dinner cocktails outside Shiro Japanese restaurant last night. Food later was stunning. Celebrating my daughter’s birthday yesterday, mine tomorrow 🎉 \n\n<img src=\"uploads/2023/c4bf68963a.jpg\" width=\"600\" height=\"600\" alt=\"Five people sitting around table drinking cocktails\" />\n",
+				"date_published": "2023-04-16T10:43:18+01:00",
+				"url": "https://thedimpau.se/2023/04/16/predinner-cocktails-outside.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/16/my-top-lastfm.html",
+				
+				"content_html": "<p>♫ My Top 5 #lastfm artists: Lankum (28), Dry Cleaning (26), Jean Ritchie (16), Tom Rosenthal (8) &amp; Gordon Bok (1) via @tweeklyfm</p>\n",
+				"content_text": "♫ My Top 5 #lastfm artists: Lankum (28), Dry Cleaning (26), Jean Ritchie (16), Tom Rosenthal (8) &amp; Gordon Bok (1) via @tweeklyfm\n",
+				"date_published": "2023-04-16T08:03:14+01:00",
+				"url": "https://thedimpau.se/2023/04/16/my-top-lastfm.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/15/180311.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.518507,-0.083643&amp;ll=51.518507,-0.083643\">Location</a> check in 🗺 — Shiro Japanese Restaurant</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.518507,-0.083643&ll=51.518507,-0.083643) check in 🗺 — Shiro Japanese Restaurant \n",
+				"date_published": "2023-04-15T18:03:11+01:00",
+				"url": "https://thedimpau.se/2023/04/15/180311.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/15/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.520116,-0.075745&amp;ll=51.520116,-0.075745\">Location</a> check in 🗺 — Merchant &amp; Weaver, Old Spitalfields Market, Salt Jute IPA 🍺</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.520116,-0.075745&ll=51.520116,-0.075745) check in 🗺 — Merchant & Weaver, Old Spitalfields Market, Salt Jute IPA 🍺 \n",
+				"date_published": "2023-04-15T15:23:27+01:00",
+				"url": "https://thedimpau.se/2023/04/15/location-check-in.html",
+				"tags": ["Location","Beer"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/15/crossing-the-severn.html",
+				
+				"content_html": "<p>Crossing the Severn</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Crossing the Severn\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/b062305b40.jpg\" width=\"600\" height=\"600\" alt=\"Suspension bridge from the road\" />\n",
+				"date_published": "2023-04-15T08:59:32+01:00",
+				"url": "https://thedimpau.se/2023/04/15/crossing-the-severn.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/15/departing-for-a.html",
+				
+				"content_html": "<p>🧳  Departing for a week of travels</p>\n",
+				"content_text": "🧳  Departing for a week of travels\n",
+				"date_published": "2023-04-15T07:41:26+01:00",
+				"url": "https://thedimpau.se/2023/04/15/departing-for-a.html"
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/14/importing-my-twitter.html",
+				
+				"content_html": "<p>🦤 Importing my Twitter archive into my Micro.blog</p>\n",
+				"content_text": "🦤 Importing my Twitter archive into my Micro.blog\n",
+				"date_published": "2023-04-14T10:06:33+01:00",
+				"url": "https://thedimpau.se/2023/04/14/importing-my-twitter.html",
+				"tags": ["CompTechSci","Status"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/13/magnolia-on-a.html",
+				
+				"content_html": "<p>Magnolia on a morning walk</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Magnolia on a morning walk\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/762e3c932a.jpg\" alt=\"Flowering magnolia tree above a stone wall with painted wooden door\" title=\"magnolia.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2023-04-13T10:39:27+01:00",
+				"url": "https://thedimpau.se/2023/04/13/magnolia-on-a.html",
+				"tags": ["Photography"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/04/12/ive-certainly-been.html",
 				
 				"content_html": "<p>I&rsquo;ve certainly been enjoying the Spring weather in the garden this morning 😖</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "I've certainly been enjoying the Spring weather in the garden this morning 😖\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://thedimpau.se/uploads/2023/1e7067da63.mov\" width=\"360\" height=\"640\" poster=\"https://thedimpau.se/uploads/2023/0adc69cb09.png\" preload=\"none\"></video>\n",
+				"content_text": "I've certainly been enjoying the Spring weather in the garden this morning 😖\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2023/1e7067da63.mov\" width=\"360\" height=\"640\" poster=\"https://thedimpau.se/uploads/2023/0adc69cb09.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-04-12T13:07:55+01:00",
-				"url": "https://thedimpau.se/2023/04/12/ive-certainly-been.html"
+				"url": "https://thedimpau.se/2023/04/12/ive-certainly-been.html",
+				"tags": ["Video"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/04/11/visited-lamphey-pembrokeshire.html",
 				
 				"content_html": "<p>Visited Lamphey, Pembrokeshire for lunch yesterday and included a short detour to the (in parts) medieval St Tyfai’s Church in which I got married nearly 27 years ago:</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>and the nearest beach, Freshwater East:</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>Didn&rsquo;t stay long, it was a very windy day 🙂</p>\n",
-				"content_text": "Visited Lamphey, Pembrokeshire for lunch yesterday and included a short detour to the (in parts) medieval St Tyfai’s Church in which I got married nearly 27 years ago:\n\n<img src=\"uploads/2023/618ef2345f.jpg\" alt=\"Three people walking through church gate towards a stone church tower\" title=\"lampheychurch1.jpeg\" border=\"0\" width=\"600\" height=\"900\" />\n\n<img src=\"uploads/2023/063c634d52.jpg\" alt=\"Stone churc with square tower, graveyard in foreground\" title=\"lampheychurch2.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\n<img src=\"uploads/2023/de6d78101e.jpg\" alt=\"Stone church with square tower viewd from a road\" title=\"lampheychurch3.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\nand the nearest beach, Freshwater East:\n\n<img src=\"uploads/2023/de7ba2e636.jpg\" alt=\"Almost deserted beach, tide out, expanse of stony sand and cloudy blue sky\" title=\"freshwatereast1.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\n<img src=\"uploads/2023/65ebdbe8bb.jpg\" alt=\"Four people looking windswept on a beach\" title=\"freshwatereast2.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\nDidn't stay long, it was a very windy day 🙂\n",
+				"content_text": "Visited Lamphey, Pembrokeshire for lunch yesterday and included a short detour to the (in parts) medieval St Tyfai’s Church in which I got married nearly 27 years ago:\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/618ef2345f.jpg\" alt=\"Three people walking through church gate towards a stone church tower\" title=\"lampheychurch1.jpeg\" border=\"0\" width=\"600\" height=\"900\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/063c634d52.jpg\" alt=\"Stone churc with square tower, graveyard in foreground\" title=\"lampheychurch2.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/de6d78101e.jpg\" alt=\"Stone church with square tower viewd from a road\" title=\"lampheychurch3.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\nand the nearest beach, Freshwater East:\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/de7ba2e636.jpg\" alt=\"Almost deserted beach, tide out, expanse of stony sand and cloudy blue sky\" title=\"freshwatereast1.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/65ebdbe8bb.jpg\" alt=\"Four people looking windswept on a beach\" title=\"freshwatereast2.jpeg\" border=\"0\" width=\"600\" height=\"400\" />\n\nDidn't stay long, it was a very windy day 🙂\n",
 				"date_published": "2023-04-11T09:05:57+01:00",
 				"url": "https://thedimpau.se/2023/04/11/visited-lamphey-pembrokeshire.html",
 				"tags": ["Photography"]
@@ -47,13 +145,14 @@
 				"content_html": "<p>🕰️ 04:01 Playing darts</p>\n",
 				"content_text": "🕰️ 04:01 Playing darts\n",
 				"date_published": "2023-04-09T04:11:16+01:00",
-				"url": "https://thedimpau.se/2023/04/09/playing-darts.html"
+				"url": "https://thedimpau.se/2023/04/09/playing-darts.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/04/08/walls-on-a.html",
 				
 				"content_html": "<p>Walls on a walk. Hoping the first has got something to do with Easter, otherwise it&rsquo;s just plain weird 🥚</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walls on a walk. Hoping the first has got something to do with Easter, otherwise it's just plain weird 🥚\n\n<img src=\"uploads/2023/45f5561ae5.jpg\" alt=\"Three eggs secreted in the gaps in a brick wall\" title=\"HMOriginal-2C2952FE-743E-4F4D-B348-2DD80D09A419.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/3821647de9.jpg\" alt=\"Graffiti on a brick wall reading we was er\" title=\"HMOriginal-0854AF66-EE12-4E61-8FB5-7D090A6CA3F1.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
+				"content_text": "Walls on a walk. Hoping the first has got something to do with Easter, otherwise it's just plain weird 🥚\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/45f5561ae5.jpg\" alt=\"Three eggs secreted in the gaps in a brick wall\" title=\"HMOriginal-2C2952FE-743E-4F4D-B348-2DD80D09A419.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/3821647de9.jpg\" alt=\"Graffiti on a brick wall reading we was er\" title=\"HMOriginal-0854AF66-EE12-4E61-8FB5-7D090A6CA3F1.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2023-04-08T14:35:03+01:00",
 				"url": "https://thedimpau.se/2023/04/08/walls-on-a.html",
 				"tags": ["Photography"]
@@ -4234,7 +4333,8 @@
 				"content_html": "<p>A little Thasos rain this morning 🌧</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "A little Thasos rain this morning 🌧 \n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2022/60c3133b8b.mov\" width=\"640\" height=\"360\" poster=\"https://thedimpau.se/uploads/2022/84a40527bb.png\" preload=\"none\"></video>\n",
 				"date_published": "2022-07-08T09:12:45+01:00",
-				"url": "https://thedimpau.se/2022/07/08/a-little-thasos.html"
+				"url": "https://thedimpau.se/2022/07/08/a-little-thasos.html",
+				"tags": ["Video"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2022/07/07/beach-stroll-after.html",
@@ -8218,7 +8318,7 @@
 				"content_text": "Walking around Manorbier beach yesterday morning we encountered this ridiculously confident robin. This was filmed from about 3 feet away with standard iPhone camera! 🐦\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2021/dda1a50b00.mov\" width=\"360\" height=\"640\" poster=\"https://thedimpau.se/uploads/2021/661c7fcfbd.png\" preload=\"none\"></video>\n",
 				"date_published": "2021-09-18T16:40:37+01:00",
 				"url": "https://thedimpau.se/2021/09/18/walking-around-manorbier.html",
-				"tags": ["Photography","Walking"]
+				"tags": ["Walking","Video"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/09/18/rum-fizz-check.html",
@@ -8888,10 +8988,10 @@
 				"id": "http://TheDimPause.micro.blog/2021/08/14/first-time-ive.html",
 				
 				"content_html": "<p>First time I&rsquo;ve noticed an animated album cover in Apple Music 🎵</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First time I've noticed an animated album cover in Apple Music 🎵\n\n\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2021/742ab16640.mov\" width=\"640\" height=\"382\" poster=\"https://thedimpau.se/uploads/2021/09c8c09a7c.png\" preload=\"none\"></video>\n",
+				"content_text": "First time I've noticed an animated album cover in Apple Music 🎵\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2021/742ab16640.mov\" width=\"640\" height=\"382\" poster=\"https://thedimpau.se/uploads/2021/09c8c09a7c.png\" preload=\"none\"></video>\n",
 				"date_published": "2021-08-14T10:01:18+01:00",
 				"url": "https://thedimpau.se/2021/08/14/first-time-ive.html",
-				"tags": ["Music"]
+				"tags": ["Music","Video"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/08/13/the-women-redefining.html",
@@ -10627,7 +10727,7 @@
 				"content_text": "Morning birdsong 🎵 \n\nRecorded Werfa, Aberdare at 10:16am on Tuesday, 2nd March 2021 \n\n<audio controls=\"controls\" src=\"https://micro.blog/pages/downloads/775/1275068/369969.mp3\" preload=\"metadata\" />\n",
 				"date_published": "2021-03-02T11:28:52+01:00",
 				"url": "https://thedimpau.se/2021/03/02/morning-birdsong.html",
-				"tags": ["Music"]
+				"tags": ["Audio"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/02/28/coffee-in-the.html",
