@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/05/02/pub-reading.html",
+				
+				"content_html": "<p>Pub reading 🍺📚</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pub reading 🍺📚\n\n<img src=\"uploads/2023/ce09d24f60.jpg\" width=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-02T17:34:37+01:00",
+				"url": "https://thedimpau.se/2023/05/02/pub-reading.html",
+				"tags": ["Photography","Books","Beer"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/02/153524.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"uploads/2023/92ed6cdc65.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-05-02T15:35:24+01:00",
+				"url": "https://thedimpau.se/2023/05/02/153524.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/02/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.713593,-3.446830&amp;ll=51.713593,-3.446830\">Location</a> check in 🗺 — new venue – The Vegan Coffi House, Aberdare for coffee, crisps and cake ☕️</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.713593,-3.446830&ll=51.713593,-3.446830) check in 🗺 — new venue – The Vegan Coffi House, Aberdare for coffee, crisps and cake ☕️ \n",
+				"date_published": "2023-05-02T15:34:22+01:00",
+				"url": "https://thedimpau.se/2023/05/02/location-check-in.html",
+				"tags": ["Location","Coffee"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/02/had-it-all.html",
+				
+				"content_html": "<p>Had it all this morning - instant coffee followed by a double espresso and now a drip filter coffee ☕️</p>\n<p>I’m awake.</p>\n",
+				"content_text": "Had it all this morning - instant coffee followed by a double espresso and now a drip filter coffee ☕️\n\nI’m awake.\n",
+				"date_published": "2023-05-02T08:16:19+01:00",
+				"url": "https://thedimpau.se/2023/05/02/had-it-all.html",
+				"tags": ["Coffee"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/01/drinking-a-belgian.html",
+				
+				"content_html": "<p>Drinking a Belgian beer watching a Belgian (Luca Brecel) play stunning snooker 🎱🍺</p>\n",
+				"content_text": "Drinking a Belgian beer watching a Belgian (Luca Brecel) play stunning snooker 🎱🍺 \n\n",
+				"date_published": "2023-05-01T14:18:09+01:00",
+				"url": "https://thedimpau.se/2023/05/01/drinking-a-belgian.html",
+				"tags": ["Beer"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/01/085310.html",
+				
+				"content_html": "<p>🐈</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐈\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/5cbdff132c.jpg\" alt=\"19224CC6 73C1 4FB0 AB76 0711FE896EEF\" title=\"19224CC6-73C1-4FB0-AB76-0711FE896EEF.jpeg\" border=\"0\" width=\"600\" height=\"800\" />\n",
+				"date_published": "2023-05-01T08:53:10+01:00",
+				"url": "https://thedimpau.se/2023/05/01/085310.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/30/my-top-lastfm.html",
+				
+				"content_html": "<p>♫ My Top 5 #lastfm artists: The Beatles (29), Lou Reed (26), Steve Mason (12), Lou Reed &amp; Antony (1) &amp; Lou Reed &amp; David Bowie (1) via @tweeklyfm</p>\n",
+				"content_text": "♫ My Top 5 #lastfm artists: The Beatles (29), Lou Reed (26), Steve Mason (12), Lou Reed &amp; Antony (1) &amp; Lou Reed &amp; David Bowie (1) via @tweeklyfm\n",
+				"date_published": "2023-04-30T08:04:46+01:00",
+				"url": "https://thedimpau.se/2023/04/30/my-top-lastfm.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/04/29/havent-really-watched.html",
+				
+				"content_html": "<p>🎱 Haven’t really watched snooker since the Steve Davis era of the 1980s but am finding this year’s World Championship semi-finals quite gripping.</p>\n",
+				"content_text": "🎱 Haven’t really watched snooker since the Steve Davis era of the 1980s but am finding this year’s World Championship semi-finals quite gripping.\n",
+				"date_published": "2023-04-29T14:36:37+01:00",
+				"url": "https://thedimpau.se/2023/04/29/havent-really-watched.html",
+				"tags": ["Status"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/04/26/looks-like-we.html",
 				
 				"content_html": "<p>Looks like we won’t be seeing any sun or blue skies for the next ten days of April/May 😞 ☁️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Looks like we won’t be seeing any sun or blue skies for the next ten days of April/May 😞 ☁️ \n\n<img src=\"uploads/2023/4b2b9620ee.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Looks like we won’t be seeing any sun or blue skies for the next ten days of April/May 😞 ☁️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/4b2b9620ee.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-26T07:20:48+01:00",
 				"url": "https://thedimpau.se/2023/04/26/looks-like-we.html",
 				"tags": ["Weather"]
@@ -454,7 +526,7 @@
 				"content_text": "I've certainly been enjoying the Spring weather in the garden this morning 😖\n\n<video controls=\"controls\" playsinline=\"playsinline\" src=\"https://cdn.uploads.micro.blog/775/2023/1e7067da63.mov\" width=\"360\" height=\"640\" poster=\"https://thedimpau.se/uploads/2023/0adc69cb09.png\" preload=\"none\"></video>\n",
 				"date_published": "2023-04-12T13:07:55+01:00",
 				"url": "https://thedimpau.se/2023/04/12/ive-certainly-been.html",
-				"tags": ["Video"]
+				"tags": ["Video","Weather"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/04/11/visited-lamphey-pembrokeshire.html",
@@ -1745,7 +1817,7 @@
 				"content_text": "Delighted to be able to repeat yesterday’s outdoor reading in the afternoon sun ☀️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/653eef1bc4.jpg\" width=\"600\" alt=\"Open book, cat and coffee, sunny garden in the background\" />\n\nTomorrow looks like the return of more typical February cloud ☁️ \n",
 				"date_published": "2023-02-09T14:55:51+01:00",
 				"url": "https://thedimpau.se/2023/02/09/delighted-to-be.html",
-				"tags": ["Photography","Coffee"]
+				"tags": ["Photography","Coffee","Weather"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/02/08/reading-in-the.html",
@@ -3563,7 +3635,7 @@
 				"content_text": "<div xmlns=\"http://www.w3.org/1999/xhtml\">\n\t\t\t\t<p>🔥 Weather is so good, have decided to BBQ in the garden.</p>\n\t\t\t</div>\n",
 				"date_published": "2022-10-08T14:26:09+01:00",
 				"url": "https://thedimpau.se/2022/10/08/weather-is-so.html",
-				"tags": ["Food"]
+				"tags": ["Food","Weather"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2022/10/08/just-discovered-why.html",
@@ -4112,7 +4184,7 @@
 				"content_text": "Greek Village Salad – Horiatiki Salata\n\nLooks like today is going to be the last hot day of our current spell of good weather. Cooler with rain tomorrow and Tuesday. So taking the chance to continue a week of al fresco dining in the garden 😊\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/0eb332666c.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-14T20:05:12+01:00",
 				"url": "https://thedimpau.se/2022/08/14/greek-village-salad.html",
-				"tags": ["Photography","Food"]
+				"tags": ["Photography","Food","Weather"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2022/08/14/my-top-weekly.html",
@@ -4139,7 +4211,7 @@
 				"content_text": "Shaded garden spots reserved for the next few days of hot weather.\n\nFor me:\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/668c4050b8.jpg\" width=\"600\" alt=\"\" />\n\nFor Duffy:\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/cabfc2c6b4.jpg\" width=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-10T16:26:03+01:00",
 				"url": "https://thedimpau.se/2022/08/10/shaded-garden-spots.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2022/08/08/went-to-my.html",
@@ -5533,7 +5605,7 @@
 				"content_text": "clouds — day 15 of the micro.blog may 2022 photoblogging challenge 📸\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/573deb5740.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"date_published": "2022-05-15T17:18:00+01:00",
 				"url": "https://thedimpau.se/2022/05/15/clouds-day-of.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2022/05/15/location-check-in.html",
@@ -6585,7 +6657,7 @@
 				"content_text": "Today I learned blue skies in St Ives do not mean good weather at Land’s End. It got very drizzly and misty.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/1de00458c0.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2022/d789fb497d.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"date_published": "2022-02-07T17:56:44+01:00",
 				"url": "https://thedimpau.se/2022/02/07/today-i-learned.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2022/02/07/farmers-arms-beer.html",
@@ -9272,7 +9344,7 @@
 				"content_text": "Off to [Green Man Festival](https://www.greenman.net) 2021 this morning. I've been going to this festival since 2008. The only years I've missed  were 2018 (holidaying elsewhere) and last year (because of the COVID-19 cancellation). Feels good to be going back now and seeing some live music - my first major event since the lockdowns.\n\nWhilst there I usually have absolutely no phone service/signal so, unless they've improved the network infrastructure in the last 2 years, I probably won't be making any online posts or photograph uploads. Although, sometimes, in the early hours of the morning when most other phones are off or not being used you can get some sort of data connection...\n\nThis year I will be taking a 'proper' camera for the first time rather than just a phone. I say 'proper' but it is a 14 year old [Pentax K100D](https://en.wikipedia.org/wiki/Pentax_K100D). Just have to wait and see what sort of photographs I can take with it - and if it survives the experience.\n\nNow just hoping the weather stays good.\n",
 				"date_published": "2021-08-19T07:14:18+01:00",
 				"url": "https://thedimpau.se/2021/08/19/green-man.html",
-				"tags": ["Music"]
+				"tags": ["Music","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/08/16/great-day-of.html",
@@ -10468,7 +10540,7 @@
 				"content_text": "Barbecued vegetables, pitta breads, hummus, taramasalata and sriracha sauce. Enjoying the good weather today because the forecast for tomorrow and Friday is heavy rain and strong winds.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/0eee198712.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"date_published": "2021-05-19T20:05:32+01:00",
 				"url": "https://thedimpau.se/2021/05/19/barbecued-vegetables-pitta.html",
-				"tags": ["Photography","Food"]
+				"tags": ["Photography","Food","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/05/19/breezy-morning-at.html",
@@ -10603,7 +10675,7 @@
 				"content_text": "In July 2011 my father-in-law built a treehouse for our children.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/ce99106bb9.jpg\" alt=\"Treehouse\" title=\"treehouse.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\n(Apologies for the quality of the photo - it was taken with an old Blackberry 9300 mobile phone)\n\nNow, nearly 10 years later, the children have long outgrown such things. Having a shed up in a tree wasn't too practical or convenient so (finally!) over the last couple of days I have dismantled, relocated and reconstructed it. \n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/1954cbad77.jpg\" alt=\"Shed in garden\" title=\"shed1.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/6ea03acbed.jpg\" alt=\"Shed in garden\" title=\"shed2.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nIt took me considerably longer to dismantle and get down from the tree than it did to rebuild.\n\nThe shed is still in fairly good condition but the next job is to paint it with a wood preserver. I also need to take advantage of the good weather over the next couple of days to build a roof where the shed used to be - we use the area that was underneath the treehouse for storing, drying and seasoning logs.\n",
 				"date_published": "2021-04-23T17:25:17+01:00",
 				"url": "https://thedimpau.se/2021/04/23/gardening-diary-rd.html",
-				"tags": ["Photography","Garden"]
+				"tags": ["Photography","Garden","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/04/21/currently-reading-medical.html",
@@ -11152,7 +11224,7 @@
 				"content_text": "[Micro.blog February Photoblogging Challenge](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 26: **favourite** — _August 2008. First time at my favourite music festival, the [Green Man Festival](https://www.greenman.net). Not my favourite weather. Not taken with with my favourite phone/camera, a 1.3 megapixel Vodafone 716._ 🎵📷\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/62b8630e17.jpg\" alt=\"Campervan and tent\" title=\"greenman11.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/e599325a9b.jpg\" alt=\"Me!\" title=\"greenman25.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/6c88a434f2.jpg\" alt=\"Main Stage\" title=\"greenman33.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/7e90c0e510.jpg\" alt=\"Muddy path\" title=\"greenman38.jpeg\" border=\"0\" width=\"597\" height=\"477\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/e1f4537510.jpg\" alt=\"Far Out Tent\" title=\"greenman51.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/f9baa1956b.jpg\" alt=\"Courtyard\" title=\"greenman53.jpeg\" border=\"0\" width=\"600\" height=\"480\" />\n",
 				"date_published": "2021-02-26T10:15:34+01:00",
 				"url": "https://thedimpau.se/2021/02/26/microblog-february-photoblogging.html",
-				"tags": ["Photography","Music"]
+				"tags": ["Photography","Music","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/02/25/england-bowled-out.html",
@@ -11215,7 +11287,7 @@
 				"content_text": "Gardening Diary 🌱 — 📅 24th February 2021 — Three wasabi plants I planted in May last year have exploded into activity. Wasn't expecting such vigorous growth and flowering so early in the year, especially after/during some very cold and wet weather.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/93e3060615.jpg\" alt=\"Wasabi plants\" title=\"wasabi1.jpeg\" border=\"0\" width=\"600\" height=\"800\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/816becbd80.jpg\" alt=\"Wasabi plant\" title=\"wasabi2.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/395e6c5ef0.jpg\" alt=\"Wasabi plant flower\" title=\"wasabi3.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2021-02-24T15:28:58+01:00",
 				"url": "https://thedimpau.se/2021/02/24/gardening-diary-th.html",
-				"tags": ["Photography","Garden"]
+				"tags": ["Photography","Garden","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/02/24/third-test-india.html",
@@ -11332,7 +11404,7 @@
 				"content_text": "[Micro.blog February Photoblogging Challenge](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 20: **weather** — _Crete, August 2016_ 📷\n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/74cd2eb023.jpg\" alt=\"Clouds and stormy sea on the coast\" title=\"weather.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2021-02-20T09:55:21+01:00",
 				"url": "https://thedimpau.se/2021/02/20/microblog-february-photoblogging.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/02/17/microblog-february-photoblogging.html",
@@ -11485,7 +11557,7 @@
 				"content_text": "[Micro.blog February Photoblogging Challenge](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 7: **craving** — _travel, eating out, warm weather_ 📷 \n\n<img src=\"https://cdn.uploads.micro.blog/775/2021/5c8e092fbf.jpg\" width=\"600\" height=\"451\" alt=\"\" />\n",
 				"date_published": "2021-02-07T20:00:00+01:00",
 				"url": "https://thedimpau.se/2021/02/07/microblog-february-photoblogging.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2021/02/07/my-top-weekly.html",
@@ -13519,7 +13591,7 @@
 				"content_text": "England v Pakistan first T20 match is underway at Old Trafford. Really surprised that the weather has stayed good enough - there was no hope for the Glamorgan v Worcestershire Rapids Vitality Blast T20 here last night. 🏏 \n",
 				"date_published": "2020-08-28T18:19:11+01:00",
 				"url": "https://thedimpau.se/2020/08/28/england-v-pakistan.html",
-				"tags": ["Cricket"]
+				"tags": ["Cricket","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/08/28/microblog-august-photoblogging.html",
@@ -13834,7 +13906,7 @@
 				"content_text": "The weather was a little unpredictable today ☔️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/8e38aeecc2.jpg\" width=\"3024.0\" height=\"3024.0\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
 				"date_published": "2020-08-13T17:11:59+01:00",
 				"url": "https://thedimpau.se/2020/08/13/the-weather-was.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/08/13/microblog-august-photoblogging.html",
@@ -14590,7 +14662,7 @@
 				"content_text": "After years of neglect we've been trying to improve and actually make use of the area of garden behind our house.  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/2fb7f87306.jpg\" alt=\"Overview\" title=\"overview.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\nI should really have taken some 'before' photographs but here are a few details in pictures of progress so far.  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/68b9c093fd.jpg\" alt=\"Sunterrace\" title=\"sunterrace.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Sun terrace_ 😀  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/2104e0d914.jpg\" alt=\"Oregano\" title=\"oregano.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Oregano bed and compost bin_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/215c512eb4.jpg\" alt=\"Thyme\" title=\"thyme.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Thyme planted in a rusty wheelbarrow!_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/a1c944f242.jpg\" alt=\"Raisedbeds\" title=\"raisedbeds.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Small raised beds cleared and dug over ready for planting_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/adca124261.jpg\" alt=\"Seeds\" title=\"seeds.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Greenhouse, which still definitely needs some repair, semi-tidied and an attempt at seed germination started - including basil, coriander, dill, rosemary, sage and tarragon_   \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/ccb015288b.jpg\" alt=\"Mint1\" title=\"mint1.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/9265d2b2b5.jpg\" alt=\"Mint2\" title=\"mint2.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Rampant mint alongside the greenhouse_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/9c3b0df785.jpg\" alt=\"Chivesbay\" title=\"chivesbay.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Chives and bay in two of the raised beds_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/b942402010.jpg\" alt=\"Garage\" title=\"garage.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Garage newly painted and starting to get some decoration_  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/9ebad07213.jpg\" alt=\"Buttercups\" title=\"buttercups.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n_Buttercups flourishing alongside the garage_  \n\nMeanwhile, for some rest and relaxation time, at the front of the house the weather has now been good enough to string up the hammock.  \n\n<img src=\"https://cdn.uploads.micro.blog/775/2020/48b21c445b.jpg\" alt=\"Hammock\" title=\"hammock.jpg\" border=\"0\" width=\"600\" height=\"600\" />\n\n\n\n\n\n\n",
 				"date_published": "2020-05-25T08:10:25+01:00",
 				"url": "https://thedimpau.se/2020/05/25/gardening-diary-th.html",
-				"tags": ["Photography","Garden"]
+				"tags": ["Photography","Garden","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/05/24/my-top-weekly.html",
@@ -14815,7 +14887,7 @@
 				"content_text": "Currently reading: [We Are the Weather: Saving the Planet Begins at Breakfast](https://amzn.to/2RNBTq1) by Jonathan Safran Foer 📚\n",
 				"date_published": "2020-04-17T16:18:13+01:00",
 				"url": "https://thedimpau.se/2020/04/17/currently-reading-we.html",
-				"tags": ["Books"]
+				"tags": ["Books","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/04/16/easy-as-chefs.html",
@@ -15355,7 +15427,7 @@
 				"content_text": "Las Iguanas. Check in 🗺 - \ncocktails, wine and bar snacks in Cardiff Bay. Weather is gorgeous. ☀️\n\n<img src=\"https://fastly.4sqi.net/img/general/original/76497711_be-NGHXu7yutfJN7TN2AviEig5cWgRLPE_Dyjg2vb1w.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-02-27T17:11:29+01:00",
 				"url": "https://thedimpau.se/2020/02/27/las-iguanas-check.html",
-				"tags": ["Photography","Location"]
+				"tags": ["Photography","Location","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2020/02/27/hotel-indigo-cardiff.html",
@@ -16921,7 +16993,7 @@
 				"content_text": "England beat New Zealand in the 4th T20 match to level the series 2-2. Good to see an outstanding performance from England after a couple of defeats. Deciding match is at Eden Park, Auckland on Sunday - but from what I've heard the weather forecast is not good :( 🏏\n",
 				"date_published": "2019-11-08T09:19:48+01:00",
 				"url": "https://thedimpau.se/2019/11/08/england-beat-new.html",
-				"tags": ["Cricket"]
+				"tags": ["Cricket","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2019/11/08/evening-t-match.html",
@@ -20458,7 +20530,7 @@
 				"content_text": "Delayed restart – view from opposite side of the stadium – Michael Hogan bowling to Aaron Finch – weather not good 🏏\n\n<img src=\"https://cdn.uploads.micro.blog/775/2018/17d428cf6a.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-08-17T20:40:10+01:00",
 				"url": "https://thedimpau.se/2018/08/17/delayed-restart-view.html",
-				"tags": ["Photography","Cricket"]
+				"tags": ["Photography","Cricket","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2018/08/17/interval-but-covers.html",
@@ -21430,7 +21502,7 @@
 				"content_text": "Weather has been good for a couple of days so I walked home from work for the first time this year.\n\n<a href=\"https://cdn.uploads.micro.blog/775/2018/24c436137c.jpg\"><img src=\"https://cdn.uploads.micro.blog/775/2018/24c436137c.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://cdn.uploads.micro.blog/775/2018/573568ab31.jpg\"><img src=\"https://cdn.uploads.micro.blog/775/2018/573568ab31.jpg\" width=\"600\" height=\"802\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://cdn.uploads.micro.blog/775/2018/53be9e2f6e.jpg\"><img src=\"https://cdn.uploads.micro.blog/775/2018/53be9e2f6e.jpg\" width=\"600\" height=\"1068\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n\n",
 				"date_published": "2018-04-20T18:55:37+01:00",
 				"url": "https://thedimpau.se/2018/04/20/175537.html",
-				"tags": ["Photography","Walking"]
+				"tags": ["Photography","Walking","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2018/04/20/093450.html",
@@ -22239,7 +22311,7 @@
 				"content_text": "\n<a href=\"https://cdn.uploads.micro.blog/775/2018/a7577b0b47.jpg\"><img src=\"https://cdn.uploads.micro.blog/775/2018/a7577b0b47.jpg\" width=\"600\" height=\"449\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nReally enjoyed England vs Wales 🏉 today. Result for England was just about deserved, Jonny May was superb, but weather was atrocious!\n",
 				"date_published": "2018-02-10T23:23:12+01:00",
 				"url": "https://thedimpau.se/2018/02/10/really-enjoyed-england.html",
-				"tags": ["Photography","Rugby"]
+				"tags": ["Photography","Rugby","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2018/02/10/130925.html",
@@ -22509,7 +22581,7 @@
 				"content_text": "Not quite the weather for a BBQ, but planning to charcoal grill some sea bass on our balcony. May end in disaster!\n\n<img src=\"https://cdn.uploads.micro.blog/775/2018/a37752bc01.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2018-01-14T16:38:23+01:00",
 				"url": "https://thedimpau.se/2018/01/14/not-quite-the.html",
-				"tags": ["Photography","Food"]
+				"tags": ["Photography","Food","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2018/01/10/whats-not-to.html",
@@ -23589,7 +23661,7 @@
 				"content_text": "October, but great weather, so I’m barbecuing a mackerel \n\n<img src=\"https://cdn.uploads.micro.blog/775/2017/552d31ac7f.jpg\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2017-10-08T17:27:40+01:00",
 				"url": "https://thedimpau.se/2017/10/08/october-but-great.html",
-				"tags": ["Photography","Food"]
+				"tags": ["Photography","Food","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/10/08/144346.html",
@@ -26895,6 +26967,15 @@
 				"tags": ["Food"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2014/05/17/t467616809710256128.html",
+				
+				"content_html": "<p>Glorious weather, I’m at Terra Nova! Give It Some Welly #beer <a href=\"http://t.co/tGgPC1UJKg\">http://t.co/tGgPC1UJKg</a></p>\n",
+				"content_text": "Glorious weather, I’m at Terra Nova! Give It Some Welly #beer [http://t.co/tGgPC1UJKg](http://t.co/tGgPC1UJKg)\n",
+				"date_published": "2014-05-17T11:45:10+01:00",
+				"url": "https://thedimpau.se/2014/05/17/t467616809710256128.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2014/05/13/t466108495885271040.html",
 				
 				"content_html": "<p>…time, like money, is measured by our needs. #qotd</p>\n",
@@ -27045,7 +27126,7 @@
 				"content_text": "<p><a href=\"https://cdn.uploads.micro.blog/775/2017/1579d069cb.jpg\"><img src=\"https://cdn.uploads.micro.blog/775/2017/1579d069cb.jpg\" alt=\"\" style=\"max-width:100%;\"></a></p><p></p>\n",
 				"date_published": "2014-03-22T16:42:36+01:00",
 				"url": "https://thedimpau.se/2014/03/22/clouds-over-aberdare.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2014/03/09/nests.html",
@@ -27342,7 +27423,7 @@
 				"content_text": "<img src='https://cdn.uploads.micro.blog/775/2017/55212758f9.jpg'>\n                    <br>\n                    <p>\n                    Dreadful weather crossing the Severn Bridge\n                    </p>\n",
 				"date_published": "2013-09-15T16:09:19+01:00",
 				"url": "https://thedimpau.se/2013/09/15/severn-bridge.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2013/09/15/pint-of-bullshit.html",
@@ -27650,6 +27731,15 @@
 				"url": "https://thedimpau.se/2013/07/25/t360445022514069504.html"
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2013/07/15/t356816235628994561.html",
+				
+				"content_html": "<p>@valleyboi1 It&rsquo;s not such fun on foot in this weather either!</p>\n",
+				"content_text": "@valleyboi1 It's not such fun on foot in this weather either!\n",
+				"date_published": "2013-07-15T17:43:14+01:00",
+				"url": "https://thedimpau.se/2013/07/15/t356816235628994561.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2013/07/15/t356810143310159873.html",
 				
 				"content_html": "<p>No cricket, no tennis, no rugby, so #Pointless #adn</p>\n",
@@ -27693,6 +27783,15 @@
 				"date_published": "2013-07-13T12:59:12+01:00",
 				"url": "https://thedimpau.se/2013/07/13/t356019980086681600.html",
 				"tags": ["Garden"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2013/07/11/t355356981676097539.html",
+				
+				"content_html": "<p>Today is the first time I&rsquo;ve ever seen a group of people swimming in the River Cynon. Suppose it must be the weather, but I wouldn&rsquo;t fanc&hellip;</p>\n",
+				"content_text": "Today is the first time I've ever seen a group of people swimming in the River Cynon. Suppose it must be the weather, but I wouldn't fanc...\n",
+				"date_published": "2013-07-11T17:04:41+01:00",
+				"url": "https://thedimpau.se/2013/07/11/t355356981676097539.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2013/07/06/t353594083614269443.html",
@@ -27747,6 +27846,15 @@
 				"date_published": "2013-03-22T21:03:09+01:00",
 				"url": "https://thedimpau.se/2013/03/22/t315191941094580225.html",
 				"tags": ["Food"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2013/03/18/t313685269356371969.html",
+				
+				"content_html": "<p>Just bought our Green Man Festival 2013 tickets. Please, please @GreenManFest - sort the weather out this year - druids don&rsquo;t seem to be&hellip;</p>\n",
+				"content_text": "Just bought our Green Man Festival 2013 tickets. Please, please @GreenManFest - sort the weather out this year - druids don't seem to be...\n",
+				"date_published": "2013-03-18T17:16:10+01:00",
+				"url": "https://thedimpau.se/2013/03/18/t313685269356371969.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2013/03/16/t313038184835592193.html",
@@ -27812,6 +27920,15 @@
 				"tags": ["Garden"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2012/09/02/t242332656812036096.html",
+				
+				"content_html": "<p>Determined to have first and last #bbq of the summer holidays this evening&hellip;whatever the weather! <a href=\"http://t.co/lBMoBy7G\">http://t.co/lBMoBy7G</a></p>\n",
+				"content_text": "Determined to have first and last #bbq of the summer holidays this evening...whatever the weather! [http://t.co/lBMoBy7G](http://t.co/lBMoBy7G)\n",
+				"date_published": "2012-09-02T19:46:22+01:00",
+				"url": "https://thedimpau.se/2012/09/02/t242332656812036096.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2012/08/22/t238380156794834945.html",
 				
 				"content_html": "<p>&ldquo;Well and what&rsquo;s cheese? Corpse of milk.&rdquo; #qotd</p>\n",
@@ -27837,6 +27954,15 @@
 				"date_published": "2012-07-26T20:14:46+01:00",
 				"url": "https://thedimpau.se/2012/07/26/t228569065336233985.html",
 				"tags": ["Wine"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2012/06/28/t218223980006490112.html",
+				
+				"content_html": "<p>&hellip;but getting darker and darker as I walk to the station - think it&rsquo;s going to pour down. Lovely June weather!</p>\n",
+				"content_text": "...but getting darker and darker as I walk to the station - think it's going to pour down. Lovely June weather!\n",
+				"date_published": "2012-06-28T07:07:05+01:00",
+				"url": "https://thedimpau.se/2012/06/28/t218223980006490112.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2012/06/27/t218082264121229312.html",
@@ -28082,6 +28208,15 @@
 				"tags": ["Photography","Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2011/11/05/t132778620895756288.html",
+				
+				"content_html": "<p>Looking like fantastic weather for a Guy Fawkes Night!</p>\n",
+				"content_text": "Looking like fantastic weather for a Guy Fawkes Night!\n",
+				"date_published": "2011-11-05T12:17:44+01:00",
+				"url": "https://thedimpau.se/2011/11/05/t132778620895756288.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2011/10/31/t131072599420710912.html",
 				
 				"content_html": "<p>Julian Cope at The Globe, Cardiff on Saturday night. <a href=\"http://t.co/iDa4lqMU\">http://t.co/iDa4lqMU</a></p>\n<!-- raw HTML omitted -->\n",
@@ -28226,6 +28361,24 @@
 				"tags": ["Food"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2011/06/25/t84670120898740224.html",
+				
+				"content_html": "<p>My Top 3 #lastfm Artists: The Kills (11), The Dead Weather (11) &amp; Leonard Cohen (8) <a href=\"http://bit.ly/a3avhL\">http://bit.ly/a3avhL</a></p>\n",
+				"content_text": "My Top 3 #lastfm Artists: The Kills (11), The Dead Weather (11) & Leonard Cohen (8) [http://bit.ly/a3avhL](http://bit.ly/a3avhL)\n",
+				"date_published": "2011-06-25T18:11:44+01:00",
+				"url": "https://thedimpau.se/2011/06/25/t84670120898740224.html",
+				"tags": ["Weather"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2011/06/04/t77017645437812736.html",
+				
+				"content_html": "<p>BBQ weather! <a href=\"http://lockerz.com/s/107626352\">http://lockerz.com/s/107626352</a></p>\n",
+				"content_text": "BBQ weather! [http://lockerz.com/s/107626352](http://lockerz.com/s/107626352)\n",
+				"date_published": "2011-06-04T15:23:32+01:00",
+				"url": "https://thedimpau.se/2011/06/04/t77017645437812736.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2011/05/31/t75565917546872832.html",
 				
 				"content_html": "<p>Toilet humour still prevalent ;) <a href=\"http://twitpic.com/551xom\">http://twitpic.com/551xom</a></p>\n<!-- raw HTML omitted -->\n",
@@ -28316,6 +28469,15 @@
 				"tags": ["Walking"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2011/03/19/t49106723595759617.html",
+				
+				"content_html": "<p>Pendine, United Kingdom, Clear 10° #berryweather <a href=\"http://tinyurl.com/5t5rao8\">http://tinyurl.com/5t5rao8</a></p>\n",
+				"content_text": "Pendine, United Kingdom, Clear 10° #berryweather [http://tinyurl.com/5t5rao8](http://tinyurl.com/5t5rao8)\n",
+				"date_published": "2011-03-19T14:55:29+01:00",
+				"url": "https://thedimpau.se/2011/03/19/t49106723595759617.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2011/03/19/t49098994848251904.html",
 				
 				"content_html": "<p>Dylan Thomas' writing shed and boat house - better pictures will be uploaded to <a href=\"http://flickr.com/ianam\">http://flickr.com/ianam</a> soon! <a href=\"http://plixi.com/p/85193068\">http://plixi.com/p/85193068</a></p>\n",
@@ -28350,6 +28512,15 @@
 				"date_published": "2011-02-19T18:16:09+01:00",
 				"url": "https://thedimpau.se/2011/02/19/t39010360740691969.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2011/02/06/t34300248390250496.html",
+				
+				"content_html": "<p>Weather turned absolutely atrocious as soon as we&rsquo;ve come past Abergavenny on the way home from Birmingham :(</p>\n",
+				"content_text": "Weather turned absolutely atrocious as soon as we've come past Abergavenny on the way home from Birmingham :(\n",
+				"date_published": "2011-02-06T18:19:51+01:00",
+				"url": "https://thedimpau.se/2011/02/06/t34300248390250496.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2010/12/22/t17612501990514688.html",
@@ -28397,6 +28568,15 @@
 				"tags": ["Wine"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2010/11/26/t8219011456180224.html",
+				
+				"content_html": "<p>Steak and kidney pie, mash and peas - ideal meal for snowy weather!</p>\n",
+				"content_text": "Steak and kidney pie, mash and peas - ideal meal for snowy weather!\n",
+				"date_published": "2010-11-26T19:02:19+01:00",
+				"url": "https://thedimpau.se/2010/11/26/t8219011456180224.html",
+				"tags": ["Weather"]
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2010/11/26/t8186606364135425.html",
 				
 				"content_html": "<p>Lagedor is playing Call of Duty Black Ops: Call of Duty Black Ops - score: 40 of 1000, achievements: 4 of 50</p>\n",
@@ -28440,6 +28620,15 @@
 				"date_published": "2010-11-13T18:24:12+01:00",
 				"url": "https://thedimpau.se/2010/11/13/t3498377656410112.html",
 				"tags": ["Food"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2010/11/05/t611124198244352.html",
+				
+				"content_html": "<p>Foul weather for a bonfire night in Carmarthen!</p>\n",
+				"content_text": "Foul weather for a bonfire night in Carmarthen!\n",
+				"date_published": "2010-11-05T19:11:18+01:00",
+				"url": "https://thedimpau.se/2010/11/05/t611124198244352.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2010/11/05/t530994004234240.html",
@@ -28592,7 +28781,16 @@
 				"content_text": "Had picnic on White Horse Hill - great weather and scenery! [http://twitpic.com/1qcjox](http://twitpic.com/1qcjox)\n\n<img src=\"https://cdn.uploads.micro.blog/775/2018/b7b79dab16.jpg\" alt=\"Picnic on White Horse Hill\" title=\"Picnic.png\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2010-05-23T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/05/23/t14557279070.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Weather"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2010/05/22/t14484110380.html",
+				
+				"content_html": "<p>My Top 3 Weekly #lastfm artists: Poe (36), The Who (31) and The Dead Weather (22) <a href=\"http://bit.ly/cjoMxQ\">http://bit.ly/cjoMxQ</a></p>\n",
+				"content_text": "My Top 3 Weekly #lastfm artists: Poe (36), The Who (31) and The Dead Weather (22) [http://bit.ly/cjoMxQ](http://bit.ly/cjoMxQ)\n",
+				"date_published": "2010-05-22T01:00:00+01:00",
+				"url": "https://thedimpau.se/2010/05/22/t14484110380.html",
+				"tags": ["Music"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2010/05/10/t13732530677.html",
@@ -28791,6 +28989,15 @@
 				"date_published": "2010-02-14T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/02/14/t9105589233.html",
 				"tags": ["Football"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2010/02/12/t9003936955.html",
+				
+				"content_html": "<p>RT @walesweather: Heavy Snow - Wales: ADVISORY of Heavy Snow for Wales valid from 0001 Tue 16 Feb to 2359 Tue 16 Feb <a href=\"http://bit.ly/a7Tkyi\">http://bit.ly/a7Tkyi</a></p>\n",
+				"content_text": "RT @walesweather: Heavy Snow - Wales: ADVISORY of Heavy Snow for Wales valid from 0001 Tue 16 Feb to 2359 Tue 16 Feb [http://bit.ly/a7Tkyi](http://bit.ly/a7Tkyi)\n",
+				"date_published": "2010-02-12T01:00:00+01:00",
+				"url": "https://thedimpau.se/2010/02/12/t9003936955.html",
+				"tags": ["Weather"]
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2010/02/06/t8736158196.html",
