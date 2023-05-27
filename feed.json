@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/05/27/early-caturday-morning.html",
+				
+				"content_html": "<p>Early #Caturday morning garden coffee 🪴🐈☕️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Early #Caturday morning garden coffee 🪴🐈☕️\n\n<img src=\"uploads/2023/8243ede790.jpg\" width=\"600\" alt=\"Man on deckchair and black and white cat sitting in sunlight in a garden. Cup of coffee on wall in foreground.\" />\n",
+				"date_published": "2023-05-27T08:09:32+01:00",
+				"url": "https://thedimpau.se/2023/05/27/early-caturday-morning.html",
+				"tags": ["Photography","Coffee"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/25/currently-reading-tomorrow.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781786499356\">Tomorrow</a> by Chris Beckett 📚</p>\n",
+				"content_text": "Currently reading: [Tomorrow](https://micro.blog/books/9781786499356) by Chris Beckett 📚\n",
+				"date_published": "2023-05-25T18:57:43+01:00",
+				"url": "https://thedimpau.se/2023/05/25/currently-reading-tomorrow.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/25/have-been-finding.html",
+				
+				"content_html": "<p>Have been finding <a href=\"https://www.mastodonlistmanager.org/\">Mastodon List Manager</a> by <a href=\"https://micro.blog/acbeers@hachyderm.io\">@acbeers@hachyderm.io</a> very useful in tidying up and organising my Mastodon timeline(s) 🙏</p>\n",
+				"content_text": "Have been finding [Mastodon List Manager](https://www.mastodonlistmanager.org/) by [@acbeers@hachyderm.io](https://micro.blog/acbeers@hachyderm.io) very useful in tidying up and organising my Mastodon timeline(s) 🙏\n",
+				"date_published": "2023-05-25T14:45:02+01:00",
+				"url": "https://thedimpau.se/2023/05/25/have-been-finding.html",
+				"tags": ["CompTechSci"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/24/the-beatles-eight.html",
+				"title": "The Beatles: Eight Days a Week - The Touring Years, 2016 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/3/2/6/2/6/5/326265-the-beatles-eight-days-a-week-the-touring-years-0-600-0-900-crop.jpg?v=533fbc1a77\"/></p> <p>Watched on Wednesday May 24, 2023.</p>\n",
+				"date_published": "2023-05-24T18:43:48+01:00",
+				"url": "https://thedimpau.se/2023/05/24/the-beatles-eight.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/22/ithaka.html",
+				"title": "Ithaka, 2021 - ★★★★",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/7/6/4/7/3/9/764739-ithaka-0-600-0-900-crop.jpg?v=ac3864e0f3\"/></p> <p>Watched on Monday May 22, 2023.</p> \n",
+				"date_published": "2023-05-22T20:57:14+01:00",
+				"url": "https://thedimpau.se/2023/05/22/ithaka.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/05/22/finished-reading-twoway.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781788162074\">Two-Way Mirror</a> by Fiona Sampson 📚</p>\n",
+				"content_text": "Finished reading: [Two-Way Mirror](https://micro.blog/books/9781788162074) by Fiona Sampson 📚\n",
+				"date_published": "2023-05-22T18:42:49+01:00",
+				"url": "https://thedimpau.se/2023/05/22/finished-reading-twoway.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/05/21/carmarthen-golf-club.html",
 				
 				"content_html": "<p>Carmarthen Golf Club (I’m just dining and drinking, not playing ⛳️😀).</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Carmarthen Golf Club (I’m just dining and drinking, not playing ⛳️😀).\n\n<img src=\"uploads/2023/ed14bdb904.jpg\" width=\"600\" alt=\"View over a golf course and green, blue skies above.\" />\n",
+				"content_text": "Carmarthen Golf Club (I’m just dining and drinking, not playing ⛳️😀).\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/ed14bdb904.jpg\" width=\"600\" alt=\"View over a golf course and green, blue skies above.\" />\n",
 				"date_published": "2023-05-21T14:32:04+01:00",
 				"url": "https://thedimpau.se/2023/05/21/carmarthen-golf-club.html",
 				"tags": ["Photography"]
@@ -37,10 +91,10 @@
 				"id": "http://thedimpause.micro.blog/2023/05/21/had-some-japanese.html",
 				
 				"content_html": "<p>Had some Japanese whisky for World Whisky Day, courtesy of my daughter’s boyfriend.  But then my father-in-law broadened the scope … 🥃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Had some Japanese whisky for World Whisky Day, courtesy of my daughter’s boyfriend.  But then my father-in-law broadened the scope … 🥃\n\n<img src=\"uploads/2023/f336b96ac4.jpg\" width=\"600\" alt=\"Three bottles of spirits in a row - rum, whisky and brandy - next to a glass of whisky\" />\n",
+				"content_text": "Had some Japanese whisky for World Whisky Day, courtesy of my daughter’s boyfriend.  But then my father-in-law broadened the scope … 🥃\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/f336b96ac4.jpg\" width=\"600\" alt=\"Three bottles of spirits in a row - rum, whisky and brandy - next to a glass of whisky\" />\n",
 				"date_published": "2023-05-21T00:58:53+01:00",
 				"url": "https://thedimpau.se/2023/05/21/had-some-japanese.html",
-				"tags": ["Photography"]
+				"tags": ["Photography","Whisky"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/20/afraid-i-wont.html",
@@ -48,7 +102,8 @@
 				"content_html": "<p>Afraid I won’t be able to join Micro Camp live today - my sister-in-law’s 50th birthday celebrations 🎉</p>\n<p>Look forward to catching up on recordings of the sessions later though.</p>\n",
 				"content_text": "Afraid I won’t be able to join Micro Camp live today - my sister-in-law’s 50th birthday celebrations 🎉 \n\nLook forward to catching up on recordings of the sessions later though.\n",
 				"date_published": "2023-05-20T16:32:19+01:00",
-				"url": "https://thedimpau.se/2023/05/20/afraid-i-wont.html"
+				"url": "https://thedimpau.se/2023/05/20/afraid-i-wont.html",
+				"tags": ["CompTechSci"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/20/oh-no-its.html",
@@ -56,7 +111,8 @@
 				"content_html": "<p>Oh no! It’s <a href=\"https://www.worldwhiskyday.com\">World Whisky Day</a>. I can foresee consequences 🥃</p>\n",
 				"content_text": "Oh no! It’s [World Whisky Day](https://www.worldwhiskyday.com). I can foresee consequences 🥃\n",
 				"date_published": "2023-05-20T07:29:33+01:00",
-				"url": "https://thedimpau.se/2023/05/20/oh-no-its.html"
+				"url": "https://thedimpau.se/2023/05/20/oh-no-its.html",
+				"tags": ["Whisky"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/16/avengers-endgame.html",
@@ -182,7 +238,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/2/0/9/3/8/1/209381-doctor-strange-0-600-0-900-crop.jpg?v=1466da225d\"/></p> <p>Watched on Friday May 5, 2023.</p>\n",
 				"date_published": "2023-05-05T16:56:07+01:00",
 				"url": "https://thedimpau.se/2023/05/05/doctor-strange.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/02/pub-reading.html",
@@ -272,7 +328,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/3/4/6/7/4/6/346746-chaos-walking-0-600-0-900-crop.jpg?v=cf86c63095\"/></p> <p>Watched on Tuesday April 25, 2023.</p>\n",
 				"date_published": "2023-04-25T16:48:59+01:00",
 				"url": "https://thedimpau.se/2023/04/25/chaos-walking.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/04/23/picard-the-last.html",
@@ -332,7 +388,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/21/the-way-back.html",
 				
 				"content_html": "<p>The way back</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The way back\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/f8645884a9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The way back\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/f8645884a9.jpg\" width=\"600\" height=\"600\" alt=\"Easyjet aeroplane at the airport terminal\">\n",
 				"date_published": "2023-04-21T09:29:11+01:00",
 				"url": "https://thedimpau.se/2023/04/21/the-way-back.html",
 				"tags": ["Photography"]
@@ -341,7 +397,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/21/an-airport-corner.html",
 				
 				"content_html": "<p>An airport corner for final Nata - not the same ✈️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "An airport corner for final Nata - not the same ✈️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/7021df0fdb.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "An airport corner for final Nata - not the same ✈️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/7021df0fdb.jpg\" width=\"600\" height=\"450\" alt=\"Woman sitting on a bench with nata and coffees on a table\">\n",
 				"date_published": "2023-04-21T07:35:45+01:00",
 				"url": "https://thedimpau.se/2023/04/21/an-airport-corner.html",
 				"tags": ["Photography","Food","Coffee"]
@@ -359,7 +415,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/20/165120.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/611e66636b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/611e66636b.jpg\" width=\"600\" height=\"600\" alt=\"Bowl of cockles and two glasses of beer\">\n",
 				"date_published": "2023-04-20T16:51:20+01:00",
 				"url": "https://thedimpau.se/2023/04/20/165120.html",
 				"tags": ["Photography","Food","Beer"]
@@ -377,7 +433,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/20/135216.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/14054c863f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/14054c863f.jpg\" width=\"600\" height=\"450\" alt=\"Circular fountain surrounded by trees in a city square\">\n",
 				"date_published": "2023-04-20T13:52:16+01:00",
 				"url": "https://thedimpau.se/2023/04/20/135216.html",
 				"tags": ["Photography"]
@@ -404,7 +460,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/20/131206.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/26077e9548.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/26077e9548.jpg\" width=\"600\" height=\"450\" alt=\"Two glasses of beer on a table with lake and fountain in background\">\n",
 				"date_published": "2023-04-20T13:12:06+01:00",
 				"url": "https://thedimpau.se/2023/04/20/131206.html",
 				"tags": ["Photography","Beer"]
@@ -422,7 +478,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/19/casa-fernando-pessoa.html",
 				
 				"content_html": "<p>Casa Fernando Pessoa impressed me. Small museum but we spent a couple of hours there today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Casa Fernando Pessoa impressed me. Small museum but we spent a couple of hours there today.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/029e688c5b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Casa Fernando Pessoa impressed me. Small museum but we spent a couple of hours there today.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/029e688c5b.jpg\" width=\"600\" height=\"450\" alt=\"Front of plain 3-storey building, the house of Fernando Pessoa, banners labelled Museum hanging from two windows\">\n",
 				"date_published": "2023-04-19T22:54:45+01:00",
 				"url": "https://thedimpau.se/2023/04/19/casa-fernando-pessoa.html",
 				"tags": ["Photography"]
@@ -431,7 +487,7 @@
 				"id": "http://thedimpause.micro.blog/2023/04/19/lovely-evening-on.html",
 				
 				"content_html": "<p>Lovely evening on a road behind Rossio Square. Plate of sardines, plate of cheese, bread, two glasses of wine each, all for €13. Guys at the cafe couldn’t have been nicer.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lovely evening on a road behind Rossio Square. Plate of sardines, plate of cheese, bread, two glasses of wine each, all for €13. Guys at the cafe couldn’t have been nicer.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/30208cd1bc.jpg\" width=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/d634650c1f.jpg\" width=\"600\" alt=\"\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/cbc822204d.jpg\" width=\"600\" alt=\"\" />\n",
+				"content_text": "Lovely evening on a road behind Rossio Square. Plate of sardines, plate of cheese, bread, two glasses of wine each, all for €13. Guys at the cafe couldn’t have been nicer.\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/30208cd1bc.jpg\" width=\"600\" alt=\"Plates of fried sardines and cheese, glasses of wine and small loaf of bread on a table\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/d634650c1f.jpg\" width=\"600\" alt=\"Man seated at table of food and drink\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/cbc822204d.jpg\" width=\"600\" alt=\"Woman seated at table of food and drink, two men at similar table in background\" />\n",
 				"date_published": "2023-04-19T22:34:54+01:00",
 				"url": "https://thedimpau.se/2023/04/19/lovely-evening-on.html",
 				"tags": ["Photography","Food"]
@@ -893,7 +949,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/4/7/7/5/6/47756-my-neighbor-totoro-0-600-0-900-crop.jpg?v=749abe71ad\"/></p> <p>Watched on Thursday March 30, 2023.</p>\n",
 				"date_published": "2023-03-30T16:47:51+01:00",
 				"url": "https://thedimpau.se/2023/03/30/my-neighbor-totoro.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/03/30/mirror-day-of.html",
@@ -1091,7 +1147,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/1/6/5/3/0/16530-all-quiet-on-the-western-front-0-600-0-900-crop.jpg?v=bff4d496a1\"/></p> <p>Watched on Sunday March 19, 2023.</p>\n",
 				"date_published": "2023-03-19T19:20:34+01:00",
 				"url": "https://thedimpau.se/2023/03/19/all-quiet-on.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/03/19/analog-day-of.html",
@@ -1280,7 +1336,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/6/4/4/8/1/9/644819-luther-the-fallen-sun-0-600-0-900-crop.jpg?v=f380f86a2e\"/></p> <p>Watched on Friday March 10, 2023.</p>\n",
 				"date_published": "2023-03-10T17:31:35+01:00",
 				"url": "https://thedimpau.se/2023/03/10/luther-the-fallen.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/03/10/ritual-day-of.html",
@@ -1806,7 +1862,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/5/8/6/7/2/3/586723-glass-onion-a-knives-out-mystery-0-600-0-900-crop.jpg?v=ce7ed2a83f\"/></p> <p>Watched on Sunday February 19, 2023.</p>\n",
 				"date_published": "2023-02-20T00:15:44+01:00",
 				"url": "https://thedimpau.se/2023/02/19/glass-onion-a.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/02/19/my-top-lastfm.html",
@@ -2193,7 +2249,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/4/6/2/5/8/46258-strictly-ballroom-0-600-0-900-crop.jpg?v=2355a45a53\"/></p> <p>Watched on Sunday January 22, 2023.</p>\n",
 				"date_published": "2023-01-22T18:44:40+01:00",
 				"url": "https://thedimpau.se/2023/01/22/strictly-ballroom.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/01/22/my-top-weekly.html",
