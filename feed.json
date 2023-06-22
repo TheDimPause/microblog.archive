@@ -7,22 +7,121 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/06/22/ashers-whisky-fruit.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>☕️  Asher’s Whisky Fruit Cake and coffee</p>\n",
+				"date_published": "2023-06-22T11:08:03+01:00",
+				"url": "https://thedimpau.se/2023/06/22/ashers-whisky-fruit.html",
+				"tags": ["Coffee"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/22/too-much-cricket.html",
+				
+				"content_html": "<p>Too much cricket but I can’t stop myself. Women’s Ashes Test about to start. Australia batting first 🏏</p>\n",
+				"content_text": "Too much cricket but I can’t stop myself. Women’s Ashes Test about to start. Australia batting first 🏏 \n",
+				"date_published": "2023-06-22T10:57:53+01:00",
+				"url": "https://thedimpau.se/2023/06/22/too-much-cricket.html",
+				"tags": ["Cricket"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/22/june-st-the.html",
+				
+				"content_html": "<p>June 21st 2023, the summer solstice, was the sixth annual #ShowYourStripes day.</p>\n<p><a href=\"https://showyourstripes.info/\">showyourstripes.info</a></p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "June 21st 2023, the summer solstice, was the sixth annual #ShowYourStripes day.\n\n[showyourstripes.info](https://showyourstripes.info/)\n\n<img src=\"uploads/2023/europe-united-kingdom-cardiff-1850-2022-bk-withlab\" alt=\"Chart, visualising temperature increases since 1850, consisiting of vertical stripes coloured blue to red, a lot more red on the right\" title=\"EUROPE-United_Kingdom-Cardiff-1850-2022-BK-withlabels.png\" border=\"0\" width=\"600\" height=\"337\" />\n\n<img src=\"uploads/2023/europe-united-kingdom-cardiff-1850-2022-bk-barslab\" alt=\"Bar chart showing warming temperatures in Cardiff since 1850\" title=\"EUROPE-United_Kingdom-Cardiff-1850-2022-BK-barslabel.png\" border=\"0\" width=\"600\" height=\"337\" />\n\n",
+				"date_published": "2023-06-22T09:07:20+01:00",
+				"url": "https://thedimpau.se/2023/06/22/june-st-the.html",
+				"tags": ["Weather"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/22/good-morning-from.html",
+				
+				"content_html": "<p>Good morning from the greenhouse. I&rsquo;m watering the tomatoes 🌱</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Good morning from the greenhouse. I'm watering the tomatoes 🌱\n\n<img src=\"uploads/2023/img-8484.jpeg\" alt=\"Inside a small untidy greenhouse, young tomato plants growing on either side of central stone path\" title=\"IMG_8484.jpeg\" border=\"0\" width=\"600\" height=\"800\" />\n\n<img src=\"uploads/2023/img-8485.jpeg\" alt=\"Low view of door to a small greenhouse, chives growing in foreground\" title=\"IMG_8485.jpeg\" border=\"0\" width=\"600\" height=\"800\" />\n",
+				"date_published": "2023-06-22T08:35:00+01:00",
+				"url": "https://thedimpau.se/2023/06/22/good-morning-from.html",
+				"tags": ["Photography","Garden"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/21/a-quiet-passion.html",
+				"title": "A Quiet Passion, 2016 - ★★★½",
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/3/0/4/8/1/2/304812-a-quiet-passion-0-600-0-900-crop.jpg?v=bf7ed80ce1\"/></p> <p>Watched on Wednesday June 21, 2023.</p>\n",
+				"date_published": "2023-06-21T17:21:44+01:00",
+				"url": "https://thedimpau.se/2023/06/21/a-quiet-passion.html",
+				"tags": ["FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/20/st-ashes-test.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<p>🏏  1st Ashes Test approaching an end. Outcome still very uncertain.</p>\n",
+				"date_published": "2023-06-20T18:02:09+01:00",
+				"url": "https://thedimpau.se/2023/06/20/st-ashes-test.html",
+				"tags": ["Cricket"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/20/multicultural-man-on.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.theneweuropean.co.uk/will-self-on-technology/\">Multicultural Man: On technology</a></p>\n<blockquote>\n<p>As regular readers of this column know, I don’t think there is an anthropic solution to anthropogenic climate change</p>\n</blockquote>\n",
+				"content_text": "🔗 [Multicultural Man: On technology](https://www.theneweuropean.co.uk/will-self-on-technology/)\n\n> As regular readers of this column know, I don’t think there is an anthropic solution to anthropogenic climate change\n",
+				"date_published": "2023-06-20T08:41:13+01:00",
+				"url": "https://thedimpau.se/2023/06/20/multicultural-man-on.html",
+				"tags": ["Links","Politics"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/18/linkblog-upcoming-anarchist.html",
+				
+				"content_html": "<p>Linkblog 🔗: <a href=\"https://freedomnews.org.uk/2023/06/18/upcoming-anarchist-books-in-2023/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=upcoming-anarchist-books-in-2023\">Upcoming anarchist books in 2023</a></p>\n",
+				"content_text": "Linkblog 🔗: [Upcoming anarchist books in 2023](https://freedomnews.org.uk/2023/06/18/upcoming-anarchist-books-in-2023/?utm_source=rss&utm_medium=rss&utm_campaign=upcoming-anarchist-books-in-2023)\n",
+				"date_published": "2023-06-18T15:09:13+01:00",
+				"url": "https://thedimpau.se/2023/06/18/linkblog-upcoming-anarchist.html",
+				"tags": ["Links","Politics"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/18/duffy.html",
+				
+				"content_html": "<p>🐈 Duffy</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🐈 Duffy\n\n<img src=\"uploads/2023/17ed138153.jpg\" width=\"600\" height=\"600\" alt=\"View from above of curled up black and white cat looking at the camera\" />\n",
+				"date_published": "2023-06-18T14:50:01+01:00",
+				"url": "https://thedimpau.se/2023/06/18/duffy.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/18/my-top-lastfm.html",
+				
+				"content_html": "<p>♫ My Top 5 #lastfm artists: Sparks (12), The Wedding Present (7), Grian Chatten (6), Tracy Chapman (6) &amp; London Symphony Chorus, Leonard Bernstein &amp; London Symphony Orchestra (5) #weeklymusic via @tweeklyfm</p>\n",
+				"content_text": "♫ My Top 5 #lastfm artists: Sparks (12), The Wedding Present (7), Grian Chatten (6), Tracy Chapman (6) & London Symphony Chorus, Leonard Bernstein & London Symphony Orchestra (5) #weeklymusic via @tweeklyfm\n",
+				"date_published": "2023-06-18T08:24:55+01:00",
+				"url": "https://thedimpau.se/2023/06/18/my-top-lastfm.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/17/my-radio-just.html",
+				
+				"content_html": "<p>My radio just switched from cricket to The Shipping Forecast 🌧️ 🚢 🏏</p>\n",
+				"content_text": "My radio just switched from cricket to The Shipping Forecast 🌧️ 🚢 🏏 \n",
+				"date_published": "2023-06-17T17:57:39+01:00",
+				"url": "https://thedimpau.se/2023/06/17/my-radio-just.html",
+				"tags": ["Cricket","Weather"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/06/17/tim-dowling-is.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.theguardian.com/lifeandstyle/2023/jun/17/tim-dowling-is-this-a-hangover-or-just-what-being-60-feels-like?\">Tim Dowling: is this a hangover – or just what being 60 feels like?</a></p>\n<blockquote>\n<p>Is this what it’s like from now on?</p>\n</blockquote>\n",
+				"content_text": "🔗 [Tim Dowling: is this a hangover – or just what being 60 feels like?](https://www.theguardian.com/lifeandstyle/2023/jun/17/tim-dowling-is-this-a-hangover-or-just-what-being-60-feels-like?)\r\n\r\n> Is this what it’s like from now on?\n",
+				"date_published": "2023-06-17T17:53:53+01:00",
+				"url": "https://thedimpau.se/2023/06/17/tim-dowling-is.html",
+				"tags": ["Links"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/06/17/lusco-fusco.html",
 				
 				"content_html": "<p>Lusco Fusco 🍷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Lusco Fusco 🍷 \n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" alt=\"Bottle of red wine, glass of red wine and small radio on a wooden table with a garden backdrop\" />\n",
+				"content_text": "Lusco Fusco 🍷 \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/image.jpg\" width=\"600\" alt=\"Bottle of red wine, glass of red wine and small radio on a wooden table with a garden backdrop\" />\n",
 				"date_published": "2023-06-17T17:15:31+01:00",
 				"url": "https://thedimpau.se/2023/06/17/lusco-fusco.html",
 				"tags": ["Photography","Wine"]
-			},
-			{
-				"id": "http://thedimpause.micro.blog/2023/06/17/currently-reading-crickonomics.html",
-				
-				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781472992734\">Crickonomics: The Anatomy of Modern Cricket</a> by Stefan Szymanski 📚🏏</p>\n",
-				"content_text": "Currently reading: [Crickonomics: The Anatomy of Modern Cricket](https://micro.blog/books/9781472992734) by Stefan Szymanski 📚🏏\n",
-				"date_published": "2023-06-17T09:04:37+01:00",
-				"url": "https://thedimpau.se/2023/06/17/currently-reading-crickonomics.html",
-				"tags": ["Books","Cricket"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/06/16/england-declare-half.html",
@@ -127,7 +226,7 @@
 				"id": "http://thedimpause.micro.blog/2023/06/10/watchful-eye.html",
 				
 				"content_html": "<p>Watchful eye 👁️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Watchful eye 👁️ \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/c45e21533e.jpg\" width=\"600\" alt=\"View through a window of woman cutting limes next to a tequila bottle, reflection in the window of a man watching what is happening\" />\n",
+				"content_text": "Watchful eye 👁️ \n\n<img src=\"uploads/2023/c45e21533e.jpg\" width=\"600\" alt=\"View through a window of woman cutting limes next to a tequila bottle, reflection in the window of a man watching what is happening\" />\n",
 				"date_published": "2023-06-10T15:20:57+01:00",
 				"url": "https://thedimpau.se/2023/06/10/watchful-eye.html",
 				"tags": ["Photography"]
@@ -225,7 +324,7 @@
 				"id": "http://thedimpause.micro.blog/2023/06/04/late-caturday-ok.html",
 				
 				"content_html": "<p>Late #Caturday (OK, so it’s Sunday)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Late #Caturday (OK, so it’s Sunday)\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/c0daf0d8d0.jpg\" width=\"600\" alt=\"Black and white cat sleeping on concrete steps next to a deckchair \" />\n",
+				"content_text": "Late #Caturday (OK, so it’s Sunday)\n\n<img src=\"uploads/2023/c0daf0d8d0.jpg\" width=\"600\" alt=\"Black and white cat sleeping on concrete steps next to a deckchair \" />\n",
 				"date_published": "2023-06-04T20:12:02+01:00",
 				"url": "https://thedimpau.se/2023/06/04/late-caturday-ok.html",
 				"tags": ["Photography"]
@@ -315,7 +414,7 @@
 				"id": "http://thedimpause.micro.blog/2023/06/02/another-walk-with.html",
 				
 				"content_html": "<p>Another walk with my daughter this morning - 6.5 miles, we&rsquo;re upping the ante 🙂</p>\n<p>Panoramic view over Aberdare</p>\n<!-- raw HTML omitted -->\n<p>Cefn Pennar Gethin Forest</p>\n<!-- raw HTML omitted -->\n<p>Mossy lanes</p>\n<!-- raw HTML omitted -->\n<p>Fallen tree</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another walk with my daughter this morning - 6.5 miles, we're upping the ante 🙂\n\nPanoramic view over Aberdare\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/d2d91576e5.jpeg\" alt=\"View over a town in avalley, woman standing on a path on the right of the picture\" title=\"IMG_8350.jpeg\" border=\"0\" width=\"600\" height=\"244\" />\n\nCefn Pennar Gethin Forest\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/8c6cee4efd.jpeg\" alt=\"Path alongside conifer trees, sign reading Cefn Pennar Gethin Forest\" title=\"IMG_8355.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nMossy lanes\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/6905ef480a.jpeg\" alt=\"Woman in distance walking on narrow lane bounded by mossy stone walls shaded by overhanging branches\" title=\"IMG_8357.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nFallen tree\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/ac61fcdcfb.jpeg\" alt=\"Large fallen tree, horizontal to ground on top of stone wall and gate\" title=\"IMG_8358.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"content_text": "Another walk with my daughter this morning - 6.5 miles, we're upping the ante 🙂\n\nPanoramic view over Aberdare\n\n<img src=\"https://thedimpau.se/uploads/2023/d2d91576e5.jpeg\" alt=\"View over a town in avalley, woman standing on a path on the right of the picture\" title=\"IMG_8350.jpeg\" border=\"0\" width=\"600\" height=\"244\" />\n\nCefn Pennar Gethin Forest\n\n<img src=\"https://thedimpau.se/uploads/2023/8c6cee4efd.jpeg\" alt=\"Path alongside conifer trees, sign reading Cefn Pennar Gethin Forest\" title=\"IMG_8355.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nMossy lanes\n\n<img src=\"https://thedimpau.se/uploads/2023/6905ef480a.jpeg\" alt=\"Woman in distance walking on narrow lane bounded by mossy stone walls shaded by overhanging branches\" title=\"IMG_8357.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nFallen tree\n\n<img src=\"https://thedimpau.se/uploads/2023/ac61fcdcfb.jpeg\" alt=\"Large fallen tree, horizontal to ground on top of stone wall and gate\" title=\"IMG_8358.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2023-06-02T13:33:27+01:00",
 				"url": "https://thedimpau.se/2023/06/02/another-walk-with.html",
 				"tags": ["Photography","Walking"]
@@ -369,7 +468,7 @@
 				"id": "http://thedimpause.micro.blog/2023/05/30/getting-warm-outside.html",
 				
 				"content_html": "<p>Getting warm outside 🔥</p>\n<!-- raw HTML omitted -->\n<p>(Lunchtime approaching 😊)</p>\n",
-				"content_text": "Getting warm outside 🔥 \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/e15779ef62.jpg\" width=\"600\" alt=\"View from doorway of house looking into garden with a blazing metal fire pit and barbecue grill\" />\n\n(Lunchtime approaching 😊)\n",
+				"content_text": "Getting warm outside 🔥 \n\n<img src=\"https://thedimpau.se/uploads/2023/e15779ef62.jpg\" width=\"600\" alt=\"View from doorway of house looking into garden with a blazing metal fire pit and barbecue grill\" />\n\n(Lunchtime approaching 😊)\n",
 				"date_published": "2023-05-30T14:34:18+01:00",
 				"url": "https://thedimpau.se/2023/05/30/getting-warm-outside.html",
 				"tags": ["Photography"]
