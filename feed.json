@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2023/07/02/south-wales-fire.html",
+				
+				"content_html": "<p>South Wales Fire Service helicopter carrying water has been repeatedly flying back and forth over our house all day today (still going now at 7pm and I think I first saw it about 8am).</p>\n<p>According to <a href=\"https://twitter.com/NatResWales/status/1675548623193481217\">Natural Resources Wales</a> there&rsquo;s a wildfire in Gethin Forest between Merthyr Tydfil and Aberdare, just over the side of the valley from us 🔥😟</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "South Wales Fire Service helicopter carrying water has been repeatedly flying back and forth over our house all day today (still going now at 7pm and I think I first saw it about 8am).\n\nAccording to [Natural Resources Wales](https://twitter.com/NatResWales/status/1675548623193481217) there's a wildfire in Gethin Forest between Merthyr Tydfil and Aberdare, just over the side of the valley from us 🔥😟\n\n<img src=\"uploads/2023/img-8559.jpeg\" alt=\"Distant view of helicopter in the sky, fire fighting water container slung beneath it\" title=\"IMG_8559.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2023-07-02T19:27:59+01:00",
+				"url": "https://thedimpau.se/2023/07/02/south-wales-fire.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/07/02/very-dramatic-final.html",
+				
+				"content_html": "<p>Very dramatic final day in the 2nd Ashes Test 🏏</p>\n",
+				"content_text": "Very dramatic final day in the 2nd Ashes Test 🏏\n",
+				"date_published": "2023-07-02T13:51:15+01:00",
+				"url": "https://thedimpau.se/2023/07/02/very-dramatic-final.html",
+				"tags": ["Cricket"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/07/02/my-top-lastfm.html",
+				
+				"content_html": "<p>♫ My Top 5 #lastfm artists: The Kinks (15), Jonathan Wilson (3), Sparks (3), Jonathan Russell (2) &amp; Paul Beaubrun (2) via @tweeklyfm</p>\n",
+				"content_text": "♫ My Top 5 #lastfm artists: The Kinks (15), Jonathan Wilson (3), Sparks (3), Jonathan Russell (2) &amp; Paul Beaubrun (2) via @tweeklyfm\n",
+				"date_published": "2023-07-02T08:18:18+01:00",
+				"url": "https://thedimpau.se/2023/07/02/my-top-lastfm.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/07/01/am-i-still.html",
+				
+				"content_html": "<p>🔗 <a href=\"https://www.theguardian.com/music/2023/jul/01/pj-harvey-interview-i-inside-the-old-year-dying\">‘Am I still any good? Have I still got it?’: PJ Harvey on doubt, desire and deepest, darkest Dorset</a></p>\n<blockquote>\n<p>Harvey didn’t intend to make a new album: it crept up on her …</p>\n</blockquote>\n<p>Looking forward to the release of this album next week 🎵</p>\n",
+				"content_text": "🔗 [‘Am I still any good? Have I still got it?’: PJ Harvey on doubt, desire and deepest, darkest Dorset](https://www.theguardian.com/music/2023/jul/01/pj-harvey-interview-i-inside-the-old-year-dying)\r\n\r\n> Harvey didn’t intend to make a new album: it crept up on her …\r\n\r\nLooking forward to the release of this album next week 🎵\n",
+				"date_published": "2023-07-01T14:31:28+01:00",
+				"url": "https://thedimpau.se/2023/07/01/am-i-still.html",
+				"tags": ["Links","Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/07/01/burger-buns-baked.html",
+				
+				"content_html": "<p>Burger buns baked. Unusually uniform shape and size for my baking 🍔</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Burger buns baked. Unusually uniform shape and size for my baking 🍔 \n\n<img src=\"uploads/2023/c495066842.jpg\" width=\"600\" alt=\"Six almost equally sized burger buns on a cooling rack\" />\n",
+				"date_published": "2023-07-01T13:54:47+01:00",
+				"url": "https://thedimpau.se/2023/07/01/burger-buns-baked.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2023/07/01/location-check-in.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.713681,-3.443850&amp;ll=51.713681,-3.443850\">Location</a> check in 🗺 — Delico Deli, Aberdare for tuna melt panini and cappuccino ☕️</p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.713681,-3.443850&ll=51.713681,-3.443850) check in 🗺 — Delico Deli, Aberdare for tuna melt panini and cappuccino ☕️ \n",
+				"date_published": "2023-07-01T09:38:05+01:00",
+				"url": "https://thedimpau.se/2023/07/01/location-check-in.html",
+				"tags": ["Location","Coffee"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2023/06/28/a-nuclear-reactor.html",
 				
 				"content_html": "<p>🔗 <a href=\"https://www.theguardian.com/music/2023/jun/27/a-nuclear-reactor-of-music-the-story-of-simple-minds-classic-album-empires-and-dance\">‘A nuclear reactor of music’: the story of Simple Minds’ classic album Empires and Dance</a> 🎵</p>\n<blockquote>\n<p>Sustaining an overpowering and unrelenting mood, music, voice and words perfectly in lockstep, Empires and Dance is a Mitteleuropean psychodrama.</p>\n</blockquote>\n",
@@ -18,8 +72,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/06/27/pompeii-fresco-depicts.html",
 				
-				"content_html": "<p>🔗 <a href=\"https://www.theguardian.com/world/video/2023/jun/27/pompeii-fresco-depicts-what-might-be-the-precursor-of-pizza-video\">Pompeii fresco depicts what might be the precursor of pizza</a></p>\n<blockquote>\n<p>Archaeologists have discovered a fresco in the ancient Roman city of Pompeii that may depict the ancestor of the Italian pizza.</p>\n</blockquote>\n",
-				"content_text": "🔗 [Pompeii fresco depicts what might be the precursor of pizza](https://www.theguardian.com/world/video/2023/jun/27/pompeii-fresco-depicts-what-might-be-the-precursor-of-pizza-video)\n\n>Archaeologists have discovered a fresco in the ancient Roman city of Pompeii that may depict the ancestor of the Italian pizza.\n",
+				"content_html": "<p>🔗 <a href=\"https://www.theguardian.com/world/video/2023/jun/27/pompeii-fresco-depicts-what-might-be-the-precursor-of-pizza-video\">Pompeii fresco depicts what might be the precursor of pizza</a></p>\n<blockquote>\n<p>Archaeologists have discovered a fresco in the ancient Roman city of Pompeii that may depict the ancestor of the Italian pizza.</p>\n</blockquote>\n<p>More details from The History Blog: <a href=\"http://www.thehistoryblog.com/archives/67627\">Still life with pizza found at Pompeii</a></p>\n",
+				"content_text": "🔗 [Pompeii fresco depicts what might be the precursor of pizza](https://www.theguardian.com/world/video/2023/jun/27/pompeii-fresco-depicts-what-might-be-the-precursor-of-pizza-video)\n\n>Archaeologists have discovered a fresco in the ancient Roman city of Pompeii that may depict the ancestor of the Italian pizza.\n\nMore details from The History Blog: [Still life with pizza found at Pompeii](http://www.thehistoryblog.com/archives/67627)\n",
 				"date_published": "2023-06-27T17:33:15+01:00",
 				"url": "https://thedimpau.se/2023/06/27/pompeii-fresco-depicts.html",
 				"tags": ["Links","Food","History","Wine"]
@@ -37,7 +91,7 @@
 				"id": "http://thedimpause.micro.blog/2023/06/24/postshow-espressos.html",
 				
 				"content_html": "<p>Post-show espressos ☕️🎵</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Post-show espressos ☕️🎵 \n\n<img src=\"uploads/2023/5063220a54.jpg\" width=\"600\" alt=\"Woman sitting at table at dusk, small coffees and theatre programme on table, illuminated fairground wheel and red brick building in background\" />\n\n<img src=\"uploads/2023/40428bcace.jpg\" width=\"600\" alt=\"Copper building frontage at dusk with adjacent clear skies\" />\n",
+				"content_text": "Post-show espressos ☕️🎵 \n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/5063220a54.jpg\" width=\"600\" alt=\"Woman sitting at table at dusk, small coffees and theatre programme on table, illuminated fairground wheel and red brick building in background\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/40428bcace.jpg\" width=\"600\" alt=\"Copper building frontage at dusk with adjacent clear skies\" />\n",
 				"date_published": "2023-06-24T22:23:29+01:00",
 				"url": "https://thedimpau.se/2023/06/24/postshow-espressos.html",
 				"tags": ["Photography","Music","Coffee"]
@@ -55,7 +109,7 @@
 				"id": "http://thedimpause.micro.blog/2023/06/24/eisteddfod-proclamation.html",
 				"title": "2024 Eisteddfod Proclamation 🏴󠁧󠁢󠁷󠁬󠁳󠁿",
 				"content_html": "<p>National Eisteddfod of Wales</p>\n<p>2024 Eisteddfod Proclamation, Aberdare, Saturday 24th June 2023</p>\n<blockquote>\n<p>Proclaiming the Eisteddfod’s intention to visit an area at least a year and a day before the beginning of the festival</p>\n</blockquote>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "National Eisteddfod of Wales\n\n2024 Eisteddfod Proclamation, Aberdare, Saturday 24th June 2023\n\n>Proclaiming the Eisteddfod’s intention to visit an area at least a year and a day before the beginning of the festival\n\n<img src=\"uploads/2023/img-1057.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1057.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1058.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1058.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1059.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1059.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1060.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1060.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1061.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1061.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-1062.jpeg\" alt=\"IProcession of people in Druidic robes through a town centre\" title=\"IMG_1062.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-8532.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8532.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\n<img src=\"uploads/2023/img-8538.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8538.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"uploads/2023/img-8542.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8542.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
+				"content_text": "National Eisteddfod of Wales\n\n2024 Eisteddfod Proclamation, Aberdare, Saturday 24th June 2023\n\n>Proclaiming the Eisteddfod’s intention to visit an area at least a year and a day before the beginning of the festival\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1057.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1057.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1058.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1058.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1059.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1059.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1060.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1060.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1061.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_1061.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-1062.jpeg\" alt=\"IProcession of people in Druidic robes through a town centre\" title=\"IMG_1062.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-8532.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8532.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-8538.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8538.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://cdn.uploads.micro.blog/775/2023/img-8542.jpeg\" alt=\"Procession of people in Druidic robes through a town centre\" title=\"IMG_8542.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2023-06-24T16:52:55+01:00",
 				"url": "https://thedimpau.se/2023/06/24/eisteddfod-proclamation.html",
 				"tags": ["Photography"]
@@ -318,7 +372,8 @@
 				"content_html": "<!-- raw HTML omitted -->\n",
 				"content_text": "<p>🎉  On our way to my nephew’s 18th birthday party</p>\n",
 				"date_published": "2023-06-10T11:39:28+01:00",
-				"url": "https://thedimpau.se/2023/06/10/on-our-way.html"
+				"url": "https://thedimpau.se/2023/06/10/on-our-way.html",
+				"tags": ["Status"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/06/10/saturday-shopping-for.html",
@@ -579,7 +634,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/3/6/9/8/3/5/369835-the-suicide-squad-0-600-0-900-crop.jpg?v=8503fd610a\"/></p> <p>Watched on Monday May 29, 2023.</p>\n",
 				"date_published": "2023-05-29T22:56:53+01:00",
 				"url": "https://thedimpau.se/2023/05/29/the-suicide-squad.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/29/bank-holiday-start.html",
@@ -822,7 +877,7 @@
 				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/2/2/6/6/6/0/226660-avengers-endgame-0-600-0-900-crop.jpg?v=250ab286a3\"/></p> <p>Watched on Tuesday May 16, 2023.</p>\n",
 				"date_published": "2023-05-16T13:31:13+01:00",
 				"url": "https://thedimpau.se/2023/05/16/avengers-endgame.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2023/05/14/a-generous-half.html",
