@@ -7,20 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2024/03/31/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>:</p>\n<p>Peter Doherty &amp; Frédéric Lo (29 plays)<br>\nElbow (25)<br>\nMcCreesh, Gabrieli, Magdalena Kožená, Mark Padmore (20)<br>\npregoblin (13)<br>\nAnastasia Kobekina &amp; Kammerorchester Basel (12)</p>\n",
+				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): \r\n\r\nPeter Doherty & Frédéric Lo (29 plays)  \r\nElbow (25)  \r\nMcCreesh, Gabrieli, Magdalena Kožená, Mark Padmore (20)  \r\npregoblin (13)  \r\nAnastasia Kobekina & Kammerorchester Basel (12)   \n",
+				"date_published": "2024-03-31T08:55:54+01:00",
+				"url": "https://thedimpau.se/2024/03/31/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2024/03/29/finished-reading-outline.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780571346769\">Outline</a> by Rachel Cusk 📚</p>\n",
+				"content_text": "Finished reading: [Outline](https://micro.blog/books/9780571346769) by Rachel Cusk 📚\n",
+				"date_published": "2024-03-29T11:19:42+01:00",
+				"url": "https://thedimpau.se/2024/03/29/finished-reading-outline.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2024/03/28/view-from-the.html",
+				
+				"content_html": "<p>View from the bedroom window. Woke up to a little unexpected snow this morning ❄️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "View from the bedroom window. Woke up to a little unexpected snow this morning ❄️\n\n<img src=\"uploads/2024/78ce27ca-174f-4a7e-8db7-20888efa4d5d.jpg\" width=“600” height=“450” alt=\"A snowy garden with a winding driveway amongst trees and bushes, a dusting of snow on the ground and rooftops, under a partly cloudy sky.\" />\n",
+				"date_published": "2024-03-28T07:59:29+01:00",
+				"url": "https://thedimpau.se/2024/03/28/view-from-the.html",
+				"tags": ["Photography","Garden","Weather"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2024/03/25/napoleon.html",
 				"title": "Napoleon, 2023 - ★★★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<p><img src=\"https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-0-600-0-900-crop.jpg?v=8cb54e07b5\"/></p> <p>Watched on Monday March 25, 2024.</p>\n",
-				"date_published": "2024-03-25T16:35:33+00:00",
+				"content_text": "<p><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/6/7/4/1/3/7/674137-napoleon-0-600-0-900-crop.jpg?v=8cb54e07b5\"/></p> <p>Watched on Monday March 25, 2024.</p>\n",
+				"date_published": "2024-03-25T17:35:33+01:00",
 				"url": "https://thedimpau.se/2024/03/25/napoleon.html",
-				"tags": ["Photography","FilmTV"]
+				"tags": ["FilmTV"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2024/03/24/my-top-weekly.html",
 				
 				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>:</p>\n<p>Krček, Capella Istropolitana (39 plays)<br>\nMary Lou Williams (24)<br>\nKendrick Lamar (21)<br>\nOscar Peterson (8)<br>\nBessie Smith (7)</p>\n",
 				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): \r\n\r\nKrček, Capella Istropolitana (39 plays)  \r\nMary Lou Williams (24)  \r\nKendrick Lamar (21)  \r\nOscar Peterson (8)  \r\nBessie Smith (7)  \n",
-				"date_published": "2024-03-24T07:35:54+00:00",
+				"date_published": "2024-03-24T08:35:54+01:00",
 				"url": "https://thedimpau.se/2024/03/24/my-top-weekly.html",
 				"tags": ["Music"]
 			},
@@ -29,7 +56,7 @@
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781408715963\">Turning Over the Pebbles</a> by Mike Brearley 📚</p>\n",
 				"content_text": "Currently reading: [Turning Over the Pebbles](https://micro.blog/books/9781408715963) by Mike Brearley 📚\n",
-				"date_published": "2024-03-22T15:32:08+00:00",
+				"date_published": "2024-03-22T16:32:08+01:00",
 				"url": "https://thedimpau.se/2024/03/22/currently-reading-turning.html",
 				"tags": ["Books"]
 			},
