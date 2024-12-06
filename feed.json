@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2024/12/06/between-bouts-of.html",
+				
+				"content_html": "<p>Between bouts of heavy rain and wind I managed about 10 miles of morning walks this week 🚶‍♂️</p>\n<p>Dare Valley Country Park on Wednesday - grey, misty and murky</p>\n<!-- raw HTML omitted -->\n<p>and Aberdare Park today (Friday) - clear and cold</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Between bouts of heavy rain and wind I managed about 10 miles of morning walks this week 🚶‍♂️\n\nDare Valley Country Park on Wednesday - grey, misty and murky\n\n<img src=\"uploads/2024/997563da-0158-48f1-9d64-fe479aab4f47.jpg\" width=\"600\" height=\"450\" alt=\"A serene lake landscape features calm water, overcast skies, and trees lining the shore.\" />\n\nand Aberdare Park today (Friday) - clear and cold\n\n<img src=\"uploads/2024/d0dd328b-e2b7-44dc-9176-21033abf36af.jpg\" width=\"600\" height=\"450\" alt=\"A serene park scene features empty benches on a grassy field with trees silhouetted against a sunrise sky.\" />\n\n<img src=\"uploads/2024/ecfb39a8-5173-4b74-a8d7-9a8db22a7f3c.jpg\" width=\"600\" height=\"450\" alt=\"A grassy field containing a stone circle with standing stones is set against a backdrop of hills and trees. A flock of geese has is on the ground amongst the stones.\" />\n\n",
+				"date_published": "2024-12-06T12:20:07+00:00",
+				"url": "https://thedimpau.se/2024/12/06/between-bouts-of.html",
+				"tags": ["Photography","Walking","Weather"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2024/12/01/my-top-weekly.html",
+				
+				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Foals (15 plays), Stornoway (14), Yannis &amp; The Yaw (12), Jackson Browne (8), David Bowie (1)</p>\n",
+				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): Foals (15 plays), Stornoway (14), Yannis & The Yaw (12), Jackson Browne (8), David Bowie (1) \n",
+				"date_published": "2024-12-01T08:43:42+00:00",
+				"url": "https://thedimpau.se/2024/12/01/my-top-weekly.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2024/11/30/the-hunt.html",
 				"title": "The Hunt, 2020 - ★★",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -21,7 +39,8 @@
 				"content_html": "<p>Apologies for lots of duplicate posts in the last half hour - an automated service I was using went wild. Luckily I was awake early enough to notice. Service hopefully now disconnected from my accounts and duplicates removed. 😔</p>\n",
 				"content_text": "Apologies for lots of duplicate posts in the last half hour - an automated service I was using went wild. Luckily I was awake early enough to notice. Service hopefully now disconnected from my accounts and duplicates removed. 😔 \n",
 				"date_published": "2024-11-24T08:00:44+00:00",
-				"url": "https://thedimpau.se/2024/11/24/apologies-for-lots.html"
+				"url": "https://thedimpau.se/2024/11/24/apologies-for-lots.html",
+				"tags": ["CompTechSci"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2024/11/24/top-artists-of.html",
