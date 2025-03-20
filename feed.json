@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2025/03/19/the-electric-state.html",
+				
+				"content_html": "<p>🎥 The Electric State (2025) ★★</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎥 The Electric State (2025) ★★\n\n<img src=\"uploads/2025/c37cc1b825.png\" width=\"600\" height=\"315\" alt=\"\">\n",
+				"date_published": "2025-03-19T15:32:27+00:00",
+				"url": "https://thedimpau.se/2025/03/19/the-electric-state.html",
+				"tags": ["FilmTV"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2025/03/16/my-top-weekly-artists-as.html",
 				
 				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: The Bonk (31 plays), Goose (22), Pet Shimmers (21), Mary Lou Williams (18), Matt Sweeney &amp; Bonnie &ldquo;Prince&rdquo; Billy (16)</p>\n<iframe allow=\"autoplay *; encrypted-media *;\" frameborder=\"0\" height=\"450\" style=\"width: 100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/gb/album/greater-than-or-equal-to-the-bonk/1684630369?theme=dark\"></iframe>\n",
-				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): The Bonk (31 plays), Goose (22), Pet Shimmers (21), Mary Lou Williams (18), Matt Sweeney & Bonnie \"Prince\" Billy (16)  \r\n\r\n{{< apple-music url=\"https://music.apple.com/gb/album/greater-than-or-equal-to-the-bonk/1684630369\" >}}\n",
+				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): The Bonk (31 plays), Goose (22), Pet Shimmers (21), Mary Lou Williams (18), Matt Sweeney & Bonnie \"Prince\" Billy (16)   \n\n{{< apple-music url=\"https://music.apple.com/gb/album/greater-than-or-equal-to-the-bonk/1684630369\" >}}\n",
 				"date_published": "2025-03-16T07:56:53+00:00",
 				"url": "https://thedimpau.se/2025/03/16/my-top-weekly-artists-as.html",
 				"tags": ["Music"]
@@ -46,7 +55,7 @@
 				"id": "http://thedimpause.micro.blog/2025/03/14/sophia-gardens-in-washington-dc.html",
 				
 				"content_html": "<p>🔗 <!-- raw HTML omitted -->Sophia Gardens in Washington DC? Glamorgan thrilled with their new Welsh Fire partners<!-- raw HTML omitted --> 🏏</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🔗 <a href=\"https://www.thecricketer.com/Topics/county-cricket-premium/sophia_gardens_washington_dc_glamorgan_thrilled_welsh_fire_.html\">Sophia Gardens in Washington DC? Glamorgan thrilled with their new Welsh Fire partners</a> 🏏\n\n<blockquote>Sanjay Govil, who purchased a 50 per cent stake in Welsh Fire, may use Sophia Gardens as inspiration for Washington Freedom's new home</blockquote>>\n",
+				"content_text": "🔗 <a href=\"https://www.thecricketer.com/Topics/county-cricket-premium/sophia_gardens_washington_dc_glamorgan_thrilled_welsh_fire_.html\">Sophia Gardens in Washington DC? Glamorgan thrilled with their new Welsh Fire partners</a> 🏏\n\n<blockquote>Sanjay Govil, who purchased a 50 per cent stake in Welsh Fire, may use Sophia Gardens as inspiration for Washington Freedom's new home</blockquote>\n",
 				"date_published": "2025-03-14T08:22:18+00:00",
 				"url": "https://thedimpau.se/2025/03/14/sophia-gardens-in-washington-dc.html",
 				"tags": ["Links","Cricket"]
@@ -190,7 +199,7 @@
 				"id": "http://thedimpause.micro.blog/2025/03/05/222048.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "<img src=\"uploads/2025/89094cc21e.png\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/775/2025/89094cc21e.png\" width=\"600\" height=\"337\" alt=\"\">\n",
 				"date_published": "2025-03-05T22:20:48+00:00",
 				"url": "https://thedimpau.se/2025/03/05/222048.html",
 				"tags": ["Books","Quote"]
