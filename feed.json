@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2025/05/23/location-check-in-aberdare-station.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.714731,-3.442016&amp;ll=51.714731,-3.442016\">Location</a> check in — Aberdare Station 🚉 <!-- raw HTML omitted -->🗺 <a href=\"https://www.openstreetmap.org/#map=16/51.71473149919449/-3.442015660612327\">Map of area</a></p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.714731,-3.442016&ll=51.714731,-3.442016) check in — Aberdare Station 🚉 <br>🗺 [Map of area](https://www.openstreetmap.org/#map=16/51.71473149919449/-3.442015660612327)\n",
+				"date_published": "2025-05-23T09:18:00+01:00",
+				"url": "https://thedimpau.se/2025/05/23/location-check-in-aberdare-station.html",
+				"tags": ["Location"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2025/05/19/film-log-watched-infinity-pool.html",
+				
+				"content_html": "<p>Film log - watched: Infinity Pool, 2023 - ★★★★ - <a href=\"https://letterboxd.com/thedimpause/film/infinity-pool/\">Letterboxd link</a> 🎥<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Film log - watched: Infinity Pool, 2023 - ★★★★ - [Letterboxd link](https://letterboxd.com/thedimpause/film/infinity-pool/) 🎥<br><br><img class=\"smallimg\" src=\"https://a.ltrbxd.com/resized/film-poster/5/9/1/9/3/1/591931-infinity-pool-0-600-0-900-crop.jpg?v=1fdb8549ff\" alt=\"Film poster\">\n",
+				"date_published": "2025-05-19T20:28:14+01:00",
+				"url": "https://thedimpau.se/2025/05/19/film-log-watched-infinity-pool.html",
+				"tags": ["Photography","FilmTV"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2025/05/18/my-top-weekly-artists-as.html",
+				
+				"content_html": "<p>🎵 My top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Roger Waters (15 plays), Mark Pritchard &amp; Thom Yorke (12), George Harrison (5), Furtwängler, BPO (4), Vyacheslav Ovchinnikov (3)</p>\n",
+				"content_text": "🎵 My top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): Roger Waters (15 plays), Mark Pritchard & Thom Yorke (12), George Harrison (5), Furtwängler, BPO (4), Vyacheslav Ovchinnikov (3)    \n",
+				"date_published": "2025-05-18T10:11:38+01:00",
+				"url": "https://thedimpau.se/2025/05/18/my-top-weekly-artists-as.html",
+				"tags": ["Music"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2025/05/16/had-to-move-to-a.html",
+				
+				"content_html": "<p>Had to move to a higher viewpoint - it was getting a little hot in the sun low down in the stands 🏏☀️</p>\n<!-- raw HTML omitted -->\n<p>Northamptonshire have had a bit of a collapse in the last hour, losing five wickets to stand at 137-6.</p>\n",
+				"content_text": "Had to move to a higher viewpoint - it was getting a little hot in the sun low down in the stands 🏏☀️ \n\n<img src=\"uploads/2025/ec0587dd-042b-4ae8-b688-08b73122dabb.jpg\" width=\"600\" height=\"450\" alt=\"Auto-generated description: A cricket match is being played on a well-maintained field with players in white uniforms and some spectators in the stands.\">\n\nNorthamptonshire have had a bit of a collapse in the last hour, losing five wickets to stand at 137-6.\n",
+				"date_published": "2025-05-16T15:06:31+01:00",
+				"url": "https://thedimpau.se/2025/05/16/had-to-move-to-a.html",
+				"tags": ["Photography","Cricket"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2025/05/16/sophia-gardens-county-cricket-day.html",
 				
 				"content_html": "<p>Sophia Gardens. <a href=\"http://maps.apple.com/?ll=51.487366,-3.191928\">📍</a></p>\n<p>County Cricket day again - Day 1 of Glamorgan v Northamptonshire at Sophia Gardens 🏏</p>\n<!-- raw HTML omitted -->\n",
@@ -34513,6 +34549,14 @@
 				"tags": ["Poetry"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/04/28/t857827145523101696.html",
+				
+				"content_html": "<p>Sensational #music by Tinariwen at the Tramshed, Cardiff on Thursday 27th April @TINARIWEN @TramshedCF <a href=\"https://t.co/8VhXJ03Ll8\">https://t.co/8VhXJ03Ll8</a></p>\n",
+				"content_text": "Sensational #music by Tinariwen at the Tramshed, Cardiff on Thursday 27th April @TINARIWEN @TramshedCF [https://t.co/8VhXJ03Ll8](https://t.co/8VhXJ03Ll8)\n",
+				"date_published": "2017-04-28T06:21:43+01:00",
+				"url": "https://thedimpau.se/2017/04/28/t857827145523101696.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/04/26/t857127154110394370.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Manic Street Preachers (18), Karajan, BPO, Ferras (10), Julian Cope (9), Sviatoslav .. via @tweeklyfm #music</p>\n",
@@ -34520,6 +34564,22 @@
 				"date_published": "2017-04-26T08:00:12+01:00",
 				"url": "https://thedimpau.se/2017/04/26/t857127154110394370.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/04/25/t856972984623476736.html",
+				
+				"content_html": "<p>RT @GeorgeMonbiot: My column: Sure, I see the problems with Corbyn. But they pale beside the threat of another May govt. <a href=\"https://t.co/E5Qel\">https://t.co/E5Qel</a>…</p>\n",
+				"content_text": "RT @GeorgeMonbiot: My column: Sure, I see the problems with Corbyn. But they pale beside the threat of another May govt. [https://t.co/E5Qel](https://t.co/E5Qel)…\n",
+				"date_published": "2017-04-25T21:47:35+01:00",
+				"url": "https://thedimpau.se/2017/04/25/t856972984623476736.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/04/23/t856040561815556096.html",
+				
+				"content_html": "<p>RT @heretic101: not sure about the &lsquo;sixth form rant&rsquo; or &lsquo;squeezed into my shirt&rsquo;!!! but perceptive review; <a href=\"https://t.co/nSmnVQCK6x\">https://t.co/nSmnVQCK6x</a></p>\n",
+				"content_text": "RT @heretic101: not sure about the 'sixth form rant' or 'squeezed into my shirt'!!! but perceptive review; [https://t.co/nSmnVQCK6x](https://t.co/nSmnVQCK6x)\n",
+				"date_published": "2017-04-23T08:02:29+01:00",
+				"url": "https://thedimpau.se/2017/04/23/t856040561815556096.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/04/21/t855358712843825153.html",
@@ -34531,6 +34591,14 @@
 				"tags": ["Coffee"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/04/21/t855352945537425408.html",
+				
+				"content_html": "<p>BBC Wales HQ Cardiff  #Hipstamatic <a href=\"https://t.co/DgyMPx9osw\">https://t.co/DgyMPx9osw</a></p>\n",
+				"content_text": "BBC Wales HQ Cardiff  #Hipstamatic [https://t.co/DgyMPx9osw](https://t.co/DgyMPx9osw)\n",
+				"date_published": "2017-04-21T10:30:08+01:00",
+				"url": "https://thedimpau.se/2017/04/21/t855352945537425408.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/04/21/t855301774768340993.html",
 				
 				"content_html": "<p>Patrick Jones #poetry at Tramshed Cardiff @TramshedCF @heretic101 #Hipstamatic <a href=\"https://t.co/N5WIYgO7HQ\">https://t.co/N5WIYgO7HQ</a></p>\n",
@@ -34538,6 +34606,14 @@
 				"date_published": "2017-04-21T07:06:48+01:00",
 				"url": "https://thedimpau.se/2017/04/21/t855301774768340993.html",
 				"tags": ["Poetry"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/04/19/t854754842383876100.html",
+				
+				"content_html": "<p>The Wye #Hipstamatic <a href=\"https://t.co/8wVCPEpveJ\">https://t.co/8wVCPEpveJ</a></p>\n",
+				"content_text": "The Wye #Hipstamatic [https://t.co/8wVCPEpveJ](https://t.co/8wVCPEpveJ)\n",
+				"date_published": "2017-04-19T18:53:29+01:00",
+				"url": "https://thedimpau.se/2017/04/19/t854754842383876100.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/04/19/t854590413797281792.html",
@@ -34558,6 +34634,22 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/04/11/t851695539292975110.html",
+				
+				"content_html": "<p>Morning walk to work <a href=\"https://t.co/VKWwRySyzN\">https://t.co/VKWwRySyzN</a></p>\n",
+				"content_text": "Morning walk to work [https://t.co/VKWwRySyzN](https://t.co/VKWwRySyzN)\n",
+				"date_published": "2017-04-11T08:16:54+01:00",
+				"url": "https://thedimpau.se/2017/04/11/t851695539292975110.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/04/08/t850692750034993154.html",
+				
+				"content_html": "<p>Proper Black #beer @ Aberdare, Rhondda Cynon Taff <a href=\"https://t.co/TwhY8ge1hr\">https://t.co/TwhY8ge1hr</a></p>\n",
+				"content_text": "Proper Black #beer @ Aberdare, Rhondda Cynon Taff [https://t.co/TwhY8ge1hr](https://t.co/TwhY8ge1hr)\n",
+				"date_published": "2017-04-08T13:52:11+01:00",
+				"url": "https://thedimpau.se/2017/04/08/t850692750034993154.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/04/05/t849516984052174850.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Simple Minds (21), Blondie (20), The Breeders (20), Magdalena Kožená (11) &amp; SEXWIT.. via @tweeklyfm #music</p>\n",
@@ -34576,6 +34668,38 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/03/25/t845700277621702656.html",
+				
+				"content_html": "<p>Blimey! There&rsquo;s free wifi on the Cardiff to Aberdare train - first time I&rsquo;ve seen it on this line. And it appears to work!! <a href=\"https://t.co/H2eKaDkpal\">https://t.co/H2eKaDkpal</a></p>\n",
+				"content_text": "Blimey! There's free wifi on the Cardiff to Aberdare train - first time I've seen it on this line. And it appears to work!! [https://t.co/H2eKaDkpal](https://t.co/H2eKaDkpal)\n",
+				"date_published": "2017-03-25T19:13:53+01:00",
+				"url": "https://thedimpau.se/2017/03/25/t845700277621702656.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/25/t845637909977993216.html",
+				
+				"content_html": "<p>Just posted a photo @ Alexandra Gardens, Cardiff City Hall <a href=\"https://t.co/Jx3EwbWLMV\">https://t.co/Jx3EwbWLMV</a></p>\n",
+				"content_text": "Just posted a photo @ Alexandra Gardens, Cardiff City Hall [https://t.co/Jx3EwbWLMV](https://t.co/Jx3EwbWLMV)\n",
+				"date_published": "2017-03-25T15:06:03+01:00",
+				"url": "https://thedimpau.se/2017/03/25/t845637909977993216.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/25/t845630140415664128.html",
+				
+				"content_html": "<p>Digger&rsquo;s Gold @ Rummer Tavern <a href=\"https://t.co/WQPHbVz0xX\">https://t.co/WQPHbVz0xX</a></p>\n",
+				"content_text": "Digger's Gold @ Rummer Tavern [https://t.co/WQPHbVz0xX](https://t.co/WQPHbVz0xX)\n",
+				"date_published": "2017-03-25T14:35:11+01:00",
+				"url": "https://thedimpau.se/2017/03/25/t845630140415664128.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/25/t845586210164748288.html",
+				
+				"content_html": "<p>Coleg y Cymoedd @ Aberdare, Rhondda Cynon Taff <a href=\"https://t.co/6bnaNUj1mT\">https://t.co/6bnaNUj1mT</a></p>\n",
+				"content_text": "Coleg y Cymoedd @ Aberdare, Rhondda Cynon Taff [https://t.co/6bnaNUj1mT](https://t.co/6bnaNUj1mT)\n",
+				"date_published": "2017-03-25T11:40:37+01:00",
+				"url": "https://thedimpau.se/2017/03/25/t845586210164748288.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/03/22/t844458663930740737.html",
 				
 				"content_html": "<p>♫  #lastfm artists: The Walkabouts (28), Glenn Gould (23), Dietrich Fischer-Dieskau; Jörg Demus (14), L.. via @tweeklyfm #music</p>\n",
@@ -34583,6 +34707,14 @@
 				"date_published": "2017-03-22T09:00:09+01:00",
 				"url": "https://thedimpau.se/2017/03/22/t844458663930740737.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/21/t844258834235490305.html",
+				
+				"content_html": "<p>RT @cockaygne: Real Truth about Fake News: Central Narratives to Rival Heresies <a href=\"https://t.co/F6YJKkEskG\">https://t.co/F6YJKkEskG</a> via @IGD_NEWS</p>\n",
+				"content_text": "RT @cockaygne: Real Truth about Fake News: Central Narratives to Rival Heresies [https://t.co/F6YJKkEskG](https://t.co/F6YJKkEskG) via @IGD_NEWS\n",
+				"date_published": "2017-03-21T19:46:06+01:00",
+				"url": "https://thedimpau.se/2017/03/21/t844258834235490305.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/03/17/t842781284493672448.html",
@@ -34594,6 +34726,14 @@
 				"tags": ["Garden"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/03/15/t842095112490483712.html",
+				
+				"content_html": "<p>Matthew Bourne&rsquo;s Red Shoes #dance @ Wales Millennium Centre <a href=\"https://t.co/6uPOL1BZ8T\">https://t.co/6uPOL1BZ8T</a></p>\n",
+				"content_text": "Matthew Bourne's Red Shoes #dance @ Wales Millennium Centre [https://t.co/6uPOL1BZ8T](https://t.co/6uPOL1BZ8T)\n",
+				"date_published": "2017-03-15T20:28:14+01:00",
+				"url": "https://thedimpau.se/2017/03/15/t842095112490483712.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/03/15/t841921941657268224.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Elbow (38), Brasstronaut (36), Electric Light Orchestra (28), Julian Cope (25) &amp; Mar.. via @tweeklyfm #music</p>\n",
@@ -34601,6 +34741,14 @@
 				"date_published": "2017-03-15T09:00:07+01:00",
 				"url": "https://thedimpau.se/2017/03/15/t841921941657268224.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/14/t841531434187780096.html",
+				
+				"content_html": "<p>RT @merthyrrising: Os gwelwch yn dda RT <a href=\"https://t.co/Cc5Mt3q5eg\">https://t.co/Cc5Mt3q5eg</a></p>\n",
+				"content_text": "RT @merthyrrising: Os gwelwch yn dda RT [https://t.co/Cc5Mt3q5eg](https://t.co/Cc5Mt3q5eg)\n",
+				"date_published": "2017-03-14T07:08:23+01:00",
+				"url": "https://thedimpau.se/2017/03/14/t841531434187780096.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/03/11/t840489923845185536.html",
@@ -34612,6 +34760,46 @@
 				"tags": ["Poetry","OnThisDay"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/03/11/t840479937844924416.html",
+				
+				"content_html": "<p>Elbow at the Newport Centre 10th March 2017. Sensational! #elbowlive2017 @Elbow @NewportCentre <a href=\"https://t.co/N8XeHnwha1\">https://t.co/N8XeHnwha1</a></p>\n",
+				"content_text": "Elbow at the Newport Centre 10th March 2017. Sensational! #elbowlive2017 @Elbow @NewportCentre [https://t.co/N8XeHnwha1](https://t.co/N8XeHnwha1)\n",
+				"date_published": "2017-03-11T09:30:07+01:00",
+				"url": "https://thedimpau.se/2017/03/11/t840479937844924416.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/10/t840324233339293696.html",
+				
+				"content_html": "<p>Look on my works, ye mighty …   <a href=\"https://t.co/BAZjbQUmVD\">https://t.co/BAZjbQUmVD</a> <a href=\"https://t.co/43I4R2KE6K\">https://t.co/43I4R2KE6K</a></p>\n",
+				"content_text": "Look on my works, ye mighty …   [https://t.co/BAZjbQUmVD](https://t.co/BAZjbQUmVD) [https://t.co/43I4R2KE6K](https://t.co/43I4R2KE6K)\n",
+				"date_published": "2017-03-10T23:11:24+01:00",
+				"url": "https://thedimpau.se/2017/03/10/t840324233339293696.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/09/t839956491822055424.html",
+				
+				"content_html": "<p>RT @cockaygne: Book Review: The Wild Girls - <a href=\"https://t.co/gOHMA4dJvj\">https://t.co/gOHMA4dJvj</a> by Ursula Le Guin ISBN: 978-1-60486-403-8 PP: 112 Publisher: PM Press…</p>\n",
+				"content_text": "RT @cockaygne: Book Review: The Wild Girls - [https://t.co/gOHMA4dJvj](https://t.co/gOHMA4dJvj) by Ursula Le Guin ISBN: 978-1-60486-403-8 PP: 112 Publisher: PM Press…\n",
+				"date_published": "2017-03-09T22:50:07+01:00",
+				"url": "https://thedimpau.se/2017/03/09/t839956491822055424.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/09/t839900707423727622.html",
+				
+				"content_html": "<p>@AbernantEagle <a href=\"https://t.co/lbTvRDZm8I\">https://t.co/lbTvRDZm8I</a></p>\n",
+				"content_text": "@AbernantEagle [https://t.co/lbTvRDZm8I](https://t.co/lbTvRDZm8I)\n",
+				"date_published": "2017-03-09T19:08:27+01:00",
+				"url": "https://thedimpau.se/2017/03/09/t839900707423727622.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/08/t839456317161025538.html",
+				
+				"content_html": "<p>The Colosseum after antiquity   <a href=\"https://t.co/n7LCr1JLCp\">https://t.co/n7LCr1JLCp</a> <a href=\"https://t.co/Um5KKGNoY7\">https://t.co/Um5KKGNoY7</a></p>\n",
+				"content_text": "The Colosseum after antiquity   [https://t.co/n7LCr1JLCp](https://t.co/n7LCr1JLCp) [https://t.co/Um5KKGNoY7](https://t.co/Um5KKGNoY7)\n",
+				"date_published": "2017-03-08T13:42:37+01:00",
+				"url": "https://thedimpau.se/2017/03/08/t839456317161025538.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/03/08/t839385229131399169.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Bruce Springsteen (62), Cabaret Voltaire (37), Camper Van Beethoven (28), Ian Bostri.. via @tweeklyfm #music</p>\n",
@@ -34621,6 +34809,62 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/03/04/t837965761343864832.html",
+				
+				"content_html": "<p>RT @bbctms: Incredible. @NathLyon421 takes 8 wickets on the opening day of the 2nd Test. India all out 189 #INDvAUS <a href=\"https://t.co/YKUYuWw9U3\">https://t.co/YKUYuWw9U3</a></p>\n",
+				"content_text": "RT @bbctms: Incredible. @NathLyon421 takes 8 wickets on the opening day of the 2nd Test. India all out 189 #INDvAUS [https://t.co/YKUYuWw9U3](https://t.co/YKUYuWw9U3)\n",
+				"date_published": "2017-03-04T10:59:40+01:00",
+				"url": "https://thedimpau.se/2017/03/04/t837965761343864832.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/02/t837187571021139968.html",
+				
+				"content_html": "<p>Brasstronaut - impressive support for @StornowayBand in Cardiff at the @TramshedCF @Brasstronaut <a href=\"https://t.co/vAxGDdblzb\">https://t.co/vAxGDdblzb</a></p>\n",
+				"content_text": "Brasstronaut - impressive support for @StornowayBand in Cardiff at the @TramshedCF @Brasstronaut [https://t.co/vAxGDdblzb](https://t.co/vAxGDdblzb)\n",
+				"date_published": "2017-03-02T07:27:25+01:00",
+				"url": "https://thedimpau.se/2017/03/02/t837187571021139968.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/02/t837186842105634816.html",
+				
+				"content_html": "<p>Stornoway in Cardiff - the lively farewell @StornowayBand <a href=\"https://t.co/i6xyH1iMvd\">https://t.co/i6xyH1iMvd</a></p>\n",
+				"content_text": "Stornoway in Cardiff - the lively farewell @StornowayBand [https://t.co/i6xyH1iMvd](https://t.co/i6xyH1iMvd)\n",
+				"date_published": "2017-03-02T07:24:31+01:00",
+				"url": "https://thedimpau.se/2017/03/02/t837186842105634816.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/02/t837186415326822400.html",
+				
+				"content_html": "<p>Stornoway in Cardiff - the acoustic farewell @StornowayBand <a href=\"https://t.co/lq0R9jQhGA\">https://t.co/lq0R9jQhGA</a></p>\n",
+				"content_text": "Stornoway in Cardiff - the acoustic farewell @StornowayBand [https://t.co/lq0R9jQhGA](https://t.co/lq0R9jQhGA)\n",
+				"date_published": "2017-03-02T07:22:50+01:00",
+				"url": "https://thedimpau.se/2017/03/02/t837186415326822400.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/01/t837041017404579840.html",
+				
+				"content_html": "<p>@Brasstronaut Superb!</p>\n",
+				"content_text": "@Brasstronaut Superb!\n",
+				"date_published": "2017-03-01T21:45:04+01:00",
+				"url": "https://thedimpau.se/2017/03/01/t837041017404579840.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/01/t837021939642281984.html",
+				
+				"content_html": "<p>Dessert @ Bar 44, Westgate St, Cardiff <a href=\"https://t.co/UcQMxxkLZP\">https://t.co/UcQMxxkLZP</a></p>\n",
+				"content_text": "Dessert @ Bar 44, Westgate St, Cardiff [https://t.co/UcQMxxkLZP](https://t.co/UcQMxxkLZP)\n",
+				"date_published": "2017-03-01T20:29:16+01:00",
+				"url": "https://thedimpau.se/2017/03/01/t837021939642281984.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/03/01/t836862762039066624.html",
+				
+				"content_html": "<p>@Brasstronaut Any idea what time you&rsquo;re due to be on stage tonight (1st March) in Cardiff?</p>\n",
+				"content_text": "@Brasstronaut Any idea what time you're due to be on stage tonight (1st March) in Cardiff?\n",
+				"date_published": "2017-03-01T09:56:45+01:00",
+				"url": "https://thedimpau.se/2017/03/01/t836862762039066624.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/03/01/t836848529905758209.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Dietrich Fischer-Dieskau; Jörg Demus (30), Furtwängler, VPO (10), Samuel Rhodes, G.. via @tweeklyfm #music</p>\n",
@@ -34628,6 +34872,22 @@
 				"date_published": "2017-03-01T09:00:12+01:00",
 				"url": "https://thedimpau.se/2017/03/01/t836848529905758209.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/28/t836566540627636230.html",
+				
+				"content_html": "<p>@GreenManFest That would be brilliant!</p>\n",
+				"content_text": "@GreenManFest That would be brilliant!\n",
+				"date_published": "2017-02-28T14:19:40+01:00",
+				"url": "https://thedimpau.se/2017/02/28/t836566540627636230.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/25/t835449204243857408.html",
+				
+				"content_html": "<p>A Roman road courtesy of McDonald’s!</p>\n<p>Who says they’re 100% evil! :)</p>\n<p><a href=\"https://t.co/kI9vNH7Vx3\">https://t.co/kI9vNH7Vx3</a></p>\n",
+				"content_text": "A Roman road courtesy of McDonald’s!\n\nWho says they’re 100% evil! :)\n\n[https://t.co/kI9vNH7Vx3](https://t.co/kI9vNH7Vx3)\n",
+				"date_published": "2017-02-25T12:19:46+01:00",
+				"url": "https://thedimpau.se/2017/02/25/t835449204243857408.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/02/22/t834319334235316224.html",
@@ -34648,6 +34908,14 @@
 				"tags": ["Poetry"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/02/15/t831851788030599168.html",
+				
+				"content_html": "<p>RT @whatsamadder: A burger press that can get stuffed and a vegetarian epiphany for me. Here&rsquo;s Inspect A Gadget!\n<a href=\"https://t.co/XYEqhT7QxR\">https://t.co/XYEqhT7QxR</a></p>\n",
+				"content_text": "RT @whatsamadder: A burger press that can get stuffed and a vegetarian epiphany for me. Here's Inspect A Gadget! \n[https://t.co/XYEqhT7QxR](https://t.co/XYEqhT7QxR)\n",
+				"date_published": "2017-02-15T14:04:55+01:00",
+				"url": "https://thedimpau.se/2017/02/15/t831851788030599168.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/02/15/t831775094938669056.html",
 				
 				"content_html": "<p>♫ My Top 3 #lastfm artists: Glenn Gould (28), Tinariwen (13) &amp; BBC Radio 4 (1) via @tweeklyfm #music</p>\n",
@@ -34655,6 +34923,14 @@
 				"date_published": "2017-02-15T09:00:10+01:00",
 				"url": "https://thedimpau.se/2017/02/15/t831775094938669056.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/14/t831458950746882049.html",
+				
+				"content_html": "<p>RT @TINARIWEN: New album and new video out tomorrow!\nTanmirt\n+IO:I <a href=\"https://t.co/PuPDpO6zDz\">https://t.co/PuPDpO6zDz</a></p>\n",
+				"content_text": "RT @TINARIWEN: New album and new video out tomorrow!\nTanmirt\n+IO:I [https://t.co/PuPDpO6zDz](https://t.co/PuPDpO6zDz)\n",
+				"date_published": "2017-02-14T12:03:56+01:00",
+				"url": "https://thedimpau.se/2017/02/14/t831458950746882049.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/02/13/t831199268560044034.html",
@@ -34666,6 +34942,22 @@
 				"tags": ["Cricket"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/02/11/t830399467463569408.html",
+				
+				"content_html": "<p>Pre Wales-England Six Nations - in craft beer bar in Cardiff - undefined\nmap [https://t.co/fppE9sTimT]undefined</p>\n",
+				"content_text": "Pre Wales-England Six Nations - in craft beer bar in Cardiff - undefined\nmap [https://t.co/fppE9sTimT]undefined\n",
+				"date_published": "2017-02-11T13:53:55+01:00",
+				"url": "https://thedimpau.se/2017/02/11/t830399467463569408.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/10/t830011553785245697.html",
+				
+				"content_html": "<p>DiEM25: One Year On <a href=\"https://t.co/eKSlwtDsed\">https://t.co/eKSlwtDsed</a></p>\n",
+				"content_text": "DiEM25: One Year On [https://t.co/eKSlwtDsed](https://t.co/eKSlwtDsed)\n",
+				"date_published": "2017-02-10T12:12:29+01:00",
+				"url": "https://thedimpau.se/2017/02/10/t830011553785245697.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/02/08/t829238369028808704.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Elbow (20), Sundara Karma (17), Xylouris White (11), Mark Padmore and Nicholas Danie.. via @tweeklyfm #music</p>\n",
@@ -34673,6 +34965,86 @@
 				"date_published": "2017-02-08T09:00:08+01:00",
 				"url": "https://thedimpau.se/2017/02/08/t829238369028808704.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/07/t829079395512025088.html",
+				
+				"content_html": "<p>‘It was as if I had peered into hell’: the man who brought the Nazi death squads to justice | Law | The Guardian <a href=\"https://t.co/fymflKXAKn\">https://t.co/fymflKXAKn</a></p>\n",
+				"content_text": "‘It was as if I had peered into hell’: the man who brought the Nazi death squads to justice | Law | The Guardian [https://t.co/fymflKXAKn](https://t.co/fymflKXAKn)\n",
+				"date_published": "2017-02-07T22:28:26+01:00",
+				"url": "https://thedimpau.se/2017/02/07/t829079395512025088.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/06/t828683611641696261.html",
+				
+				"content_html": "<p>Pylon #MonochromeMonday (Pylon #MonochromeMonday) <a href=\"https://t.co/6t6f0SU6Yp\">https://t.co/6t6f0SU6Yp</a></p>\n",
+				"content_text": "Pylon #MonochromeMonday (Pylon #MonochromeMonday) [https://t.co/6t6f0SU6Yp](https://t.co/6t6f0SU6Yp)\n",
+				"date_published": "2017-02-06T20:15:43+01:00",
+				"url": "https://thedimpau.se/2017/02/06/t828683611641696261.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/06/t828683593723568130.html",
+				
+				"content_html": "<p>Wolf Alice - Wicked Game (iTunes Festival 2014) <a href=\"https://t.co/hSFPmAqqv1\">https://t.co/hSFPmAqqv1</a></p>\n",
+				"content_text": "Wolf Alice - Wicked Game (iTunes Festival 2014) [https://t.co/hSFPmAqqv1](https://t.co/hSFPmAqqv1)\n",
+				"date_published": "2017-02-06T20:15:39+01:00",
+				"url": "https://thedimpau.se/2017/02/06/t828683593723568130.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/05/t828295725243056129.html",
+				
+				"content_html": "<p>Lane (Lane) <a href=\"https://t.co/uokTrVnP5N\">https://t.co/uokTrVnP5N</a></p>\n",
+				"content_text": "Lane (Lane) [https://t.co/uokTrVnP5N](https://t.co/uokTrVnP5N)\n",
+				"date_published": "2017-02-05T18:34:24+01:00",
+				"url": "https://thedimpau.se/2017/02/05/t828295725243056129.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/05/t828295707203366912.html",
+				
+				"content_html": "<p>Meander (Meander) <a href=\"https://t.co/9oXj43mCnK\">https://t.co/9oXj43mCnK</a></p>\n",
+				"content_text": "Meander (Meander) [https://t.co/9oXj43mCnK](https://t.co/9oXj43mCnK)\n",
+				"date_published": "2017-02-05T18:34:20+01:00",
+				"url": "https://thedimpau.se/2017/02/05/t828295707203366912.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/05/t828197331736621056.html",
+				
+				"content_html": "<p>Verifying that &ldquo;thedimpause.id&rdquo; is my Blockstack ID. <a href=\"https://t.co/sU1jYaX15l\">https://t.co/sU1jYaX15l</a></p>\n",
+				"content_text": "Verifying that \"thedimpause.id\" is my Blockstack ID. [https://t.co/sU1jYaX15l](https://t.co/sU1jYaX15l)\n",
+				"date_published": "2017-02-05T12:03:25+01:00",
+				"url": "https://thedimpau.se/2017/02/05/t828197331736621056.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/04/t827873018068205568.html",
+				
+				"content_html": "<p>I&rsquo;d like to share a track from ViewRanger <a href=\"https://t.co/I2vmIjuCpg\">https://t.co/I2vmIjuCpg</a></p>\n",
+				"content_text": "I'd like to share a track from ViewRanger [https://t.co/I2vmIjuCpg](https://t.co/I2vmIjuCpg)\n",
+				"date_published": "2017-02-04T14:34:43+01:00",
+				"url": "https://thedimpau.se/2017/02/04/t827873018068205568.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/04/t827798909753892866.html",
+				
+				"content_html": "<p>RT @WerfaAbernant: Got this to go with my new glasses ;) <a href=\"https://t.co/CNSg9JYX5N\">https://t.co/CNSg9JYX5N</a></p>\n",
+				"content_text": "RT @WerfaAbernant: Got this to go with my new glasses ;) [https://t.co/CNSg9JYX5N](https://t.co/CNSg9JYX5N)\n",
+				"date_published": "2017-02-04T09:40:14+01:00",
+				"url": "https://thedimpau.se/2017/02/04/t827798909753892866.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/03/t827538261019078656.html",
+				
+				"content_html": "<p>Aberdare Morning (Aberdare morning) <a href=\"https://t.co/pevts3WXJj\">https://t.co/pevts3WXJj</a></p>\n",
+				"content_text": "Aberdare Morning (Aberdare morning) [https://t.co/pevts3WXJj](https://t.co/pevts3WXJj)\n",
+				"date_published": "2017-02-03T16:24:31+01:00",
+				"url": "https://thedimpau.se/2017/02/03/t827538261019078656.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/02/02/t827238061893365763.html",
+				
+				"content_html": "<p>DiEM25-UK: Organisational launch meeting  <a href=\"https://t.co/RIYA4aX6nx\">https://t.co/RIYA4aX6nx</a></p>\n",
+				"content_text": "DiEM25-UK: Organisational launch meeting  [https://t.co/RIYA4aX6nx](https://t.co/RIYA4aX6nx)\n",
+				"date_published": "2017-02-02T20:31:37+01:00",
+				"url": "https://thedimpau.se/2017/02/02/t827238061893365763.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/02/01/t826701655148228609.html",
@@ -34684,6 +35056,14 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/02/01/t826672392332275712.html",
+				
+				"content_html": "<p>Just watched Stonehearst Asylum <a href=\"https://t.co/vyHcRIlJhQ\">https://t.co/vyHcRIlJhQ</a> - not heard of it before, but was very impressed.  You&rsquo;re… <a href=\"https://t.co/Nzgi7VN05r\">https://t.co/Nzgi7VN05r</a></p>\n",
+				"content_text": "Just watched Stonehearst Asylum [https://t.co/vyHcRIlJhQ](https://t.co/vyHcRIlJhQ) - not heard of it before, but was very impressed.  You're… [https://t.co/Nzgi7VN05r](https://t.co/Nzgi7VN05r)\n",
+				"date_published": "2017-02-01T07:03:51+01:00",
+				"url": "https://thedimpau.se/2017/02/01/t826672392332275712.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/01/31/t826350361699028992.html",
 				
 				"content_html": "<p>Yanis Varoufakis: Europeans should be excited about Benoît Hamon winning the French presidency <a href=\"https://t.co/ik55XMRfuS\">https://t.co/ik55XMRfuS</a></p>\n",
@@ -34691,6 +35071,14 @@
 				"date_published": "2017-01-31T09:44:13+01:00",
 				"url": "https://thedimpau.se/2017/01/31/t826350361699028992.html",
 				"tags": ["Politics"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/27/t824914408866533376.html",
+				
+				"content_html": "<p>Steve Bell on the special relationship <a href=\"https://t.co/t59YeNdTYI\">https://t.co/t59YeNdTYI</a></p>\n",
+				"content_text": "Steve Bell on the special relationship [https://t.co/t59YeNdTYI](https://t.co/t59YeNdTYI)\n",
+				"date_published": "2017-01-27T10:38:15+01:00",
+				"url": "https://thedimpau.se/2017/01/27/t824914408866533376.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/01/25/t824164935102066689.html",
@@ -34711,6 +35099,22 @@
 				"tags": ["Video"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/01/24/t823958509603717121.html",
+				
+				"content_html": "<p>DiEM25 (Home) <a href=\"https://t.co/ZNyK4SH7vz\">https://t.co/ZNyK4SH7vz</a></p>\n",
+				"content_text": "DiEM25 (Home) [https://t.co/ZNyK4SH7vz](https://t.co/ZNyK4SH7vz)\n",
+				"date_published": "2017-01-24T19:19:51+01:00",
+				"url": "https://thedimpau.se/2017/01/24/t823958509603717121.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/22/t823190478430621697.html",
+				
+				"content_html": "<p>Village Loaves #bread #baking #food  From: <a href=\"https://t.co/w1KPP17AqE\">https://t.co/w1KPP17AqE</a> <a href=\"https://t.co/z7bdlq9wxs\">https://t.co/z7bdlq9wxs</a></p>\n",
+				"content_text": "Village Loaves #bread #baking #food  From: [https://t.co/w1KPP17AqE](https://t.co/w1KPP17AqE) [https://t.co/z7bdlq9wxs](https://t.co/z7bdlq9wxs)\n",
+				"date_published": "2017-01-22T16:27:58+01:00",
+				"url": "https://thedimpau.se/2017/01/22/t823190478430621697.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/01/22/t823104651054772224.html",
 				
 				"content_html": "<p>RT @BBCInOurTime: Lord Byron, poet, was born #OnThisDay 1788 <a href=\"https://t.co/Vophborhnx\">https://t.co/Vophborhnx</a></p>\n",
@@ -34718,6 +35122,14 @@
 				"date_published": "2017-01-22T10:46:56+01:00",
 				"url": "https://thedimpau.se/2017/01/22/t823104651054772224.html",
 				"tags": ["Poetry","OnThisDay"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/21/t822883795183476736.html",
+				
+				"content_html": "<p>Blue cheese and celeriac pithivier  &hellip;will be tomorrow&rsquo;s dinner  #food #recipe  From: <a href=\"https://t.co/rfFgDdQpjf\">https://t.co/rfFgDdQpjf</a> … <a href=\"https://t.co/Ejy7q2sLwA\">https://t.co/Ejy7q2sLwA</a></p>\n",
+				"content_text": "Blue cheese and celeriac pithivier  ...will be tomorrow's dinner  #food #recipe  From: [https://t.co/rfFgDdQpjf](https://t.co/rfFgDdQpjf) … [https://t.co/Ejy7q2sLwA](https://t.co/Ejy7q2sLwA)\n",
+				"date_published": "2017-01-21T20:09:19+01:00",
+				"url": "https://thedimpau.se/2017/01/21/t822883795183476736.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/01/21/t822883776548241409.html",
@@ -34729,6 +35141,22 @@
 				"tags": ["Books"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2017/01/20/t822529739453775873.html",
+				
+				"content_html": "<p>The sheer poetry of the Trump inauguration <a href=\"https://t.co/BPyZ1lek7m\">https://t.co/BPyZ1lek7m</a></p>\n",
+				"content_text": "The sheer poetry of the Trump inauguration [https://t.co/BPyZ1lek7m](https://t.co/BPyZ1lek7m)\n",
+				"date_published": "2017-01-20T20:42:26+01:00",
+				"url": "https://thedimpau.se/2017/01/20/t822529739453775873.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/20/t822384257893072896.html",
+				
+				"content_html": "<p>A History of Anarchist Counter-Inaugural Protest <a href=\"https://t.co/cBim0kmTCX\">https://t.co/cBim0kmTCX</a></p>\n",
+				"content_text": "A History of Anarchist Counter-Inaugural Protest [https://t.co/cBim0kmTCX](https://t.co/cBim0kmTCX)\n",
+				"date_published": "2017-01-20T11:04:20+01:00",
+				"url": "https://thedimpau.se/2017/01/20/t822384257893072896.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2017/01/18/t821628251533672448.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Scott Walker (28), Tinariwen (21), BBC Radio 4 (7), Leonard Cohen (5) &amp; Ramshackle U.. via @tweeklyfm #music</p>\n",
@@ -34736,6 +35164,86 @@
 				"date_published": "2017-01-18T09:00:14+01:00",
 				"url": "https://thedimpau.se/2017/01/18/t821628251533672448.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/17/t821430307316531203.html",
+				
+				"content_html": "<p>Recipes <a href=\"https://t.co/pi62lQdstI\">https://t.co/pi62lQdstI</a></p>\n",
+				"content_text": "Recipes [https://t.co/pi62lQdstI](https://t.co/pi62lQdstI)\n",
+				"date_published": "2017-01-17T19:53:41+01:00",
+				"url": "https://thedimpau.se/2017/01/17/t821430307316531203.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/17/t821376194151120896.html",
+				
+				"content_html": "<p>RT @theanalyst: New podcast episode with @Eoin16, Sam Billings, Sunil Gavaskar and @Cricket_Mann <a href=\"https://t.co/rrKNMAx1qe\">https://t.co/rrKNMAx1qe</a> <a href=\"https://t.co/HONWZ\">https://t.co/HONWZ</a>…</p>\n",
+				"content_text": "RT @theanalyst: New podcast episode with @Eoin16, Sam Billings, Sunil Gavaskar and @Cricket_Mann [https://t.co/rrKNMAx1qe](https://t.co/rrKNMAx1qe) [https://t.co/HONWZ](https://t.co/HONWZ)…\n",
+				"date_published": "2017-01-17T16:18:39+01:00",
+				"url": "https://thedimpau.se/2017/01/17/t821376194151120896.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/17/t821283362736316417.html",
+				
+				"content_html": "<p>Edna St. Vincent Millay (Edna St. Vincent Millay) <a href=\"https://t.co/RLJpB89ETi\">https://t.co/RLJpB89ETi</a></p>\n",
+				"content_text": "Edna St. Vincent Millay (Edna St. Vincent Millay) [https://t.co/RLJpB89ETi](https://t.co/RLJpB89ETi)\n",
+				"date_published": "2017-01-17T10:09:47+01:00",
+				"url": "https://thedimpau.se/2017/01/17/t821283362736316417.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/17/t821283361641664512.html",
+				
+				"content_html": "<p>Check out this great Podcast: <a href=\"https://t.co/nibtHix0ZU\">https://t.co/nibtHix0ZU</a> <a href=\"https://t.co/fWk26Ryxbf\">https://t.co/fWk26Ryxbf</a></p>\n",
+				"content_text": "Check out this great Podcast: [https://t.co/nibtHix0ZU](https://t.co/nibtHix0ZU) [https://t.co/fWk26Ryxbf](https://t.co/fWk26Ryxbf)\n",
+				"date_published": "2017-01-17T10:09:46+01:00",
+				"url": "https://thedimpau.se/2017/01/17/t821283361641664512.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/16/t821126792064991232.html",
+				
+				"content_html": "<p>N - The Napoleonic Wars First Complete AAR <a href=\"https://t.co/N4sLvWubHS\">https://t.co/N4sLvWubHS</a></p>\n",
+				"content_text": "N - The Napoleonic Wars First Complete AAR [https://t.co/N4sLvWubHS](https://t.co/N4sLvWubHS)\n",
+				"date_published": "2017-01-16T23:47:37+01:00",
+				"url": "https://thedimpau.se/2017/01/16/t821126792064991232.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/16/t821029285175640065.html",
+				
+				"content_html": "<p><a href=\"https://t.co/0uiPesaDe6\">https://t.co/0uiPesaDe6</a> is shutting down on March 15, 2017 <a href=\"https://t.co/q0QJ9WfrGd\">https://t.co/q0QJ9WfrGd</a></p>\n",
+				"content_text": "[https://t.co/0uiPesaDe6](https://t.co/0uiPesaDe6) is shutting down on March 15, 2017 [https://t.co/q0QJ9WfrGd](https://t.co/q0QJ9WfrGd)\n",
+				"date_published": "2017-01-16T17:20:10+01:00",
+				"url": "https://thedimpau.se/2017/01/16/t821029285175640065.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/16/t821029287759380480.html",
+				
+				"content_html": "<p>Hons and Rebels by Jessica Mitford - #nowreading <a href=\"https://t.co/uw0wN3QG4W\">https://t.co/uw0wN3QG4W</a></p>\n",
+				"content_text": "Hons and Rebels by Jessica Mitford - #nowreading [https://t.co/uw0wN3QG4W](https://t.co/uw0wN3QG4W)\n",
+				"date_published": "2017-01-16T17:20:10+01:00",
+				"url": "https://thedimpau.se/2017/01/16/t821029287759380480.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/16/t821029284013809664.html",
+				
+				"content_html": "<p>Ram Mohan Roy #MonochromeMonday #blackandwhitephotography #monochromeworld #monochromephotography  <a href=\"https://t.co/soiLEJdoQ2\">https://t.co/soiLEJdoQ2</a></p>\n",
+				"content_text": "Ram Mohan Roy #MonochromeMonday #blackandwhitephotography #monochromeworld #monochromephotography  [https://t.co/soiLEJdoQ2](https://t.co/soiLEJdoQ2)\n",
+				"date_published": "2017-01-16T17:20:09+01:00",
+				"url": "https://thedimpau.se/2017/01/16/t821029284013809664.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/16/t821029256537014272.html",
+				
+				"content_html": "<p>La La Land is a big, bombastic musical – but it&rsquo;s the smaller gestures that make it sing <a href=\"https://t.co/Q5c8g6EnjM\">https://t.co/Q5c8g6EnjM</a></p>\n",
+				"content_text": "La La Land is a big, bombastic musical – but it's the smaller gestures that make it sing [https://t.co/Q5c8g6EnjM](https://t.co/Q5c8g6EnjM)\n",
+				"date_published": "2017-01-16T17:20:03+01:00",
+				"url": "https://thedimpau.se/2017/01/16/t821029256537014272.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2017/01/13/t819824652352622592.html",
+				
+				"content_html": "<p>How to cook the perfect mulligatawny | Life and style | The Guardian <a href=\"https://t.co/Zp8RBfuTDW\">https://t.co/Zp8RBfuTDW</a></p>\n",
+				"content_text": "How to cook the perfect mulligatawny | Life and style | The Guardian [https://t.co/Zp8RBfuTDW](https://t.co/Zp8RBfuTDW)\n",
+				"date_published": "2017-01-13T09:33:23+01:00",
+				"url": "https://thedimpau.se/2017/01/13/t819824652352622592.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2017/01/11/t819091535300100096.html",
@@ -34828,6 +35336,14 @@
 				"tags": ["Cricket"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/12/24/t812624616606879744.html",
+				
+				"content_html": "<p>RT @Knifeworld: £8:50 from Spotify in my last royalty statement. That&rsquo;s nearly as much as if I&rsquo;d sold a pesky CD. In your face, old fashion…</p>\n",
+				"content_text": "RT @Knifeworld: £8:50 from Spotify in my last royalty statement. That's nearly as much as if I'd sold a pesky CD. In your face, old fashion…\n",
+				"date_published": "2016-12-24T12:43:01+01:00",
+				"url": "https://thedimpau.se/2016/12/24/t812624616606879744.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/12/22/160418.html",
 				"title": "Ca' Rezzonico selfie",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2hdzHGF\">bit.ly/2hdzHGF</a></p>\n",
@@ -34837,6 +35353,14 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/12/22/t811965565107466241.html",
+				
+				"content_html": "<p>Ca' Rezzonico selfie @ Ca' Rezzonico <a href=\"https://t.co/R9RpyVNhtO\">https://t.co/R9RpyVNhtO</a></p>\n",
+				"content_text": "Ca' Rezzonico selfie @ Ca' Rezzonico [https://t.co/R9RpyVNhtO](https://t.co/R9RpyVNhtO)\n",
+				"date_published": "2016-12-22T17:04:10+01:00",
+				"url": "https://thedimpau.se/2016/12/22/t811965565107466241.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/12/22/091843.html",
 				"title": "Palazzi Mocenigo",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2hcIM2j\">bit.ly/2hcIM2j</a></p>\n",
@@ -34844,6 +35368,14 @@
 				"date_published": "2016-12-22T10:18:43+01:00",
 				"url": "https://thedimpau.se/2016/12/22/091843.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/12/22/t811863508639838208.html",
+				
+				"content_html": "<p>Palazzi Mocenigo @ Venezia, Italia <a href=\"https://t.co/0hkvoLX7EI\">https://t.co/0hkvoLX7EI</a></p>\n",
+				"content_text": "Palazzi Mocenigo @ Venezia, Italia [https://t.co/0hkvoLX7EI](https://t.co/0hkvoLX7EI)\n",
+				"date_published": "2016-12-22T10:18:38+01:00",
+				"url": "https://thedimpau.se/2016/12/22/t811863508639838208.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/12/21/t811481369419411456.html",
@@ -34864,6 +35396,22 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/12/20/t811267030628192256.html",
+				
+				"content_html": "<p>Very impressed with the Basilica di Santa Maria Gloriosa dei Frari today - probably more so than… <a href=\"https://t.co/511U2XAABP\">https://t.co/511U2XAABP</a></p>\n",
+				"content_text": "Very impressed with the Basilica di Santa Maria Gloriosa dei Frari today - probably more so than… [https://t.co/511U2XAABP](https://t.co/511U2XAABP)\n",
+				"date_published": "2016-12-20T18:48:27+01:00",
+				"url": "https://thedimpau.se/2016/12/20/t811267030628192256.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/12/16/t809652816088272896.html",
+				
+				"content_html": "<p>RT @AbernantEagle: Brilliant @Starsailorband gig tonight at the fabulous @TramshedCF. <a href=\"https://t.co/GAqxHxKrh6\">https://t.co/GAqxHxKrh6</a></p>\n",
+				"content_text": "RT @AbernantEagle: Brilliant @Starsailorband gig tonight at the fabulous @TramshedCF. [https://t.co/GAqxHxKrh6](https://t.co/GAqxHxKrh6)\n",
+				"date_published": "2016-12-16T07:54:08+01:00",
+				"url": "https://thedimpau.se/2016/12/16/t809652816088272896.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/12/14/t808944670600478720.html",
 				
 				"content_html": "<p>♫ My Top 5 #lastfm artists: Gong (132), Xylouris White (50), Tinariwen (31), XTC (25) &amp; Throwing Muses (15) via @tweeklyfm #music</p>\n",
@@ -34882,6 +35430,22 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/12/02/t804789033750630400.html",
+				
+				"content_html": "<p>Watch “Einstürzende Neubauten - The Garden” on #Vimeo <a href=\"https://t.co/LPF05u40Uq\">https://t.co/LPF05u40Uq</a></p>\n",
+				"content_text": "Watch “Einstürzende Neubauten - The Garden” on #Vimeo [https://t.co/LPF05u40Uq](https://t.co/LPF05u40Uq)\n",
+				"date_published": "2016-12-02T21:47:12+01:00",
+				"url": "https://thedimpau.se/2016/12/02/t804789033750630400.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/30/t803910988550537216.html",
+				
+				"content_html": "<p>Nigel Slater’s orzo, black cabbage and smoked cheese <a href=\"https://t.co/2AIe3n6f9L\">https://t.co/2AIe3n6f9L</a></p>\n",
+				"content_text": "Nigel Slater’s orzo, black cabbage and smoked cheese [https://t.co/2AIe3n6f9L](https://t.co/2AIe3n6f9L)\n",
+				"date_published": "2016-11-30T11:38:10+01:00",
+				"url": "https://thedimpau.se/2016/11/30/t803910988550537216.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/11/30/t803871239634907136.html",
 				
 				"content_html": "<p>♫ My Top 2 #lastfm artists: The Barker Band (16) &amp; St. Petersburg String Quartet (10) via @tweeklyfm #music</p>\n",
@@ -34889,6 +35453,14 @@
 				"date_published": "2016-11-30T09:00:13+01:00",
 				"url": "https://thedimpau.se/2016/11/30/t803871239634907136.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/28/t803341499714912256.html",
+				
+				"content_html": "<p>No likey @ArrivaTW - doesn’t fit nicely into my wallet! <a href=\"https://t.co/6yqAkNRqVu\">https://t.co/6yqAkNRqVu</a></p>\n",
+				"content_text": "No likey @ArrivaTW - doesn’t fit nicely into my wallet! [https://t.co/6yqAkNRqVu](https://t.co/6yqAkNRqVu)\n",
+				"date_published": "2016-11-28T21:55:13+01:00",
+				"url": "https://thedimpau.se/2016/11/28/t803341499714912256.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/11/20/113326.html",
@@ -34900,6 +35472,14 @@
 				"tags": ["Photography","Food"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/11/20/t800300982525530114.html",
+				
+				"content_html": "<p>Sunday Sourdough @ Aber-nant <a href=\"https://t.co/XSdQ3nOOS1\">https://t.co/XSdQ3nOOS1</a></p>\n",
+				"content_text": "Sunday Sourdough @ Aber-nant [https://t.co/XSdQ3nOOS1](https://t.co/XSdQ3nOOS1)\n",
+				"date_published": "2016-11-20T12:33:17+01:00",
+				"url": "https://thedimpau.se/2016/11/20/t800300982525530114.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/11/20/073534.html",
 				"title": "Early early morning snow - melting fast",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2ftjQjT\">bit.ly/2ftjQjT</a></p>\n",
@@ -34909,6 +35489,14 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/11/20/t800241123138506752.html",
+				
+				"content_html": "<p>Early early morning snow - melting fast @ Aber-nant <a href=\"https://t.co/0gEmv2e0tY\">https://t.co/0gEmv2e0tY</a></p>\n",
+				"content_text": "Early early morning snow - melting fast @ Aber-nant [https://t.co/0gEmv2e0tY](https://t.co/0gEmv2e0tY)\n",
+				"date_published": "2016-11-20T08:35:26+01:00",
+				"url": "https://thedimpau.se/2016/11/20/t800241123138506752.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/11/16/t798797822598344704.html",
 				
 				"content_html": "<p>♫ My Top 3 #lastfm artists: Kristin Hersh (24), Einstürzende Neubauten (11) &amp; Gong (8) via @tweeklyfm #music</p>\n",
@@ -34916,6 +35504,22 @@
 				"date_published": "2016-11-16T09:00:16+01:00",
 				"url": "https://thedimpau.se/2016/11/16/t798797822598344704.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/12/t797468058549964800.html",
+				
+				"content_html": "<p>Our version of a Pain Rustique <a href=\"https://t.co/ETMHpr8sWg\">https://t.co/ETMHpr8sWg</a></p>\n",
+				"content_text": "Our version of a Pain Rustique [https://t.co/ETMHpr8sWg](https://t.co/ETMHpr8sWg)\n",
+				"date_published": "2016-11-12T16:56:16+01:00",
+				"url": "https://thedimpau.se/2016/11/12/t797468058549964800.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/11/t796970044311879680.html",
+				
+				"content_html": "<p>Legendary singer-songwriter Leonard Cohen dies aged 82 <a href=\"https://t.co/h0wWjFdXGn\">https://t.co/h0wWjFdXGn</a></p>\n",
+				"content_text": "Legendary singer-songwriter Leonard Cohen dies aged 82 [https://t.co/h0wWjFdXGn](https://t.co/h0wWjFdXGn)\n",
+				"date_published": "2016-11-11T07:57:20+01:00",
+				"url": "https://thedimpau.se/2016/11/11/t796970044311879680.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/11/10/220735.html",
@@ -34936,6 +35540,30 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/11/07/t795657261033078784.html",
+				
+				"content_html": "<p>Syd Arthur: Apricity review – unique, soulful and trippy in the best sense <a href=\"https://t.co/YjGLljSsMI\">https://t.co/YjGLljSsMI</a></p>\n",
+				"content_text": "Syd Arthur: Apricity review – unique, soulful and trippy in the best sense [https://t.co/YjGLljSsMI](https://t.co/YjGLljSsMI)\n",
+				"date_published": "2016-11-07T17:00:48+01:00",
+				"url": "https://thedimpau.se/2016/11/07/t795657261033078784.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/05/t794831761331126272.html",
+				
+				"content_html": "<p>RT @Knifeworld: Hi. I&rsquo;ll be playing around the UK with Gong later this month. Do join us. x <a href=\"https://t.co/uJjIVlIrSQ\">https://t.co/uJjIVlIrSQ</a></p>\n",
+				"content_text": "RT @Knifeworld: Hi. I'll be playing around the UK with Gong later this month. Do join us. x [https://t.co/uJjIVlIrSQ](https://t.co/uJjIVlIrSQ)\n",
+				"date_published": "2016-11-05T10:20:33+01:00",
+				"url": "https://thedimpau.se/2016/11/05/t794831761331126272.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/11/04/t794574485487685632.html",
+				
+				"content_html": "<p>Just posted a photo @ Cardiff Central railway station <a href=\"https://t.co/2towu0XsqA\">https://t.co/2towu0XsqA</a></p>\n",
+				"content_text": "Just posted a photo @ Cardiff Central railway station [https://t.co/2towu0XsqA](https://t.co/2towu0XsqA)\n",
+				"date_published": "2016-11-04T17:18:14+01:00",
+				"url": "https://thedimpau.se/2016/11/04/t794574485487685632.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/11/04/161747.html",
 				"title": "Cardiff cranes",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2fCMdR4\">bit.ly/2fCMdR4</a></p>\n",
@@ -34954,6 +35582,22 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/10/28/t791930723691298816.html",
+				
+				"content_html": "<p>I&rsquo;m off to see Stornoway at Tramshed, Cardiff. <a href=\"https://t.co/4txxuN1RPh\">https://t.co/4txxuN1RPh</a> via @seetickets</p>\n",
+				"content_text": "I'm off to see Stornoway at Tramshed, Cardiff. [https://t.co/4txxuN1RPh](https://t.co/4txxuN1RPh) via @seetickets\n",
+				"date_published": "2016-10-28T10:12:52+01:00",
+				"url": "https://thedimpau.se/2016/10/28/t791930723691298816.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/10/26/t791353053739835392.html",
+				
+				"content_html": "<p>RT @whatsamadder: Gadget Review: this week, a banana filling machine that doubles as an insult to god! <a href=\"https://t.co/vBirONGlgD\">https://t.co/vBirONGlgD</a></p>\n",
+				"content_text": "RT @whatsamadder: Gadget Review: this week, a banana filling machine that doubles as an insult to god! [https://t.co/vBirONGlgD](https://t.co/vBirONGlgD)\n",
+				"date_published": "2016-10-26T19:57:25+01:00",
+				"url": "https://thedimpau.se/2016/10/26/t791353053739835392.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/10/26/t791172555012988928.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Syd Arthur (51), The Clash (29), Dexys Midnight Runners (24), Evgeny Kissin (23) &amp; A.. via @tweeklyfm #music</p>\n",
@@ -34963,6 +35607,14 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/10/23/t790311191155511297.html",
+				
+				"content_html": "<p>To Hell With Poverty - @andygangof4 @gangof4official missed the microwave, but enjoyed! <a href=\"https://t.co/gLt5GpDHPE\">https://t.co/gLt5GpDHPE</a></p>\n",
+				"content_text": "To Hell With Poverty - @andygangof4 @gangof4official missed the microwave, but enjoyed! [https://t.co/gLt5GpDHPE](https://t.co/gLt5GpDHPE)\n",
+				"date_published": "2016-10-23T22:57:25+01:00",
+				"url": "https://thedimpau.se/2016/10/23/t790311191155511297.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/10/23/t790303379956256768.html",
 				
 				"content_html": "<p>Gang of Four live stream (Live on <a href=\"https://t.co/c4Af7ZH0MV\">https://t.co/c4Af7ZH0MV</a>) <a href=\"https://t.co/hLENLPVIfI\">https://t.co/hLENLPVIfI</a> via @YouTube</p>\n",
@@ -34970,6 +35622,22 @@
 				"date_published": "2016-10-23T22:26:23+01:00",
 				"url": "https://thedimpau.se/2016/10/23/t790303379956256768.html",
 				"tags": ["Video"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/10/22/t789823222971858944.html",
+				
+				"content_html": "<p>Syd Arthur&rsquo;s Apricity Is MOJO&rsquo;s Album Of The Week <a href=\"https://t.co/XT4tHIM8WU\">https://t.co/XT4tHIM8WU</a> via @MOJOmagazine</p>\n",
+				"content_text": "Syd Arthur's Apricity Is MOJO's Album Of The Week [https://t.co/XT4tHIM8WU](https://t.co/XT4tHIM8WU) via @MOJOmagazine\n",
+				"date_published": "2016-10-22T14:38:25+01:00",
+				"url": "https://thedimpau.se/2016/10/22/t789823222971858944.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/10/19/t788765822697238528.html",
+				
+				"content_html": "<p>Sad to see @twfeed #twitterfeed go. Migrated my feeds to @IFTTT and @buffer - now to see if they still  work…</p>\n",
+				"content_text": "Sad to see @twfeed #twitterfeed go. Migrated my feeds to @IFTTT and @buffer - now to see if they still  work…\n",
+				"date_published": "2016-10-19T16:36:41+01:00",
+				"url": "https://thedimpau.se/2016/10/19/t788765822697238528.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/10/19/t788635850649264128.html",
@@ -34990,6 +35658,14 @@
 				"tags": ["Football"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/10/13/t786584450389860353.html",
+				
+				"content_html": "<p>Fantastic! :: Nobel prize in literature won by Bob Dylan <a href=\"https://t.co/C4RHFBnlAa\">https://t.co/C4RHFBnlAa</a></p>\n",
+				"content_text": "Fantastic! :: Nobel prize in literature won by Bob Dylan [https://t.co/C4RHFBnlAa](https://t.co/C4RHFBnlAa)\n",
+				"date_published": "2016-10-13T16:08:41+01:00",
+				"url": "https://thedimpau.se/2016/10/13/t786584450389860353.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/10/12/t786099112659783680.html",
 				
 				"content_html": "<p>♫  #lastfm artists: Walter Gieseking (27), Chumbawamba (23), Bartok Quartet (19), Baker Gurvitz Army (17.. via @tweeklyfm #music</p>\n",
@@ -35008,6 +35684,14 @@
 				"tags": ["Photography","Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/10/11/t785720430409551872.html",
+				
+				"content_html": "<p>Ben Ottewell @ Clwb Ifor Bach <a href=\"https://t.co/Ohi50RJrS1\">https://t.co/Ohi50RJrS1</a></p>\n",
+				"content_text": "Ben Ottewell @ Clwb Ifor Bach [https://t.co/Ohi50RJrS1](https://t.co/Ohi50RJrS1)\n",
+				"date_published": "2016-10-11T06:55:23+01:00",
+				"url": "https://thedimpau.se/2016/10/11/t785720430409551872.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/10/10/171906.html",
 				"title": "Squashed",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2dP3Rg8\">bit.ly/2dP3Rg8</a></p>\n",
@@ -35017,6 +35701,14 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/10/10/t785530078478204928.html",
+				
+				"content_html": "<p>Squashed <a href=\"https://t.co/fwjJF4HhEL\">https://t.co/fwjJF4HhEL</a></p>\n",
+				"content_text": "Squashed [https://t.co/fwjJF4HhEL](https://t.co/fwjJF4HhEL)\n",
+				"date_published": "2016-10-10T18:18:59+01:00",
+				"url": "https://thedimpau.se/2016/10/10/t785530078478204928.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/10/07/153249.html",
 				"title": "Sir Tom Jones",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->\nvia Instagram <a href=\"http://bit.ly/2dSfZkj\">bit.ly/2dSfZkj</a><!-- raw HTML omitted --></p>\n",
@@ -35024,6 +35716,14 @@
 				"date_published": "2016-10-07T16:32:49+01:00",
 				"url": "https://thedimpau.se/2016/10/07/153249.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/10/07/t784416169524469760.html",
+				
+				"content_html": "<p>Just passed by Sir Tom Jones @ Fernhill railway station <a href=\"https://t.co/vJMwabyHHv\">https://t.co/vJMwabyHHv</a></p>\n",
+				"content_text": "Just passed by Sir Tom Jones @ Fernhill railway station [https://t.co/vJMwabyHHv](https://t.co/vJMwabyHHv)\n",
+				"date_published": "2016-10-07T16:32:43+01:00",
+				"url": "https://thedimpau.se/2016/10/07/t784416169524469760.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/10/05/t783562399328641024.html",
@@ -35042,6 +35742,14 @@
 				"date_published": "2016-10-01T18:09:12+01:00",
 				"url": "https://thedimpau.se/2016/10/01/170912.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/10/01/t782266085038960641.html",
+				
+				"content_html": "<p>Dà Mhìle Seaweed Gin <a href=\"https://t.co/wNj2hGbSBE\">https://t.co/wNj2hGbSBE</a> @DaMhile damhiledistillery for #scd <a href=\"https://t.co/fIrkmPxCuy\">https://t.co/fIrkmPxCuy</a></p>\n",
+				"content_text": "Dà Mhìle Seaweed Gin [https://t.co/wNj2hGbSBE](https://t.co/wNj2hGbSBE) @DaMhile damhiledistillery for #scd [https://t.co/fIrkmPxCuy](https://t.co/fIrkmPxCuy)\n",
+				"date_published": "2016-10-01T18:09:03+01:00",
+				"url": "https://thedimpau.se/2016/10/01/t782266085038960641.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/09/30/210122.html",
@@ -35071,6 +35779,30 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/09/24/t779638511494324224.html",
+				
+				"content_html": "<p>Martin Rowson on the impending Labour leadership result – cartoon <a href=\"https://t.co/YBdflxAnEs\">https://t.co/YBdflxAnEs</a></p>\n",
+				"content_text": "Martin Rowson on the impending Labour leadership result – cartoon [https://t.co/YBdflxAnEs](https://t.co/YBdflxAnEs)\n",
+				"date_published": "2016-09-24T12:08:00+01:00",
+				"url": "https://thedimpau.se/2016/09/24/t779638511494324224.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/24/t779584685894725632.html",
+				
+				"content_html": "<p>Get off the treadmill: the art of living well in the age of plenty <a href=\"https://t.co/7DAoI2apua\">https://t.co/7DAoI2apua</a></p>\n",
+				"content_text": "Get off the treadmill: the art of living well in the age of plenty [https://t.co/7DAoI2apua](https://t.co/7DAoI2apua)\n",
+				"date_published": "2016-09-24T08:34:07+01:00",
+				"url": "https://thedimpau.se/2016/09/24/t779584685894725632.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/21/t778566085461311488.html",
+				
+				"content_html": "<p>@fayhield &hellip;and if your current tour extended to South Wales I&rsquo;d even come and see you ;)</p>\n",
+				"content_text": "@fayhield ...and if your current tour extended to South Wales I'd even come and see you ;)\n",
+				"date_published": "2016-09-21T13:06:34+01:00",
+				"url": "https://thedimpau.se/2016/09/21/t778566085461311488.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/09/21/t778488973131931648.html",
 				
 				"content_html": "<p>♫ My Top 5 #lastfm artists: Fay Hield (3), The Doors (3), Ezza (2), Gun Outfit (2) &amp; Neu! (2) via @tweeklyfm #music</p>\n",
@@ -35078,6 +35810,14 @@
 				"date_published": "2016-09-21T08:00:09+01:00",
 				"url": "https://thedimpau.se/2016/09/21/t778488973131931648.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/18/t777518106285453312.html",
+				
+				"content_html": "<p>Abergavenny Food Festival means Little Rumba <a href=\"https://t.co/NvlL91v4HO\">https://t.co/NvlL91v4HO</a></p>\n",
+				"content_text": "Abergavenny Food Festival means Little Rumba [https://t.co/NvlL91v4HO](https://t.co/NvlL91v4HO)\n",
+				"date_published": "2016-09-18T15:42:16+01:00",
+				"url": "https://thedimpau.se/2016/09/18/t777518106285453312.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/09/18/144210.html",
@@ -35107,6 +35847,14 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/09/18/t777492081409298432.html",
+				
+				"content_html": "<p>Biltong and Cider @ Abergavenny, Monmouthshire <a href=\"https://t.co/ElLLKZh4P1\">https://t.co/ElLLKZh4P1</a></p>\n",
+				"content_text": "Biltong and Cider @ Abergavenny, Monmouthshire [https://t.co/ElLLKZh4P1](https://t.co/ElLLKZh4P1)\n",
+				"date_published": "2016-09-18T13:58:51+01:00",
+				"url": "https://thedimpau.se/2016/09/18/t777492081409298432.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/09/18/abergavenny-food-festival.html",
 				"title": "Abergavenny Food Festival",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -35116,6 +35864,14 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/09/18/t777440206802694144.html",
+				
+				"content_html": "<p>Just posted a photo @ Abergennveny Food Festival <a href=\"https://t.co/FRZzvUI3yk\">https://t.co/FRZzvUI3yk</a></p>\n",
+				"content_text": "Just posted a photo @ Abergennveny Food Festival [https://t.co/FRZzvUI3yk](https://t.co/FRZzvUI3yk)\n",
+				"date_published": "2016-09-18T10:32:44+01:00",
+				"url": "https://thedimpau.se/2016/09/18/t777440206802694144.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/09/18/093025.html",
 				"title": "Early at Abergavenny Food Festival",
 				"content_html": "<!-- raw HTML omitted -->\n",
@@ -35123,6 +35879,22 @@
 				"date_published": "2016-09-18T10:30:25+01:00",
 				"url": "https://thedimpau.se/2016/09/18/093025.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/18/t777439610469126144.html",
+				
+				"content_html": "<p>Early at Abergavenny Food Festival @ Abergennveny Food Festival <a href=\"https://t.co/0CS7imZmq5\">https://t.co/0CS7imZmq5</a></p>\n",
+				"content_text": "Early at Abergavenny Food Festival @ Abergennveny Food Festival [https://t.co/0CS7imZmq5](https://t.co/0CS7imZmq5)\n",
+				"date_published": "2016-09-18T10:30:21+01:00",
+				"url": "https://thedimpau.se/2016/09/18/t777439610469126144.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/17/t777053784484802560.html",
+				
+				"content_html": "<p>Readers’ recipe swap: Marmalade | Eve O’Sullivan <a href=\"https://t.co/PLYChJt4hx\">https://t.co/PLYChJt4hx</a></p>\n",
+				"content_text": "Readers’ recipe swap: Marmalade | Eve O’Sullivan [https://t.co/PLYChJt4hx](https://t.co/PLYChJt4hx)\n",
+				"date_published": "2016-09-17T08:57:13+01:00",
+				"url": "https://thedimpau.se/2016/09/17/t777053784484802560.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/09/14/t775952282236039168.html",
@@ -35143,6 +35915,22 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/09/04/t772223156387999744.html",
+				
+				"content_html": "<p>YOU FOUND FRANCES <a href=\"https://t.co/Z9m5F6BQrg\">https://t.co/Z9m5F6BQrg</a></p>\n",
+				"content_text": "YOU FOUND FRANCES [https://t.co/Z9m5F6BQrg](https://t.co/Z9m5F6BQrg)\n",
+				"date_published": "2016-09-04T01:02:02+01:00",
+				"url": "https://thedimpau.se/2016/09/04/t772223156387999744.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/09/03/t772103327563808768.html",
+				
+				"content_html": "<p>The Shock Of The Neu! Michael Rother &amp; Green Man Festival Reviewed: <a href=\"https://t.co/ZDIq9rJYFZ\">https://t.co/ZDIq9rJYFZ</a></p>\n",
+				"content_text": "The Shock Of The Neu! Michael Rother &amp; Green Man Festival Reviewed: [https://t.co/ZDIq9rJYFZ](https://t.co/ZDIq9rJYFZ)\n",
+				"date_published": "2016-09-03T17:05:52+01:00",
+				"url": "https://thedimpau.se/2016/09/03/t772103327563808768.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/08/31/t770878838553313280.html",
 				
 				"content_html": "<p>♫ My Top 2 #lastfm artists: Edna St. Vincent Millay (5) &amp; Louis MacNeice (2) via @tweeklyfm #music</p>\n",
@@ -35150,6 +35938,14 @@
 				"date_published": "2016-08-31T08:00:12+01:00",
 				"url": "https://thedimpau.se/2016/08/31/t770878838553313280.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/08/28/t769788705590697984.html",
+				
+				"content_html": "<p>Shared from @thedimpause on #Ello - <a href=\"https://t.co/ss8tQ5ETVF\">https://t.co/ss8tQ5ETVF</a> <a href=\"https://t.co/6pzUrJvY6K\">https://t.co/6pzUrJvY6K</a></p>\n",
+				"content_text": "Shared from @thedimpause on #Ello - [https://t.co/ss8tQ5ETVF](https://t.co/ss8tQ5ETVF) [https://t.co/6pzUrJvY6K](https://t.co/6pzUrJvY6K)\n",
+				"date_published": "2016-08-28T07:48:24+01:00",
+				"url": "https://thedimpau.se/2016/08/28/t769788705590697984.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/08/26/132502.html",
@@ -35161,6 +35957,22 @@
 				"tags": ["Photography"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/08/26/t769163725836136448.html",
+				
+				"content_html": "<p>Calm, crystal clear waters of the Mediterranean @ Gerani,Chania,Crete <a href=\"https://t.co/ddvzsjMq8m\">https://t.co/ddvzsjMq8m</a></p>\n",
+				"content_text": "Calm, crystal clear waters of the Mediterranean @ Gerani,Chania,Crete [https://t.co/ddvzsjMq8m](https://t.co/ddvzsjMq8m)\n",
+				"date_published": "2016-08-26T14:24:57+01:00",
+				"url": "https://thedimpau.se/2016/08/26/t769163725836136448.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/08/26/t769098536340320256.html",
+				
+				"content_html": "<p>I&rsquo;d like to share a track from ViewRanger: <a href=\"https://t.co/Nm1YK3TTFx\">https://t.co/Nm1YK3TTFx</a></p>\n",
+				"content_text": "I'd like to share a track from ViewRanger: [https://t.co/Nm1YK3TTFx](https://t.co/Nm1YK3TTFx)\n",
+				"date_published": "2016-08-26T10:05:54+01:00",
+				"url": "https://thedimpau.se/2016/08/26/t769098536340320256.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/08/24/190443.html",
 				"title": "Hazy balcony sunset",
 				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted -->via Instagram <a href=\"http://bit.ly/2bOmxLm\">bit.ly/2bOmxLm</a></p>\n",
@@ -35168,6 +35980,14 @@
 				"date_published": "2016-08-24T20:04:43+01:00",
 				"url": "https://thedimpau.se/2016/08/24/190443.html",
 				"tags": ["Photography"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/08/24/t768524434139340800.html",
+				
+				"content_html": "<p>Hazy balcony sunset @ Pardalakis Apartments Gerani <a href=\"https://t.co/ZKuw0pP4EJ\">https://t.co/ZKuw0pP4EJ</a></p>\n",
+				"content_text": "Hazy balcony sunset @ Pardalakis Apartments Gerani [https://t.co/ZKuw0pP4EJ](https://t.co/ZKuw0pP4EJ)\n",
+				"date_published": "2016-08-24T20:04:38+01:00",
+				"url": "https://thedimpau.se/2016/08/24/t768524434139340800.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/08/24/t768342123041161216.html",
@@ -35197,6 +36017,14 @@
 				"tags": ["Music"]
 			},
 			{
+				"id": "http://TheDimPause.micro.blog/2016/08/06/t761816596348370944.html",
+				
+				"content_html": "<p>Chilli beef rendang <a href=\"https://t.co/0clEc18fjD\">https://t.co/0clEc18fjD</a></p>\n",
+				"content_text": "Chilli beef rendang [https://t.co/0clEc18fjD](https://t.co/0clEc18fjD)\n",
+				"date_published": "2016-08-06T07:50:05+01:00",
+				"url": "https://thedimpau.se/2016/08/06/t761816596348370944.html"
+			},
+			{
 				"id": "http://TheDimPause.micro.blog/2016/08/03/t760731960557854720.html",
 				
 				"content_html": "<p>♫  #lastfm artists: XTC (16), Hector Zazou (12), Benjamin Clementine (11), Haitink, Concertgebouw O., Pe.. via @tweeklyfm #music</p>\n",
@@ -35213,6 +36041,22 @@
 				"date_published": "2016-07-27T08:00:08+01:00",
 				"url": "https://thedimpau.se/2016/07/27/t758195247876825088.html",
 				"tags": ["Music"]
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/07/26/t757928053519552512.html",
+				
+				"content_html": "<p>Shared from @thedimpause on #Ello - <a href=\"https://t.co/SFzCJpAqWV\">https://t.co/SFzCJpAqWV</a> <a href=\"https://t.co/MIsgd7a67O\">https://t.co/MIsgd7a67O</a></p>\n",
+				"content_text": "Shared from @thedimpause on #Ello - [https://t.co/SFzCJpAqWV](https://t.co/SFzCJpAqWV) [https://t.co/MIsgd7a67O](https://t.co/MIsgd7a67O)\n",
+				"date_published": "2016-07-26T14:18:24+01:00",
+				"url": "https://thedimpau.se/2016/07/26/t757928053519552512.html"
+			},
+			{
+				"id": "http://TheDimPause.micro.blog/2016/07/25/t757447186271666176.html",
+				
+				"content_html": "<p>@Suzie_D7 No, went into an aubergine parmigiana …</p>\n",
+				"content_text": "@Suzie_D7 No, went into an aubergine parmigiana …\n",
+				"date_published": "2016-07-25T06:27:36+01:00",
+				"url": "https://thedimpau.se/2016/07/25/t757447186271666176.html"
 			},
 			{
 				"id": "http://TheDimPause.micro.blog/2016/07/20/t755658567861035009.html",
