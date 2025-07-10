@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2025/07/10/not-an-advert-but-this.html",
+				
+				"content_html": "<p>Not an advert, but this pizza was surprisingly good for a supermarket pizza 🍕</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Not an advert, but this pizza was surprisingly good for a supermarket pizza 🍕 \n\n<img src=\"uploads/2025/4ff4be37-a8be-4015-b8c2-39cd6463a588.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A Tesco Finest Sicilian Lemon & King Prawn wood-fired pizza package highlights a Napoli-inspired base with a béchamel sauce, lemon juice, garlic-marinated king prawns, fresh spinach, and parsley.\">\n",
+				"date_published": "2025-07-10T16:48:03+01:00",
+				"url": "https://thedimpau.se/2025/07/10/not-an-advert-but-this.html",
+				"tags": ["Photography","Food"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2025/07/10/heatwave-tms-garden.html",
+				
+				"content_html": "<p>☀️ 📻 🏏 🌱</p>\n<p>Heatwave, TMS, garden</p>\n",
+				"content_text": "☀️ 📻 🏏 🌱 \r\n\r\nHeatwave, TMS, garden\r\n",
+				"date_published": "2025-07-10T11:57:03+01:00",
+				"url": "https://thedimpau.se/2025/07/10/heatwave-tms-garden.html",
+				"tags": ["Cricket","Garden"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2025/07/10/currently-reading-lababy-by-tim.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781916222694\">L.A.Baby!</a> by Tim Key 📚</p>\n",
+				"content_text": "Currently reading: [L.A.Baby!](https://micro.blog/books/9781916222694) by Tim Key 📚\n",
+				"date_published": "2025-07-10T11:54:53+01:00",
+				"url": "https://thedimpau.se/2025/07/10/currently-reading-lababy-by-tim.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2025/07/09/england-v-netherlands-about-to.html",
 				
 				"content_html": "<p>England 🏴󠁧󠁢󠁥󠁮󠁧󠁿 v 🇳🇱 Netherlands about to start ⚽️</p>\n",
@@ -136,7 +163,7 @@
 				"id": "http://thedimpause.micro.blog/2025/06/27/the-eternaut-netflix.html",
 				
 				"content_html": "<p>The Eternaut, <em>Netflix</em> 2025 - ★★★★★ 📺</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The Eternaut, _Netflix_ 2025 - ★★★★★ 📺 \n\n<img class=\"smallimg\" src=\"https://thedimpau.se/uploads/2025/96f6dc13f9.png\" width=\"300\" height=\"157\" alt=\"\">\n",
+				"content_text": "The Eternaut, _Netflix_ 2025 - ★★★★★ 📺 \n\n<img class=\"smallimg\" src=\"https://eu.uploads.micro.blog/775/2025/96f6dc13f9.png\" width=\"300\" height=\"157\" alt=\"\">\n",
 				"date_published": "2025-06-27T18:27:30+01:00",
 				"url": "https://thedimpau.se/2025/06/27/the-eternaut-netflix.html",
 				"tags": ["FilmTV"]
