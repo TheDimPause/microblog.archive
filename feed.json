@@ -1,11 +1,29 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "the dim pause",
-	"icon": "https://micro.blog/thedimpause/avatar.jpg",
+	"icon": "<no value>",
 	"home_page_url": "https://thedimpau.se/",
 	"feed_url": "https://thedimpau.se/feed.json",
 	"items": [
 		
+			{
+				"id": "http://thedimpause.micro.blog/2026/09/14/location-check-in-old-cross.html",
+				
+				"content_html": "<p><a href=\"https://maps.apple.com/?q=51.674590,-4.911153&amp;ll=51.674590,-4.911153\">Location</a> check in — Old Cross Saws Inn, Pembroke for a pint of Abbot 🍺<br>🗺 <a href=\"https://www.openstreetmap.org/#map=16/51.67458962559722/-4.911152901507031\">Map of area</a></p>\n",
+				"content_text": "[Location](https://maps.apple.com/?q=51.674590,-4.911153&ll=51.674590,-4.911153) check in — Old Cross Saws Inn, Pembroke for a pint of Abbot 🍺<br>🗺 [Map of area](https://www.openstreetmap.org/#map=16/51.67458962559722/-4.911152901507031)\n",
+				"date_published": "2026-09-14T12:29:39+01:00",
+				"url": "https://thedimpau.se/2026/09/14/location-check-in-old-cross.html",
+				"tags": ["Location","Beer"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2026/09/13/my-top-weekly-artists-as.html",
+				
+				"content_html": "<p>🎵 My top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: The Smiths (18 plays), James Akers (12), Morrissey (12), Stornoway (5), Evanescence (3)</p>\n",
+				"content_text": "🎵 My top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): The Smiths (18 plays), James Akers (12), Morrissey (12), Stornoway (5), Evanescence (3)\n",
+				"date_published": "2026-09-13T07:34:48+01:00",
+				"url": "https://thedimpau.se/2026/09/13/my-top-weekly-artists-as.html",
+				"tags": ["Music"]
+			},
 			{
 				"id": "http://thedimpause.micro.blog/2026/09/13/watched-mayday-very-enjoyable.html",
 				
@@ -279,8 +297,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/08/15/preparing-to-host-quite-a.html",
 				
-				"content_html": "<p>Preparing to host quite a large garden BBQ 😅</p>\n<img src=\"uploads/2026/6b710ee2e9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n<img src=\"uploads/2026/img-4893.jpg\" width=\"600\" height=\"450\" alt=\"\">\n<img src=\"uploads/2026/img-4891.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"content_text": "Preparing to host quite a large garden BBQ 😅\n\n<img src=\"uploads/2026/6b710ee2e9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"uploads/2026/img-4893.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"uploads/2026/img-4891.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n\n\n",
+				"content_html": "<p>Preparing to host quite a large garden BBQ 😅</p>\n<img src=\"https://eu.uploads.micro.blog/775/2026/6b710ee2e9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-4893.jpg\" width=\"600\" height=\"450\" alt=\"\">\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-4891.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Preparing to host quite a large garden BBQ 😅\n\n<img src=\"https://eu.uploads.micro.blog/775/2026/6b710ee2e9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-4893.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-4891.jpg\" width=\"450\" height=\"600\" alt=\"\">\n\n\n\n",
 				"date_published": "2026-08-15T13:05:54+01:00",
 				"url": "https://thedimpau.se/2026/08/15/preparing-to-host-quite-a.html",
 				"tags": ["Photography"]
@@ -297,8 +315,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/08/10/113042.html",
 				"title": "Rail bridge near Aberdare Canal",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7jaBbG05tOjccrQUOxnCt6\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvnzcym2myzjutnzvmoc00zwqzltg4zdktzmriywi5mjg2mju1l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow road passes under a small bridge surrounded by greenery and trees under a clear blue sky.\"></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/7jaBbG05tOjccrQUOxnCt6\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvnzcym2myzjutnzvmoc00zwqzltg4zdktzmriywi5mjg2mju1l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow road passes under a small bridge surrounded by greenery and trees under a clear blue sky.\"></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7jaBbG05tOjccrQUOxnCt6\"><img src=\"uploads/2026/l3bvc3qvnzcym2myzjutnzvmoc00zwqzltg4zdktzmriywi5mjg2mju1l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow road passes under a small bridge surrounded by greenery and trees under a clear blue sky.\"></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/7jaBbG05tOjccrQUOxnCt6\"><img src=\"uploads/2026/l3bvc3qvnzcym2myzjutnzvmoc00zwqzltg4zdktzmriywi5mjg2mju1l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow road passes under a small bridge surrounded by greenery and trees under a clear blue sky.\"></a>\n",
 				"date_published": "2026-08-10T11:30:42+01:00",
 				"url": "https://thedimpau.se/2026/08/10/113042.html",
 				"tags": ["Photography","Glass Photo"]
@@ -387,8 +405,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/08/07/morning-walk.html",
 				"title": "Friday morning walk 🚶",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/6BnXJsS9mpssaBHeGuWv9a\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvy2uznjmzztitytyync00ota1lwe5ymetnjm4ztgzoweyzwnil3bob3rv.jpg\" width=\"2304\" height=\"3072\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/6BnXJsS9mpssaBHeGuWv9a\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvy2uznjmzztitytyync00ota1lwe5ymetnjm4ztgzoweyzwnil3bob3rv.jpg\" width=\"2304\" height=\"3072\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/6BnXJsS9mpssaBHeGuWv9a\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvy2uznjmzztitytyync00ota1lwe5ymetnjm4ztgzoweyzwnil3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow dirt path winds through a dense, green forest with sunlight filtering softly through the trees and a small wooden plank bridge crossing a shallow stream.\"></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/6BnXJsS9mpssaBHeGuWv9a\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvy2uznjmzztitytyync00ota1lwe5ymetnjm4ztgzoweyzwnil3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A narrow dirt path winds through a dense, green forest with sunlight filtering softly through the trees and a small wooden plank bridge crossing a shallow stream.\"></a>\n",
 				"date_published": "2026-08-07T08:32:15+01:00",
 				"url": "https://thedimpau.se/2026/08/07/morning-walk.html",
 				"tags": ["Photography","Walking","Glass Photo"]
@@ -504,8 +522,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/07/12/goal-through-a-window.html",
 				"title": "Goal through a window ⚽️",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2SiBx5CWqHlXc7A8X7YdKq\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntvkmzg2owetnwi0zi00m2nhltg1ntqtymmzoweyngjhzwm5l3bob3rv.jpg\" width=\"2304\" height=\"3072\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/2SiBx5CWqHlXc7A8X7YdKq\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntvkmzg2owetnwi0zi00m2nhltg1ntqtymmzoweyngjhzwm5l3bob3rv.jpg\" width=\"2304\" height=\"3072\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2SiBx5CWqHlXc7A8X7YdKq\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntvkmzg2owetnwi0zi00m2nhltg1ntqtymmzoweyngjhzwm5l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A group of people and a dog are gathered in a living room watching a soccer match on television.\"></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/2SiBx5CWqHlXc7A8X7YdKq\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntvkmzg2owetnwi0zi00m2nhltg1ntqtymmzoweyngjhzwm5l3bob3rv.jpg\" width=\"600\" height=\"800\" alt=\"Auto-generated description: A group of people and a dog are gathered in a living room watching a soccer match on television.\"></a>\n",
 				"date_published": "2026-07-12T00:22:53+01:00",
 				"url": "https://thedimpau.se/2026/07/12/goal-through-a-window.html",
 				"tags": ["Photography","Football","Glass Photo"]
@@ -639,8 +657,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/06/23/currently-reading-exodus-the-helium.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529073782/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781529073782\">Exodus: The Helium Sea</a> by Peter F. Hamilton 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529073782/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Exodus: The Helium Sea](https://micro.blog/books/9781529073782) by Peter F. Hamilton 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529073782/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781529073782/\">Exodus: The Helium Sea</a> by Peter F. Hamilton 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529073782/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Exodus: The Helium Sea](https://thedimpau.se/books/9781529073782/) by Peter F. Hamilton 📚\n",
 				"date_published": "2026-06-23T09:02:36+01:00",
 				"url": "https://thedimpau.se/2026/06/23/currently-reading-exodus-the-helium.html",
 				"tags": ["Books"]
@@ -648,8 +666,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/06/23/finished-reading-dungeon-crawler-carl.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798688591507\">Dungeon Crawler Carl</a> by Matt Dinniman 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Dungeon Crawler Carl](https://micro.blog/books/9798688591507) by Matt Dinniman 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9798688591507/\">Dungeon Crawler Carl</a> by Matt Dinniman 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Dungeon Crawler Carl](https://thedimpau.se/books/9798688591507/) by Matt Dinniman 📚\n",
 				"date_published": "2026-06-23T07:40:14+01:00",
 				"url": "https://thedimpau.se/2026/06/23/finished-reading-dungeon-crawler-carl.html",
 				"tags": ["Books"]
@@ -666,8 +684,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/06/22/currently-reading-dungeon-crawler-carl.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9798688591507\">Dungeon Crawler Carl A LitRPG/Gamelit Adventure</a> by Matt Dinniman 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Dungeon Crawler Carl A LitRPG/Gamelit Adventure](https://micro.blog/books/9798688591507) by Matt Dinniman 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9798688591507/\">Dungeon Crawler Carl A LitRPG/Gamelit Adventure</a> by Matt Dinniman 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798688591507/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Dungeon Crawler Carl A LitRPG/Gamelit Adventure](https://thedimpau.se/books/9798688591507/) by Matt Dinniman 📚\n",
 				"date_published": "2026-06-22T08:03:23+01:00",
 				"url": "https://thedimpau.se/2026/06/22/currently-reading-dungeon-crawler-carl.html",
 				"tags": ["Books"]
@@ -1026,8 +1044,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/05/25/finished-reading-the-medici-secret.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780099520184\">The Medici Secret</a> by Michael White 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Medici Secret](https://micro.blog/books/9780099520184) by Michael White 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780099520184/\">The Medici Secret</a> by Michael White 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Medici Secret](https://thedimpau.se/books/9780099520184/) by Michael White 📚\n",
 				"date_published": "2026-05-25T14:29:25+01:00",
 				"url": "https://thedimpau.se/2026/05/25/finished-reading-the-medici-secret.html",
 				"tags": ["Books"]
@@ -1251,8 +1269,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/04/24/currently-reading-the-medici-secret.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780099520184\">The Medici Secret</a> by Michael White 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Medici Secret](https://micro.blog/books/9780099520184) by Michael White 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780099520184/\">The Medici Secret</a> by Michael White 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780099520184/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Medici Secret](https://thedimpau.se/books/9780099520184/) by Michael White 📚\n",
 				"date_published": "2026-04-24T09:55:49+01:00",
 				"url": "https://thedimpau.se/2026/04/24/currently-reading-the-medici-secret.html",
 				"tags": ["Books"]
@@ -1296,8 +1314,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/04/18/finished-reading-the-rats-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780330318471\">The Rats of Montsouris</a> by Léo Malet 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Rats of Montsouris](https://micro.blog/books/9780330318471) by Léo Malet 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780330318471/\">The Rats of Montsouris</a> by Léo Malet 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Rats of Montsouris](https://thedimpau.se/books/9780330318471/) by Léo Malet 📚\n",
 				"date_published": "2026-04-18T17:12:10+01:00",
 				"url": "https://thedimpau.se/2026/04/18/finished-reading-the-rats-of.html",
 				"tags": ["Books"]
@@ -1422,8 +1440,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/04/06/finished-reading-the-weekend-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804185216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781804185216\">The Weekend</a> by T. M. Logan 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804185216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Weekend](https://micro.blog/books/9781804185216) by T. M. Logan 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804185216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781804185216/\">The Weekend</a> by T. M. Logan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804185216/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Weekend](https://thedimpau.se/books/9781804185216/) by T. M. Logan 📚\n",
 				"date_published": "2026-04-06T07:34:24+01:00",
 				"url": "https://thedimpau.se/2026/04/06/finished-reading-the-weekend-by.html",
 				"tags": ["Books"]
@@ -1557,8 +1575,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/03/18/currently-reading-the-rats-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780330318471\">The Rats of Montsouris</a> by Léo Malet 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Rats of Montsouris](https://micro.blog/books/9780330318471) by Léo Malet 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780330318471/\">The Rats of Montsouris</a> by Léo Malet 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330318471/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Rats of Montsouris](https://thedimpau.se/books/9780330318471/) by Léo Malet 📚\n",
 				"date_published": "2026-03-18T16:56:04+01:00",
 				"url": "https://thedimpau.se/2026/03/18/currently-reading-the-rats-of.html",
 				"tags": ["Books"]
@@ -1566,8 +1584,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/03/18/finished-reading-rue-de-la.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780330313223\">120 Rue De La Gare</a> by Léo Malet 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [120 Rue De La Gare](https://micro.blog/books/9780330313223) by Léo Malet 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780330313223/\">120 Rue De La Gare</a> by Léo Malet 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [120 Rue De La Gare](https://thedimpau.se/books/9780330313223/) by Léo Malet 📚\n",
 				"date_published": "2026-03-18T14:56:44+01:00",
 				"url": "https://thedimpau.se/2026/03/18/finished-reading-rue-de-la.html",
 				"tags": ["Books"]
@@ -1584,8 +1602,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/03/16/currently-reading-rue-de-la.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780330313223\">120 Rue De La Gare</a> by Léo Malet 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [120 Rue De La Gare](https://micro.blog/books/9780330313223) by Léo Malet 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780330313223/\">120 Rue De La Gare</a> by Léo Malet 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780330313223/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [120 Rue De La Gare](https://thedimpau.se/books/9780330313223/) by Léo Malet 📚\n",
 				"date_published": "2026-03-16T12:19:23+01:00",
 				"url": "https://thedimpau.se/2026/03/16/currently-reading-rue-de-la.html",
 				"tags": ["Books"]
@@ -1772,8 +1790,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/02/22/finished-reading-what-we-can.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781787335738\">What We Can Know</a> by Ian McEwan 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [What We Can Know](https://micro.blog/books/9781787335738) by Ian McEwan 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781787335738/\">What We Can Know</a> by Ian McEwan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [What We Can Know](https://thedimpau.se/books/9781787335738/) by Ian McEwan 📚\n",
 				"date_published": "2026-02-22T20:29:49+01:00",
 				"url": "https://thedimpau.se/2026/02/22/finished-reading-what-we-can.html",
 				"tags": ["Books"]
@@ -1808,7 +1826,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/02/18/watched-the-most-reluctant-convert.html",
 				
-				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FlrYRdwa78Ww1q7oEGbGSep97W16.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/804827\">The Most Reluctant Convert: The Untold Story of C.S. Lewis</a>, 2021 - ★★★ 🎥</p>\n<p>Not really an &ldquo;untold story&rdquo;, rather just little more than a well-performed monologue containing a series of quotes from Lewis' writings. The backdrop of recreated, sometimes briefly dramatised, scenes from Lewis' life are attractive enough to watch but I could almost as easily have listened to or read the monologue.</p>\n",
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FlrYRdwa78Ww1q7oEGbGSep97W16.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/804827\">The Most Reluctant Convert: The Untold Story of C.S. Lewis</a>, 2021 - ★★★ 🎥</p>\n<p>Not really an &ldquo;untold story&rdquo;, rather just little more than a well-performed monologue containing a series of quotes from Lewis&rsquo; writings. The backdrop of recreated, sometimes briefly dramatised, scenes from Lewis&rsquo; life are attractive enough to watch but I could almost as easily have listened to or read the monologue.</p>\n",
 				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FlrYRdwa78Ww1q7oEGbGSep97W16.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [The Most Reluctant Convert: The Untold Story of C.S. Lewis](https://www.themoviedb.org/movie/804827), 2021 - ★★★ 🎥\n\nNot really an \"untold story\", rather just little more than a well-performed monologue containing a series of quotes from Lewis' writings. The backdrop of recreated, sometimes briefly dramatised, scenes from Lewis' life are attractive enough to watch but I could almost as easily have listened to or read the monologue.\n",
 				"date_published": "2026-02-18T18:01:36+01:00",
 				"url": "https://thedimpau.se/2026/02/18/watched-the-most-reluctant-convert.html",
@@ -2149,8 +2167,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/01/23/currently-reading-what-we-can.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781787335738\">What We Can Know</a> by Ian McEwan 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [What We Can Know](https://micro.blog/books/9781787335738) by Ian McEwan 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781787335738/\">What We Can Know</a> by Ian McEwan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781787335738/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [What We Can Know](https://thedimpau.se/books/9781787335738/) by Ian McEwan 📚\n",
 				"date_published": "2026-01-23T12:04:45+01:00",
 				"url": "https://thedimpau.se/2026/01/23/currently-reading-what-we-can.html",
 				"tags": ["Books"]
@@ -2203,8 +2221,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/01/14/finished-reading-crickonomics-the-anatomy.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781472992734\">Crickonomics: The Anatomy of Modern Cricket</a> by Stefan Szymanski and Tim Wigmore 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Crickonomics: The Anatomy of Modern Cricket](https://micro.blog/books/9781472992734) by Stefan Szymanski and Tim Wigmore 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781472992734/\">Crickonomics: The Anatomy of Modern Cricket</a> by Stefan Szymanski and Tim Wigmore 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Crickonomics: The Anatomy of Modern Cricket](https://thedimpau.se/books/9781472992734/) by Stefan Szymanski and Tim Wigmore 📚\n",
 				"date_published": "2026-01-14T18:21:34+01:00",
 				"url": "https://thedimpau.se/2026/01/14/finished-reading-crickonomics-the-anatomy.html",
 				"tags": ["Books","Cricket"]
@@ -2212,8 +2230,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/01/13/finished-reading-an-instance-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781409058076/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781409058076\">An Instance Of The Fingerpost</a> by Iain Pears 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781409058076/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [An Instance Of The Fingerpost](https://micro.blog/books/9781409058076) by Iain Pears 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781409058076/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781409058076/\">An Instance Of The Fingerpost</a> by Iain Pears 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781409058076/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [An Instance Of The Fingerpost](https://thedimpau.se/books/9781409058076/) by Iain Pears 📚\n",
 				"date_published": "2026-01-13T13:38:10+01:00",
 				"url": "https://thedimpau.se/2026/01/13/finished-reading-an-instance-of.html",
 				"tags": ["Books"]
@@ -2311,8 +2329,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/01/07/currently-reading-the-odyssey-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780393356250/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780393356250\">The Odyssey</a> by Homer 📚</p>\n<p>About to start Book 6 of <em>The Odyssey</em>. Progressing - at a fairly slow pace that suits me 😄 - alongside the <a href=\"https://www.instantclassicspod.com\">Instant Classics Podcast</a> Book Club episodes. Emily Wilson&rsquo;s translation is a pleasure to read.</p>\n<blockquote>\n<p>Tell me about a complicated man.</p>\n</blockquote>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780393356250/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Odyssey](https://micro.blog/books/9780393356250) by Homer 📚\n\nAbout to start Book 6 of _The Odyssey_. Progressing - at a fairly slow pace that suits me 😄 - alongside the [Instant Classics Podcast](https://www.instantclassicspod.com) Book Club episodes. Emily Wilson's translation is a pleasure to read.\n\n> Tell me about a complicated man.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780393356250/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780393356250/\">The Odyssey</a> by Homer 📚</p>\n<p>About to start Book 6 of <em>The Odyssey</em>. Progressing - at a fairly slow pace that suits me 😄 - alongside the <a href=\"https://www.instantclassicspod.com\">Instant Classics Podcast</a> Book Club episodes. Emily Wilson&rsquo;s translation is a pleasure to read.</p>\n<blockquote>\n<p>Tell me about a complicated man.</p>\n</blockquote>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780393356250/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Odyssey](https://thedimpau.se/books/9780393356250/) by Homer 📚\n\nAbout to start Book 6 of _The Odyssey_. Progressing - at a fairly slow pace that suits me 😄 - alongside the [Instant Classics Podcast](https://www.instantclassicspod.com) Book Club episodes. Emily Wilson's translation is a pleasure to read.\n\n> Tell me about a complicated man.\n",
 				"date_published": "2026-01-07T11:31:54+01:00",
 				"url": "https://thedimpau.se/2026/01/07/currently-reading-the-odyssey-by.html",
 				"tags": ["Books"]
@@ -2977,8 +2995,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/10/29/finished-reading-introduction-to-buddhism.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9798849276120/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9798849276120\">Introduction to Buddhism and the Practice of Zazen: The Teachings of Gudo Nishijima Roshi</a> by Michael Luetchford 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9798849276120/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Introduction to Buddhism and the Practice of Zazen: The Teachings of Gudo Nishijima Roshi](https://micro.blog/books/9798849276120) by Michael Luetchford 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9798849276120/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9798849276120/\">Introduction to Buddhism and the Practice of Zazen: The Teachings of Gudo Nishijima Roshi</a> by Michael Luetchford 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9798849276120/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Introduction to Buddhism and the Practice of Zazen: The Teachings of Gudo Nishijima Roshi](https://thedimpau.se/books/9798849276120/) by Michael Luetchford 📚\n",
 				"date_published": "2025-10-29T15:56:20+01:00",
 				"url": "https://thedimpau.se/2025/10/29/finished-reading-introduction-to-buddhism.html",
 				"tags": ["Books","Buddhism"]
@@ -3310,8 +3328,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/10/02/finished-reading-the-stone-door.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781681378947/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781681378947\">The Stone Door</a> by Leonora Carrington 📚</p>\n<p>Not an easy or straightforward read. Definitely wish I’d read the Afterword before the novel, it explains a lot.</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781681378947/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Stone Door](https://micro.blog/books/9781681378947) by Leonora Carrington 📚\n\nNot an easy or straightforward read. Definitely wish I’d read the Afterword before the novel, it explains a lot.\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781681378947/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781681378947/\">The Stone Door</a> by Leonora Carrington 📚</p>\n<p>Not an easy or straightforward read. Definitely wish I’d read the Afterword before the novel, it explains a lot.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781681378947/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Stone Door](https://thedimpau.se/books/9781681378947/) by Leonora Carrington 📚\n\nNot an easy or straightforward read. Definitely wish I’d read the Afterword before the novel, it explains a lot.\n",
 				"date_published": "2025-10-02T11:14:43+01:00",
 				"url": "https://thedimpau.se/2025/10/02/finished-reading-the-stone-door.html",
 				"tags": ["Books"]
@@ -3319,8 +3337,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/10/01/finished-reading-smile-please-an.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141984544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780141984544\">Smile Please: An Unfinished Autobiography</a> by Jean Rhys 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141984544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Smile Please: An Unfinished Autobiography](https://micro.blog/books/9780141984544) by Jean Rhys 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141984544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780141984544/\">Smile Please: An Unfinished Autobiography</a> by Jean Rhys 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141984544/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Smile Please: An Unfinished Autobiography](https://thedimpau.se/books/9780141984544/) by Jean Rhys 📚\n",
 				"date_published": "2025-10-01T16:59:40+01:00",
 				"url": "https://thedimpau.se/2025/10/01/finished-reading-smile-please-an.html",
 				"tags": ["Books"]
@@ -3346,8 +3364,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/09/30/finished-reading-balthazar-by-lawrence.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780140153217/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780140153217\">Balthazar</a> by Lawrence Durrell 📚</p>\n<p>Audiobook version 📣</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780140153217/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Balthazar](https://micro.blog/books/9780140153217) by Lawrence Durrell 📚\n\nAudiobook version 📣\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780140153217/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780140153217/\">Balthazar</a> by Lawrence Durrell 📚</p>\n<p>Audiobook version 📣</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780140153217/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Balthazar](https://thedimpau.se/books/9780140153217/) by Lawrence Durrell 📚\n\nAudiobook version 📣\n",
 				"date_published": "2025-09-30T10:04:51+01:00",
 				"url": "https://thedimpau.se/2025/09/30/finished-reading-balthazar-by-lawrence.html",
 				"tags": ["Books"]
@@ -3391,8 +3409,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/09/28/finished-reading-zen-confidential-confessions.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781611800333/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781611800333\">Zen Confidential: Confessions of a Wayward Monk</a> by Shozan Jack Haubner 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781611800333/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Zen Confidential: Confessions of a Wayward Monk](https://micro.blog/books/9781611800333) by Shozan Jack Haubner 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781611800333/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781611800333/\">Zen Confidential: Confessions of a Wayward Monk</a> by Shozan Jack Haubner 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781611800333/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Zen Confidential: Confessions of a Wayward Monk](https://thedimpau.se/books/9781611800333/) by Shozan Jack Haubner 📚\n",
 				"date_published": "2025-09-28T19:28:06+01:00",
 				"url": "https://thedimpau.se/2025/09/28/finished-reading-zen-confidential-confessions.html",
 				"tags": ["Books"]
@@ -3427,8 +3445,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/09/27/finished-reading-wide-sargasso-sea.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141182858/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780141182858\">Wide Sargasso Sea</a> by Jean Rhys 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141182858/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Wide Sargasso Sea](https://micro.blog/books/9780141182858) by Jean Rhys 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141182858/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780141182858/\">Wide Sargasso Sea</a> by Jean Rhys 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141182858/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Wide Sargasso Sea](https://thedimpau.se/books/9780141182858/) by Jean Rhys 📚\n",
 				"date_published": "2025-09-27T12:03:29+01:00",
 				"url": "https://thedimpau.se/2025/09/27/finished-reading-wide-sargasso-sea.html",
 				"tags": ["Books"]
@@ -3472,8 +3490,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/09/24/finished-reading-short-end-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780008559359/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780008559359\">The Short End of the Sonnenallee</a> by Thomas Brussig 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780008559359/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Short End of the Sonnenallee](https://micro.blog/books/9780008559359) by Thomas Brussig 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780008559359/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780008559359/\">The Short End of the Sonnenallee</a> by Thomas Brussig 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780008559359/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Short End of the Sonnenallee](https://thedimpau.se/books/9780008559359/) by Thomas Brussig 📚\n",
 				"date_published": "2025-09-24T18:09:30+01:00",
 				"url": "https://thedimpau.se/2025/09/24/finished-reading-short-end-of.html",
 				"tags": ["Books"]
@@ -3760,8 +3778,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/09/03/finished-reading-i-claudius-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141188591/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780141188591\">I, Claudius</a> by Robert Graves 📚</p>\n<p>Audiobook version 📣</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141188591/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [I, Claudius](https://micro.blog/books/9780141188591) by Robert Graves 📚\n\nAudiobook version 📣\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141188591/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780141188591/\">I, Claudius</a> by Robert Graves 📚</p>\n<p>Audiobook version 📣</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141188591/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [I, Claudius](https://thedimpau.se/books/9780141188591/) by Robert Graves 📚\n\nAudiobook version 📣\n",
 				"date_published": "2025-09-03T10:32:53+01:00",
 				"url": "https://thedimpau.se/2025/09/03/finished-reading-i-claudius-by.html",
 				"tags": ["Books"]
@@ -3912,8 +3930,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/08/19/finished-reading-finding-the-edge.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781785123511/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781785123511\">Finding the Edge</a> by Jimmy Anderson 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781785123511/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Finding the Edge](https://micro.blog/books/9781785123511) by Jimmy Anderson 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781785123511/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781785123511/\">Finding the Edge</a> by Jimmy Anderson 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781785123511/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Finding the Edge](https://thedimpau.se/books/9781785123511/) by Jimmy Anderson 📚\n",
 				"date_published": "2025-08-19T07:25:51+01:00",
 				"url": "https://thedimpau.se/2025/08/19/finished-reading-finding-the-edge.html",
 				"tags": ["Books"]
@@ -3984,8 +4002,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/08/11/finished-reading-the-fire-next.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780140182750/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780140182750\">The Fire Next Time</a> by James Baldwin 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780140182750/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Fire Next Time](https://micro.blog/books/9780140182750) by James Baldwin 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780140182750/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780140182750/\">The Fire Next Time</a> by James Baldwin 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780140182750/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Fire Next Time](https://thedimpau.se/books/9780140182750/) by James Baldwin 📚\n",
 				"date_published": "2025-08-11T15:58:48+01:00",
 				"url": "https://thedimpau.se/2025/08/11/finished-reading-the-fire-next.html",
 				"tags": ["Books"]
@@ -4218,8 +4236,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/07/18/finished-reading-everything-must-go.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781529095951\">Everything Must Go: Why We Are Obsessed With the End of the World</a> by Dorian Lynskey 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Everything Must Go: Why We Are Obsessed With the End of the World](https://micro.blog/books/9781529095951) by Dorian Lynskey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781529095951/\">Everything Must Go: Why We Are Obsessed With the End of the World</a> by Dorian Lynskey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Everything Must Go: Why We Are Obsessed With the End of the World](https://thedimpau.se/books/9781529095951/) by Dorian Lynskey 📚\n",
 				"date_published": "2025-07-18T19:07:19+01:00",
 				"url": "https://thedimpau.se/2025/07/18/finished-reading-everything-must-go.html",
 				"tags": ["Books"]
@@ -4362,8 +4380,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/07/10/currently-reading-lababy-by-tim.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781916222694/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781916222694\">L.A.Baby!</a> by Tim Key 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781916222694/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [L.A.Baby!](https://micro.blog/books/9781916222694) by Tim Key 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781916222694/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781916222694/\">L.A.Baby!</a> by Tim Key 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781916222694/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [L.A.Baby!](https://thedimpau.se/books/9781916222694/) by Tim Key 📚\n",
 				"date_published": "2025-07-10T11:54:53+01:00",
 				"url": "https://thedimpau.se/2025/07/10/currently-reading-lababy-by-tim.html",
 				"tags": ["Books"]
@@ -4812,8 +4830,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/06/09/currently-reading-everything-must-go.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781529095951\">Everything Must Go: Why We Are Obsessed With the End of the World</a> by Dorian Lynskey 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Everything Must Go: Why We Are Obsessed With the End of the World](https://micro.blog/books/9781529095951) by Dorian Lynskey 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781529095951/\">Everything Must Go: Why We Are Obsessed With the End of the World</a> by Dorian Lynskey 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529095951/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Everything Must Go: Why We Are Obsessed With the End of the World](https://thedimpau.se/books/9781529095951/) by Dorian Lynskey 📚\n",
 				"date_published": "2025-06-09T08:58:59+01:00",
 				"url": "https://thedimpau.se/2025/06/09/currently-reading-everything-must-go.html",
 				"tags": ["Books"]
@@ -4821,8 +4839,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/06/09/finished-reading-second-place-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/\">Second Place</a> by Rachel Cusk 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Second Place](https://micro.blog/books/) by Rachel Cusk 📚\n",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/\">Second Place</a> by Rachel Cusk 📚</p>\n",
+				"content_text": "Finished reading: [Second Place](https://micro.blog/books/) by Rachel Cusk 📚\n",
 				"date_published": "2025-06-09T06:52:09+01:00",
 				"url": "https://thedimpau.se/2025/06/09/finished-reading-second-place-by.html",
 				"tags": ["Books"]
@@ -4857,8 +4875,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/06/08/currently-reading-second-place-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/\">Second Place</a> by Rachel Cusk 📚</p>\n<blockquote>\n<p>A female narrator, M, invites a famous painter, L, to use her guesthouse on the English coast marshlands where she lives with her family. It is inspired by Mabel Dodge Luhan&rsquo;s 1932 memoir Lorenzo in Taos, about the writer D. H. Lawrence&rsquo;s early 1920s sojourn in Taos, New Mexico.</p>\n</blockquote>\n<p><a href=\"https://en.wikipedia.org/wiki/Second_Place_(novel)\">Wikipedia</a></p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Second Place](https://micro.blog/books/) by Rachel Cusk 📚\n\n>A female narrator, M, invites a famous painter, L, to use her guesthouse on the English coast marshlands where she lives with her family. It is inspired by Mabel Dodge Luhan's 1932 memoir Lorenzo in Taos, about the writer D. H. Lawrence's early 1920s sojourn in Taos, New Mexico.\n\n[Wikipedia](https://en.wikipedia.org/wiki/Second_Place_(novel))\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/\">Second Place</a> by Rachel Cusk 📚</p>\n<blockquote>\n<p>A female narrator, M, invites a famous painter, L, to use her guesthouse on the English coast marshlands where she lives with her family. It is inspired by Mabel Dodge Luhan&rsquo;s 1932 memoir Lorenzo in Taos, about the writer D. H. Lawrence&rsquo;s early 1920s sojourn in Taos, New Mexico.</p>\n</blockquote>\n<p><a href=\"https://en.wikipedia.org/wiki/Second_Place_(novel)\">Wikipedia</a></p>\n",
+				"content_text": "Currently reading: [Second Place](https://micro.blog/books/) by Rachel Cusk 📚\n\n>A female narrator, M, invites a famous painter, L, to use her guesthouse on the English coast marshlands where she lives with her family. It is inspired by Mabel Dodge Luhan's 1932 memoir Lorenzo in Taos, about the writer D. H. Lawrence's early 1920s sojourn in Taos, New Mexico.\n\n[Wikipedia](https://en.wikipedia.org/wiki/Second_Place_(novel))\n",
 				"date_published": "2025-06-08T07:51:57+01:00",
 				"url": "https://thedimpau.se/2025/06/08/currently-reading-second-place-by.html",
 				"tags": ["Books"]
@@ -5010,8 +5028,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/05/27/finished-reading-cricket-in-poetry.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781801506922\">Cricket in Poetry: Run-Stealers, Gatlings and Graces</a> by Bob Doran 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Cricket in Poetry: Run-Stealers, Gatlings and Graces](https://micro.blog/books/9781801506922) by Bob Doran 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781801506922/\">Cricket in Poetry: Run-Stealers, Gatlings and Graces</a> by Bob Doran 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Cricket in Poetry: Run-Stealers, Gatlings and Graces](https://thedimpau.se/books/9781801506922/) by Bob Doran 📚\n",
 				"date_published": "2025-05-27T09:31:36+01:00",
 				"url": "https://thedimpau.se/2025/05/27/finished-reading-cricket-in-poetry.html",
 				"tags": ["Books","Cricket"]
@@ -5109,8 +5127,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/05/10/currently-reading-cricket-in-poetry.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781801506922\">Cricket in Poetry: Run-Stealers, Gatlings and Graces</a> by Bob Doran 🏏📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Cricket in Poetry: Run-Stealers, Gatlings and Graces](https://micro.blog/books/9781801506922) by Bob Doran 🏏📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781801506922/\">Cricket in Poetry: Run-Stealers, Gatlings and Graces</a> by Bob Doran 🏏📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781801506922/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Cricket in Poetry: Run-Stealers, Gatlings and Graces](https://thedimpau.se/books/9781801506922/) by Bob Doran 🏏📚\n",
 				"date_published": "2025-05-10T15:13:07+01:00",
 				"url": "https://thedimpau.se/2025/05/10/currently-reading-cricket-in-poetry.html",
 				"tags": ["Books","Cricket","Poetry"]
@@ -5118,8 +5136,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/05/10/finished-reading-the-ministry-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781399726368\">The Ministry of Time</a> by Kaliane Bradley 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Ministry of Time](https://micro.blog/books/9781399726368) by Kaliane Bradley 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781399726368/\">The Ministry of Time</a> by Kaliane Bradley 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Ministry of Time](https://thedimpau.se/books/9781399726368/) by Kaliane Bradley 📚\n",
 				"date_published": "2025-05-10T14:14:39+01:00",
 				"url": "https://thedimpau.se/2025/05/10/finished-reading-the-ministry-of.html",
 				"tags": ["Books"]
@@ -5127,8 +5145,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/05/06/currently-reading-the-ministry-of.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781399726368\">The Ministry of Time</a> by Kaliane Bradley 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Ministry of Time](https://micro.blog/books/9781399726368) by Kaliane Bradley 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781399726368/\">The Ministry of Time</a> by Kaliane Bradley 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399726368/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Ministry of Time](https://thedimpau.se/books/9781399726368/) by Kaliane Bradley 📚\n",
 				"date_published": "2025-05-06T17:41:13+01:00",
 				"url": "https://thedimpau.se/2025/05/06/currently-reading-the-ministry-of.html",
 				"tags": ["Books"]
@@ -5163,8 +5181,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/05/01/finished-reading-scarpia-by-piers.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781408867525\">Scarpia</a> by Piers Paul Read 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Scarpia](https://micro.blog/books/9781408867525) by Piers Paul Read 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781408867525/\">Scarpia</a> by Piers Paul Read 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Scarpia](https://thedimpau.se/books/9781408867525/) by Piers Paul Read 📚\n",
 				"date_published": "2025-05-01T14:37:36+01:00",
 				"url": "https://thedimpau.se/2025/05/01/finished-reading-scarpia-by-piers.html",
 				"tags": ["Books"]
@@ -5190,8 +5208,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/04/27/currently-reading-scarpia-by-piers.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781408867525\">Scarpia</a> by Piers Paul Read 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Scarpia](https://micro.blog/books/9781408867525) by Piers Paul Read 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781408867525/\">Scarpia</a> by Piers Paul Read 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781408867525/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Scarpia](https://thedimpau.se/books/9781408867525/) by Piers Paul Read 📚\n",
 				"date_published": "2025-04-27T10:25:15+01:00",
 				"url": "https://thedimpau.se/2025/04/27/currently-reading-scarpia-by-piers.html",
 				"tags": ["Books"]
@@ -5199,8 +5217,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/04/27/finished-reading-what-remains-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781324090526/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781324090526\">What Remains: The Collected Poems of Hannah Arendt</a> by Hannah Arendt 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781324090526/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [What Remains: The Collected Poems of Hannah Arendt](https://micro.blog/books/9781324090526) by Hannah Arendt 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781324090526/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781324090526/\">What Remains: The Collected Poems of Hannah Arendt</a> by Hannah Arendt 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781324090526/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [What Remains: The Collected Poems of Hannah Arendt](https://thedimpau.se/books/9781324090526/) by Hannah Arendt 📚\n",
 				"date_published": "2025-04-27T10:20:58+01:00",
 				"url": "https://thedimpau.se/2025/04/27/finished-reading-what-remains-by.html",
 				"tags": ["Books"]
@@ -5244,7 +5262,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/04/20/my-top-weekly-artists-as.html",
 				
-				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Leif Ove Andsnes (24 plays), Roger Waters (22), Lankum (13), Leif Ove Andsnes, The Norwegian Soloists' Choir &amp; Grete Pedersen (12), Babyshambles (11)</p>\n",
+				"content_html": "<p>🎵 My Top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Leif Ove Andsnes (24 plays), Roger Waters (22), Lankum (13), Leif Ove Andsnes, The Norwegian Soloists&rsquo; Choir &amp; Grete Pedersen (12), Babyshambles (11)</p>\n",
 				"content_text": "🎵 My Top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): Leif Ove Andsnes (24 plays), Roger Waters (22), Lankum (13), Leif Ove Andsnes, The Norwegian Soloists' Choir & Grete Pedersen (12), Babyshambles (11)  \n\n",
 				"date_published": "2025-04-20T06:56:18+01:00",
 				"url": "https://thedimpau.se/2025/04/20/my-top-weekly-artists-as.html",
@@ -5532,8 +5550,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/23/currently-reading-what-remains-by.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/\">What Remains</a> by Hannah Arendt 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [What Remains](https://micro.blog/books/) by Hannah Arendt 📚\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/\">What Remains</a> by Hannah Arendt 📚</p>\n",
+				"content_text": "Currently reading: [What Remains](https://micro.blog/books/) by Hannah Arendt 📚\n",
 				"date_published": "2025-03-23T10:22:56+01:00",
 				"url": "https://thedimpau.se/2025/03/23/currently-reading-what-remains-by.html",
 				"tags": ["Books"]
@@ -5550,8 +5568,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/23/finished-reading-the-red-hollow.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781399801874\">The Red Hollow</a> by Natalie Marlow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Red Hollow](https://micro.blog/books/9781399801874) by Natalie Marlow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781399801874/\">The Red Hollow</a> by Natalie Marlow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Red Hollow](https://thedimpau.se/books/9781399801874/) by Natalie Marlow 📚\n",
 				"date_published": "2025-03-23T09:16:40+01:00",
 				"url": "https://thedimpau.se/2025/03/23/finished-reading-the-red-hollow.html",
 				"tags": ["Books"]
@@ -5604,7 +5622,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/15/wales-england-england-superb-today.html",
 				
-				"content_html": "<p>Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 14 - 68 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 🏉</p>\n<p>England superb today. Wales' heaviest defeat in Cardiff in championship history - Five or Six Nations. Also their largest losing margin ever against England and the biggest score they’ve conceded in Cardiff. Not a good day for Welsh rugby.</p>\n",
+				"content_html": "<p>Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 14 - 68 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 🏉</p>\n<p>England superb today. Wales&rsquo; heaviest defeat in Cardiff in championship history - Five or Six Nations. Also their largest losing margin ever against England and the biggest score they’ve conceded in Cardiff. Not a good day for Welsh rugby.</p>\n",
 				"content_text": "Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 14 - 68 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England 🏉\n\nEngland superb today. Wales' heaviest defeat in Cardiff in championship history - Five or Six Nations. Also their largest losing margin ever against England and the biggest score they’ve conceded in Cardiff. Not a good day for Welsh rugby.\n",
 				"date_published": "2025-03-15T19:47:38+01:00",
 				"url": "https://thedimpau.se/2025/03/15/wales-england-england-superb-today.html",
@@ -5658,8 +5676,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/09/currently-reading-the-red-hollow.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781399801874\">The Red Hollow</a> by Natalie Marlow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Red Hollow](https://micro.blog/books/9781399801874) by Natalie Marlow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781399801874/\">The Red Hollow</a> by Natalie Marlow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801874/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Red Hollow](https://thedimpau.se/books/9781399801874/) by Natalie Marlow 📚\n",
 				"date_published": "2025-03-09T10:53:51+01:00",
 				"url": "https://thedimpau.se/2025/03/09/currently-reading-the-red-hollow.html",
 				"tags": ["Books"]
@@ -5712,8 +5730,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/06/finished-reading-orbital-by-samantha.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/\">Orbital</a> by Samantha Harvey 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Orbital](https://micro.blog/books/) by Samantha Harvey 📚\n",
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/\">Orbital</a> by Samantha Harvey 📚</p>\n",
+				"content_text": "Finished reading: [Orbital](https://micro.blog/books/) by Samantha Harvey 📚\n",
 				"date_published": "2025-03-06T23:39:18+01:00",
 				"url": "https://thedimpau.se/2025/03/06/finished-reading-orbital-by-samantha.html",
 				"tags": ["Books"]
@@ -5730,8 +5748,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/06/currently-reading-orbital-by-samantha.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/\">Orbital</a> by Samantha Harvey 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Orbital](https://micro.blog/books/) by Samantha Harvey 📚\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/\">Orbital</a> by Samantha Harvey 📚</p>\n",
+				"content_text": "Currently reading: [Orbital](https://micro.blog/books/) by Samantha Harvey 📚\n",
 				"date_published": "2025-03-06T18:28:31+01:00",
 				"url": "https://thedimpau.se/2025/03/06/currently-reading-orbital-by-samantha.html",
 				"tags": ["Books"]
@@ -5766,8 +5784,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/05/finished-reading-the-witcher-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780316333528\">The Witcher: The Last Wish</a> by Andrzej Sapkowski 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Witcher: The Last Wish](https://micro.blog/books/9780316333528) by Andrzej Sapkowski 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780316333528/\">The Witcher: The Last Wish</a> by Andrzej Sapkowski 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Witcher: The Last Wish](https://thedimpau.se/books/9780316333528/) by Andrzej Sapkowski 📚\n",
 				"date_published": "2025-03-05T19:48:24+01:00",
 				"url": "https://thedimpau.se/2025/03/05/finished-reading-the-witcher-the.html",
 				"tags": ["Books"]
@@ -5811,8 +5829,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/03/05/currently-reading-tir-the-story.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/\">Tir: The Story of the Welsh Landscape</a> by Carwyn Graves 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/books/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Tir: The Story of the Welsh Landscape](https://micro.blog/books/) by Carwyn Graves 📚\n",
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/\">Tir: The Story of the Welsh Landscape</a> by Carwyn Graves 📚</p>\n",
+				"content_text": "Currently reading: [Tir: The Story of the Welsh Landscape](https://micro.blog/books/) by Carwyn Graves 📚\n",
 				"date_published": "2025-03-05T13:42:24+01:00",
 				"url": "https://thedimpau.se/2025/03/05/currently-reading-tir-the-story.html",
 				"tags": ["Books"]
@@ -5892,8 +5910,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/02/25/finished-reading-goodbye-to-all.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780141184593\">Goodbye to All That</a> by Robert Graves 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Goodbye to All That](https://micro.blog/books/9780141184593) by Robert Graves 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780141184593/\">Goodbye to All That</a> by Robert Graves 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Goodbye to All That](https://thedimpau.se/books/9780141184593/) by Robert Graves 📚\n",
 				"date_published": "2025-02-25T18:25:17+01:00",
 				"url": "https://thedimpau.se/2025/02/25/finished-reading-goodbye-to-all.html",
 				"tags": ["Books"]
@@ -6387,8 +6405,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2025/01/14/currently-reading-goodbye-to-all.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780141184593\">Goodbye to All That</a> by Robert Graves 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Goodbye to All That](https://micro.blog/books/9780141184593) by Robert Graves 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780141184593/\">Goodbye to All That</a> by Robert Graves 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780141184593/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Goodbye to All That](https://thedimpau.se/books/9780141184593/) by Robert Graves 📚\n",
 				"date_published": "2025-01-14T10:04:18+01:00",
 				"url": "https://thedimpau.se/2025/01/14/currently-reading-goodbye-to-all.html",
 				"tags": ["Books"]
@@ -7935,8 +7953,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/08/23/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780316333528\">The Last Wish</a> by Andrzej Sapkowski 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Last Wish](https://micro.blog/books/9780316333528) by Andrzej Sapkowski 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780316333528/\">The Last Wish</a> by Andrzej Sapkowski 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780316333528/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Last Wish](https://thedimpau.se/books/9780316333528/) by Andrzej Sapkowski 📚\n",
 				"date_published": "2024-08-23T14:04:27+01:00",
 				"url": "https://thedimpau.se/2024/08/23/currently-reading-the.html",
 				"tags": ["Books"]
@@ -8079,8 +8097,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/08/07/finished-reading-grotesque.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/0099520834\">Grotesque</a> by Natsuo Kirino 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Grotesque](https://micro.blog/books/0099520834) by Natsuo Kirino 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/0099520834/\">Grotesque</a> by Natsuo Kirino 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Grotesque](https://thedimpau.se/books/0099520834/) by Natsuo Kirino 📚\n",
 				"date_published": "2024-08-07T13:25:53+01:00",
 				"url": "https://thedimpau.se/2024/08/07/finished-reading-grotesque.html",
 				"tags": ["Books"]
@@ -8196,8 +8214,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/07/26/finished-reading-zone.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781529942293\">The Zone of Interest</a> by Martin Amis 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Zone of Interest](https://micro.blog/books/9781529942293) by Martin Amis 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781529942293/\">The Zone of Interest</a> by Martin Amis 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Zone of Interest](https://thedimpau.se/books/9781529942293/) by Martin Amis 📚\n",
 				"date_published": "2024-07-26T21:59:10+01:00",
 				"url": "https://thedimpau.se/2024/07/26/finished-reading-zone.html",
 				"tags": ["Books"]
@@ -8250,8 +8268,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/07/22/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781529942293\">The Zone of Interest</a> by Martin Amis 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Zone of Interest](https://micro.blog/books/9781529942293) by Martin Amis 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781529942293/\">The Zone of Interest</a> by Martin Amis 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529942293/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Zone of Interest](https://thedimpau.se/books/9781529942293/) by Martin Amis 📚\n",
 				"date_published": "2024-07-22T07:42:24+01:00",
 				"url": "https://thedimpau.se/2024/07/22/currently-reading-the.html",
 				"tags": ["Books"]
@@ -8259,8 +8277,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/07/21/finished-reading-box.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/0141993197\">The Box Man</a> by Abe Kōbō 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Box Man](https://micro.blog/books/0141993197) by Abe Kōbō 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/0141993197/\">The Box Man</a> by Abe Kōbō 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Box Man](https://thedimpau.se/books/0141993197/) by Abe Kōbō 📚\n",
 				"date_published": "2024-07-21T13:52:20+01:00",
 				"url": "https://thedimpau.se/2024/07/21/finished-reading-box.html",
 				"tags": ["Books"]
@@ -8268,8 +8286,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/07/20/currently-reading-box.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/0141993197\">The Box Man</a> by Abe Kōbō 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Box Man](https://micro.blog/books/0141993197) by Abe Kōbō 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/0141993197/\">The Box Man</a> by Abe Kōbō 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/0141993197/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Box Man](https://thedimpau.se/books/0141993197/) by Abe Kōbō 📚\n",
 				"date_published": "2024-07-20T11:58:25+01:00",
 				"url": "https://thedimpau.se/2024/07/20/currently-reading-box.html",
 				"tags": ["Books"]
@@ -8601,8 +8619,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/06/26/currently-reading-grotesque.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/0099520834\">Grotesque</a> by Natsuo Kirino 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Grotesque](https://micro.blog/books/0099520834) by Natsuo Kirino 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/0099520834/\">Grotesque</a> by Natsuo Kirino 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/0099520834/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Grotesque](https://thedimpau.se/books/0099520834/) by Natsuo Kirino 📚\n",
 				"date_published": "2024-06-26T16:47:30+01:00",
 				"url": "https://thedimpau.se/2024/06/26/currently-reading-grotesque.html",
 				"tags": ["Books"]
@@ -9564,7 +9582,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2024/04/15/small-day-of.html",
 				
-				"content_html": "<p>small — day 15 of the micro.blog april 2024 photoblogging challenge 📸</p>\n<p>St Thomas' Hospital, London, late 1980s - I worked as an electron microscopist 🔬</p>\n<img src=\"https://eu.uploads.micro.blog/775/2024/63b7278a-dba8-453b-a1ee-9b9abc63978a.jpg\" width=\"600\" height=\"450\" alt=\"A laboratory setup with an old computer, various electronic measurement devices, and an electron microscope.\" />\n",
+				"content_html": "<p>small — day 15 of the micro.blog april 2024 photoblogging challenge 📸</p>\n<p>St Thomas&rsquo; Hospital, London, late 1980s - I worked as an electron microscopist 🔬</p>\n<img src=\"https://eu.uploads.micro.blog/775/2024/63b7278a-dba8-453b-a1ee-9b9abc63978a.jpg\" width=\"600\" height=\"450\" alt=\"A laboratory setup with an old computer, various electronic measurement devices, and an electron microscope.\" />\n",
 				"content_text": "small — day 15 of the micro.blog april 2024 photoblogging challenge 📸\n\nSt Thomas' Hospital, London, late 1980s - I worked as an electron microscopist 🔬\n\n<img src=\"https://eu.uploads.micro.blog/775/2024/63b7278a-dba8-453b-a1ee-9b9abc63978a.jpg\" width=\"600\" height=\"450\" alt=\"A laboratory setup with an old computer, various electronic measurement devices, and an electron microscope.\" />\n",
 				"date_published": "2024-04-15T14:12:48+01:00",
 				"url": "https://thedimpau.se/2024/04/15/small-day-of.html",
@@ -11139,8 +11157,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/12/29/finished-reading-why.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780571260799\">Why Mahler?</a> by Norman Lebrecht 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Why Mahler?](https://micro.blog/books/9780571260799) by Norman Lebrecht 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780571260799/\">Why Mahler?</a> by Norman Lebrecht 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Why Mahler?](https://thedimpau.se/books/9780571260799/) by Norman Lebrecht 📚\n",
 				"date_published": "2023-12-29T11:14:29+01:00",
 				"url": "https://thedimpau.se/2023/12/29/finished-reading-why.html",
 				"tags": ["Books"]
@@ -12084,8 +12102,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/10/06/finished-reading-star.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982154073\">Star Trek Picard - The Dark Veil</a> by James Swallow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Star Trek Picard - The Dark Veil](https://micro.blog/books/9781982154073) by James Swallow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781982154073/\">Star Trek Picard - The Dark Veil</a> by James Swallow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Star Trek Picard - The Dark Veil](https://thedimpau.se/books/9781982154073/) by James Swallow 📚\n",
 				"date_published": "2023-10-06T09:27:16+01:00",
 				"url": "https://thedimpau.se/2023/10/06/finished-reading-star.html",
 				"tags": ["Books"]
@@ -12327,8 +12345,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/22/currently-reading-star.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781982154073\">Star Trek Picard - The Dark Veil</a> by James Swallow 📚 🖖</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Star Trek Picard - The Dark Veil](https://micro.blog/books/9781982154073) by James Swallow 📚 🖖\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781982154073/\">Star Trek Picard - The Dark Veil</a> by James Swallow 📚 🖖</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982154073/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Star Trek Picard - The Dark Veil](https://thedimpau.se/books/9781982154073/) by James Swallow 📚 🖖\n",
 				"date_published": "2023-09-22T12:11:50+01:00",
 				"url": "https://thedimpau.se/2023/09/22/currently-reading-star.html",
 				"tags": ["Books"]
@@ -12336,8 +12354,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/22/finished-reading-star.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781982142186\">Star Trek: Picard: The Last Best Hope</a> by Una McCormack 📚 🖖</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Star Trek: Picard: The Last Best Hope](https://micro.blog/books/9781982142186) by Una McCormack 📚 🖖\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781982142186/\">Star Trek: Picard: The Last Best Hope</a> by Una McCormack 📚 🖖</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Star Trek: Picard: The Last Best Hope](https://thedimpau.se/books/9781982142186/) by Una McCormack 📚 🖖\n",
 				"date_published": "2023-09-22T12:10:57+01:00",
 				"url": "https://thedimpau.se/2023/09/22/finished-reading-star.html",
 				"tags": ["Books"]
@@ -12363,8 +12381,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/21/currently-reading-star.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781982142186\">Star Trek: Picard: The Last Best Hope</a> by Una McCormack 📚🖖</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Star Trek: Picard: The Last Best Hope](https://micro.blog/books/9781982142186) by Una McCormack 📚🖖\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781982142186/\">Star Trek: Picard: The Last Best Hope</a> by Una McCormack 📚🖖</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781982142186/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Star Trek: Picard: The Last Best Hope](https://thedimpau.se/books/9781982142186/) by Una McCormack 📚🖖\n",
 				"date_published": "2023-09-21T16:21:53+01:00",
 				"url": "https://thedimpau.se/2023/09/21/currently-reading-star.html",
 				"tags": ["Books"]
@@ -12435,8 +12453,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/20/finished-reading-radicalized.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781250228598\">Radicalized</a> by Cory Doctorow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Radicalized](https://micro.blog/books/9781250228598) by Cory Doctorow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781250228598/\">Radicalized</a> by Cory Doctorow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Radicalized](https://thedimpau.se/books/9781250228598/) by Cory Doctorow 📚\n",
 				"date_published": "2023-09-20T16:55:08+01:00",
 				"url": "https://thedimpau.se/2023/09/20/finished-reading-radicalized.html",
 				"tags": ["Books"]
@@ -12444,8 +12462,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/20/currently-reading-why.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9780571260799\">Why Mahler?</a> by Norman Lebrecht 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Why Mahler?](https://micro.blog/books/9780571260799) by Norman Lebrecht 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780571260799/\">Why Mahler?</a> by Norman Lebrecht 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780571260799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Why Mahler?](https://thedimpau.se/books/9780571260799/) by Norman Lebrecht 📚\n",
 				"date_published": "2023-09-20T15:58:52+01:00",
 				"url": "https://thedimpau.se/2023/09/20/currently-reading-why.html",
 				"tags": ["Books"]
@@ -12470,8 +12488,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/19/currently-reading-radicalized.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781250228598\">Radicalized</a> by Cory Doctorow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Radicalized](https://micro.blog/books/9781250228598) by Cory Doctorow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781250228598/\">Radicalized</a> by Cory Doctorow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781250228598/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Radicalized](https://thedimpau.se/books/9781250228598/) by Cory Doctorow 📚\n",
 				"date_published": "2023-09-19T17:25:22+01:00",
 				"url": "https://thedimpau.se/2023/09/19/currently-reading-radicalized.html",
 				"tags": ["Books"]
@@ -12506,8 +12524,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/18/finished-reading-every.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781587678455\">Every House is Haunted</a> by Ian Rogers 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Every House is Haunted](https://micro.blog/books/9781587678455) by Ian Rogers 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781587678455/\">Every House is Haunted</a> by Ian Rogers 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Every House is Haunted](https://thedimpau.se/books/9781587678455/) by Ian Rogers 📚\n",
 				"date_published": "2023-09-18T19:55:51+01:00",
 				"url": "https://thedimpau.se/2023/09/18/finished-reading-every.html",
 				"tags": ["Books"]
@@ -12515,8 +12533,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/17/currently-reading-every.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781587678455\">Every House is Haunted</a> by Ian Rogers 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Every House is Haunted](https://micro.blog/books/9781587678455) by Ian Rogers 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781587678455/\">Every House is Haunted</a> by Ian Rogers 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781587678455/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Every House is Haunted](https://thedimpau.se/books/9781587678455/) by Ian Rogers 📚\n",
 				"date_published": "2023-09-17T19:24:12+01:00",
 				"url": "https://thedimpau.se/2023/09/17/currently-reading-every.html",
 				"tags": ["Books"]
@@ -12641,8 +12659,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/11/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781804291245\">The Internet Con</a> by Cory Doctorow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Internet Con](https://micro.blog/books/9781804291245) by Cory Doctorow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781804291245/\">The Internet Con</a> by Cory Doctorow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Internet Con](https://thedimpau.se/books/9781804291245/) by Cory Doctorow 📚\n",
 				"date_published": "2023-09-11T14:40:22+01:00",
 				"url": "https://thedimpau.se/2023/09/11/finished-reading-the.html",
 				"tags": ["Books"]
@@ -12704,8 +12722,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/08/currently-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781804291245\">The Internet Con</a> by Cory Doctorow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Internet Con](https://micro.blog/books/9781804291245) by Cory Doctorow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781804291245/\">The Internet Con</a> by Cory Doctorow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781804291245/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Internet Con](https://thedimpau.se/books/9781804291245/) by Cory Doctorow 📚\n",
 				"date_published": "2023-09-08T14:38:36+01:00",
 				"url": "https://thedimpau.se/2023/09/08/currently-reading-the.html",
 				"tags": ["Books"]
@@ -12731,8 +12749,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/07/finished-reading-peace.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781849350617\">Peace, Love &amp; Petrol Bombs</a> by D.D. Johnston 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Peace, Love & Petrol Bombs](https://micro.blog/books/9781849350617) by D.D. Johnston 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781849350617/\">Peace, Love &amp; Petrol Bombs</a> by D.D. Johnston 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Peace, Love & Petrol Bombs](https://thedimpau.se/books/9781849350617/) by D.D. Johnston 📚\n",
 				"date_published": "2023-09-07T10:00:29+01:00",
 				"url": "https://thedimpau.se/2023/09/07/finished-reading-peace.html",
 				"tags": ["Books"]
@@ -12767,8 +12785,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/09/04/currently-reading-peace.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781849350617\">Peace, Love &amp; Petrol Bombs</a> by D.D. Johnston 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Peace, Love & Petrol Bombs](https://micro.blog/books/9781849350617) by D.D. Johnston 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781849350617/\">Peace, Love &amp; Petrol Bombs</a> by D.D. Johnston 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781849350617/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Peace, Love & Petrol Bombs](https://thedimpau.se/books/9781849350617/) by D.D. Johnston 📚\n",
 				"date_published": "2023-09-04T12:47:11+01:00",
 				"url": "https://thedimpau.se/2023/09/04/currently-reading-peace.html",
 				"tags": ["Books"]
@@ -12866,7 +12884,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/08/25/puzzling-message.html",
 				"title": "Puzzling message",
-				"content_html": "<p>Every day my wife and I exchange messages. The problem is that these messages are growing ever longer. With the introduction of the New York Times' <em>Connections</em> game my daily message this morning consisted of:</p>\n<hr>\n<p>DAILY #252<br>\n181 from 16 words<br>\n❇️1️⃣❇️❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️🆓❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\nwellwordgame.com</p>\n<p>LIGHTNING #252<br>\n162 from 17 words<br>\n2️⃣2️⃣❇️2️⃣❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️🆓❇️❇️<br>\n1️⃣🟩❇️🟩❇️<br>\n❇️❇️❇️❇️❇️<br>\nwellwordgame.com</p>\n<p>Wordle 797 5/6</p>\n<p>🟨⬜⬜🟨🟩<br>\n⬜🟨⬜🟩🟩<br>\n⬜⬜🟩⬜⬜<br>\n⬜⬜🟩🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>I solved the 8/25/2023 New York Times Mini Crossword in 1:43!</p>\n<p>Connections<br>\nPuzzle #75<br>\n🟪🟪🟪🟪<br>\n🟨🟨🟨🟨<br>\n🟩🟩🟩🟩<br>\n🟦🟦🟦🟦</p>\n<hr>\n<p>I usually send a compiled single message, she sends me each result separately 🙂</p>\n<p>Who says the spirit of competition is dead?!</p>\n<p>Disclaimer: These are not the only messages we exchange 😊</p>\n",
+				"content_html": "<p>Every day my wife and I exchange messages. The problem is that these messages are growing ever longer. With the introduction of the New York Times&rsquo; <em>Connections</em> game my daily message this morning consisted of:</p>\n<hr>\n<p>DAILY #252<br>\n181 from 16 words<br>\n❇️1️⃣❇️❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️🆓❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️❇️❇️❇️<br>\nwellwordgame.com</p>\n<p>LIGHTNING #252<br>\n162 from 17 words<br>\n2️⃣2️⃣❇️2️⃣❇️<br>\n❇️❇️❇️❇️❇️<br>\n❇️❇️🆓❇️❇️<br>\n1️⃣🟩❇️🟩❇️<br>\n❇️❇️❇️❇️❇️<br>\nwellwordgame.com</p>\n<p>Wordle 797 5/6</p>\n<p>🟨⬜⬜🟨🟩<br>\n⬜🟨⬜🟩🟩<br>\n⬜⬜🟩⬜⬜<br>\n⬜⬜🟩🟩🟩<br>\n🟩🟩🟩🟩🟩</p>\n<p>I solved the 8/25/2023 New York Times Mini Crossword in 1:43!</p>\n<p>Connections<br>\nPuzzle #75<br>\n🟪🟪🟪🟪<br>\n🟨🟨🟨🟨<br>\n🟩🟩🟩🟩<br>\n🟦🟦🟦🟦</p>\n<hr>\n<p>I usually send a compiled single message, she sends me each result separately 🙂</p>\n<p>Who says the spirit of competition is dead?!</p>\n<p>Disclaimer: These are not the only messages we exchange 😊</p>\n",
 				"content_text": "Every day my wife and I exchange messages. The problem is that these messages are growing ever longer. With the introduction of the New York Times' _Connections_ game my daily message this morning consisted of:  \n\n---\n\nDAILY #252  \n181 from 16 words  \n❇️1️⃣❇️❇️❇️   \n❇️❇️❇️❇️❇️   \n❇️❇️🆓❇️❇️   \n❇️❇️❇️❇️❇️   \n❇️❇️❇️❇️❇️   \nwellwordgame.com  \n\nLIGHTNING #252  \n162 from 17 words  \n2️⃣2️⃣❇️2️⃣❇️  \n❇️❇️❇️❇️❇️  \n❇️❇️🆓❇️❇️  \n1️⃣🟩❇️🟩❇️  \n❇️❇️❇️❇️❇️  \nwellwordgame.com  \n\nWordle 797 5/6  \n\n🟨⬜⬜🟨🟩  \n⬜🟨⬜🟩🟩  \n⬜⬜🟩⬜⬜  \n⬜⬜🟩🟩🟩  \n🟩🟩🟩🟩🟩  \n\n\nI solved the 8/25/2023 New York Times Mini Crossword in 1:43!  \n\n\nConnections  \nPuzzle #75  \n🟪🟪🟪🟪  \n🟨🟨🟨🟨  \n🟩🟩🟩🟩  \n🟦🟦🟦🟦  \n\n---\n\nI usually send a compiled single message, she sends me each result separately 🙂\n\nWho says the spirit of competition is dead?! \n\nDisclaimer: These are not the only messages we exchange 😊\n\n\n",
 				"date_published": "2023-08-25T06:40:50+01:00",
 				"url": "https://thedimpau.se/2023/08/25/puzzling-message.html",
@@ -12946,7 +12964,7 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/08/20/my-top-weekly.html",
 				
-				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a> logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: The Kinks (27), Howlin' Wolf (14), Blur (10), Lyr (9), Lankum (6)</p>\n",
+				"content_html": "<p>🎵 My Top <a href=\"http://bit.ly/mus1c7\">weekly artists</a> logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: The Kinks (27), Howlin&rsquo; Wolf (14), Blur (10), Lyr (9), Lankum (6)</p>\n",
 				"content_text": "🎵 My Top [weekly artists](http://bit.ly/mus1c7) logged by [last.fm](https://www.last.fm/user/nntk): The Kinks (27), Howlin' Wolf (14), Blur (10), Lyr (9), Lankum (6)\n",
 				"date_published": "2023-08-20T08:42:16+01:00",
 				"url": "https://thedimpau.se/2023/08/20/my-top-weekly.html",
@@ -12964,8 +12982,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/08/16/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780826414984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780826414984\">The Kinks Are The Village Green Preservation Society (33⅓ series)</a> by Andy Miller 📚🎵</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780826414984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Kinks Are The Village Green Preservation Society (33⅓ series)](https://micro.blog/books/9780826414984) by Andy Miller 📚🎵\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780826414984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780826414984/\">The Kinks Are The Village Green Preservation Society (33⅓ series)</a> by Andy Miller 📚🎵</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780826414984/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Kinks Are The Village Green Preservation Society (33⅓ series)](https://thedimpau.se/books/9780826414984/) by Andy Miller 📚🎵\n",
 				"date_published": "2023-08-16T14:21:12+01:00",
 				"url": "https://thedimpau.se/2023/08/16/finished-reading-the.html",
 				"tags": ["Books","Music"]
@@ -13027,8 +13045,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/08/10/finished-reading-needless.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781399801799\">Needless Alley</a> by Natalie Marlow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Needless Alley](https://micro.blog/books/9781399801799) by Natalie Marlow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781399801799/\">Needless Alley</a> by Natalie Marlow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Needless Alley](https://thedimpau.se/books/9781399801799/) by Natalie Marlow 📚\n",
 				"date_published": "2023-08-10T17:22:55+01:00",
 				"url": "https://thedimpau.se/2023/08/10/finished-reading-needless.html",
 				"tags": ["Books"]
@@ -13036,8 +13054,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/08/06/currently-reading-needless.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781399801799\">Needless Alley</a> by Natalie Marlow 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Needless Alley](https://micro.blog/books/9781399801799) by Natalie Marlow 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781399801799/\">Needless Alley</a> by Natalie Marlow 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781399801799/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Needless Alley](https://thedimpau.se/books/9781399801799/) by Natalie Marlow 📚\n",
 				"date_published": "2023-08-06T16:44:03+01:00",
 				"url": "https://thedimpau.se/2023/08/06/currently-reading-needless.html",
 				"tags": ["Books"]
@@ -13540,8 +13558,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/07/17/finished-reading-the.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9780241355237/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9780241355237\">The Uninhabitable Earth</a> by David Wallace-Wells 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9780241355237/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Uninhabitable Earth](https://micro.blog/books/9780241355237) by David Wallace-Wells 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780241355237/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9780241355237/\">The Uninhabitable Earth</a> by David Wallace-Wells 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780241355237/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [The Uninhabitable Earth](https://thedimpau.se/books/9780241355237/) by David Wallace-Wells 📚\n",
 				"date_published": "2023-07-17T16:06:28+01:00",
 				"url": "https://thedimpau.se/2023/07/17/finished-reading-the.html",
 				"tags": ["Books"]
@@ -14017,8 +14035,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/06/17/currently-reading-crickonomics.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781472992734\">Crickonomics: The Anatomy of Modern Cricket</a> by Stefan Szymanski 📚🏏</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Crickonomics: The Anatomy of Modern Cricket](https://micro.blog/books/9781472992734) by Stefan Szymanski 📚🏏\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781472992734/\">Crickonomics: The Anatomy of Modern Cricket</a> by Stefan Szymanski 📚🏏</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781472992734/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Crickonomics: The Anatomy of Modern Cricket](https://thedimpau.se/books/9781472992734/) by Stefan Szymanski 📚🏏\n",
 				"date_published": "2023-06-17T09:04:37+01:00",
 				"url": "https://thedimpau.se/2023/06/17/currently-reading-crickonomics.html",
 				"tags": ["Books","Cricket"]
@@ -16474,8 +16492,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2023/02/13/finished-reading-seven.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781908745903/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781908745903\">Seven Moons of Maali Almeida</a> by Shehan Karunatilaka 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781908745903/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Seven Moons of Maali Almeida](https://micro.blog/books/9781908745903) by Shehan Karunatilaka 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781908745903/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781908745903/\">Seven Moons of Maali Almeida</a> by Shehan Karunatilaka 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781908745903/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Seven Moons of Maali Almeida](https://thedimpau.se/books/9781908745903/) by Shehan Karunatilaka 📚\n",
 				"date_published": "2023-02-13T20:13:49+01:00",
 				"url": "https://thedimpau.se/2023/02/13/finished-reading-seven.html",
 				"tags": ["Books"]
@@ -18139,8 +18157,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2022/10/21/finished-reading-lessons.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529193824/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://micro.blog/books/9781529193824\">Lessons</a> by Ian McEwan 📚</p>\n",
-				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529193824/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Lessons](https://micro.blog/books/9781529193824) by Ian McEwan 📚\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781529193824/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781529193824/\">Lessons</a> by Ian McEwan 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781529193824/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Lessons](https://thedimpau.se/books/9781529193824/) by Ian McEwan 📚\n",
 				"date_published": "2022-10-21T15:46:31+01:00",
 				"url": "https://thedimpau.se/2022/10/21/finished-reading-lessons.html",
 				"tags": ["Books"]
@@ -22556,7 +22574,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2021/11/08/film-tv-atlas.html",
 				
-				"content_html": "<p><a href=\"https://www.bbc.co.uk/news/uk-wales-59151209\">Atlas maps Hogwarts, Jurassic Park &amp; made-up places</a> 🔗</p>\n<blockquote>\n<p>So where actually is Batman&rsquo;s Gotham City? Or The Simpsons' Springfield. Do you know where Jurassic Park is? Hogwarts even? One man thinks he does.</p>\n</blockquote>\n",
+				"content_html": "<p><a href=\"https://www.bbc.co.uk/news/uk-wales-59151209\">Atlas maps Hogwarts, Jurassic Park &amp; made-up places</a> 🔗</p>\n<blockquote>\n<p>So where actually is Batman&rsquo;s Gotham City? Or The Simpsons&rsquo; Springfield. Do you know where Jurassic Park is? Hogwarts even? One man thinks he does.</p>\n</blockquote>\n",
 				"content_text": "[Atlas maps Hogwarts, Jurassic Park & made-up places](https://www.bbc.co.uk/news/uk-wales-59151209) 🔗\n\n>So where actually is Batman's Gotham City? Or The Simpsons' Springfield. Do you know where Jurassic Park is? Hogwarts even? One man thinks he does.\n",
 				"date_published": "2021-11-08T08:24:22+01:00",
 				"url": "https://thedimpau.se/2021/11/08/film-tv-atlas.html",
@@ -25434,7 +25452,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2021/04/21/medical-grade-music.html",
 				"title": "Medical Grade Music 📚🎵",
-				"content_html": "<p>Received my signed copy of <em>Medical Grade Music</em> by Steve Davis and Kavus Torabi.</p>\n<img src=\"https://eu.uploads.micro.blog/775/2021/6782e07951.jpg\" alt=\"Medical Grade Music book cover\" title=\"medicalgrademusic.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n<img src=\"https://eu.uploads.micro.blog/775/2021/48c1e4c370.jpg\" alt=\"Signed front page of book\" title=\"signedpage.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n<p>Last week I joined a <a href=\"https://www.roughtrade.com\">Rough Trade</a> hosted Zoom meeting with Kavus and Steve where they read excerpts from and discussed the book and some of the stories from and behind it. They were both very enthusiastic!</p>\n<img src=\"https://eu.uploads.micro.blog/775/2021/1992b35460.jpg\" alt=\"Zoom meeting screen with Kavus and Steve\" title=\"roughtradezoom.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n<p>In addition to reading the book I&rsquo;m particularly looking forward to investigating music I haven&rsquo;t heard before. In the Appendices there are several musical lists, including recommendations for an album a week for a year from both authors. I&rsquo;m not familiar with many of them (although more of Kavus' than Steve&rsquo;s).</p>\n",
+				"content_html": "<p>Received my signed copy of <em>Medical Grade Music</em> by Steve Davis and Kavus Torabi.</p>\n<img src=\"https://eu.uploads.micro.blog/775/2021/6782e07951.jpg\" alt=\"Medical Grade Music book cover\" title=\"medicalgrademusic.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n<img src=\"https://eu.uploads.micro.blog/775/2021/48c1e4c370.jpg\" alt=\"Signed front page of book\" title=\"signedpage.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n<p>Last week I joined a <a href=\"https://www.roughtrade.com\">Rough Trade</a> hosted Zoom meeting with Kavus and Steve where they read excerpts from and discussed the book and some of the stories from and behind it. They were both very enthusiastic!</p>\n<img src=\"https://eu.uploads.micro.blog/775/2021/1992b35460.jpg\" alt=\"Zoom meeting screen with Kavus and Steve\" title=\"roughtradezoom.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n<p>In addition to reading the book I&rsquo;m particularly looking forward to investigating music I haven&rsquo;t heard before. In the Appendices there are several musical lists, including recommendations for an album a week for a year from both authors. I&rsquo;m not familiar with many of them (although more of Kavus&rsquo; than Steve&rsquo;s).</p>\n",
 				"content_text": "Received my signed copy of _Medical Grade Music_ by Steve Davis and Kavus Torabi.\n\n<img src=\"https://eu.uploads.micro.blog/775/2021/6782e07951.jpg\" alt=\"Medical Grade Music book cover\" title=\"medicalgrademusic.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\n<img src=\"https://eu.uploads.micro.blog/775/2021/48c1e4c370.jpg\" alt=\"Signed front page of book\" title=\"signedpage.jpeg\" border=\"0\" width=\"600\" height=\"600\" />\n\nLast week I joined a [Rough Trade](https://www.roughtrade.com) hosted Zoom meeting with Kavus and Steve where they read excerpts from and discussed the book and some of the stories from and behind it. They were both very enthusiastic!\n\n<img src=\"https://eu.uploads.micro.blog/775/2021/1992b35460.jpg\" alt=\"Zoom meeting screen with Kavus and Steve\" title=\"roughtradezoom.jpeg\" border=\"0\" width=\"600\" height=\"450\" />\n\nIn addition to reading the book I'm particularly looking forward to investigating music I haven't heard before. In the Appendices there are several musical lists, including recommendations for an album a week for a year from both authors. I'm not familiar with many of them (although more of Kavus' than Steve's). \n",
 				"date_published": "2021-04-21T08:34:55+01:00",
 				"url": "https://thedimpau.se/2021/04/21/medical-grade-music.html",
@@ -28980,7 +28998,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2020/07/22/cardiacs-tim-smith.html",
 				
-				"content_html": "<p><a href=\"https://www.theguardian.com/music/2020/jul/22/cardiacs-tim-smith-a-one-man-subculture-who-inspired-total-devotion\">Cardiacs' Tim Smith: a one-man subculture who inspired total devotion</a> — <em>Excerpt:</em> Tim Smith, who has died aged 59, made a bizarre kind of rock music that was so wrong it was right. 🎵</p>\n",
+				"content_html": "<p><a href=\"https://www.theguardian.com/music/2020/jul/22/cardiacs-tim-smith-a-one-man-subculture-who-inspired-total-devotion\">Cardiacs&rsquo; Tim Smith: a one-man subculture who inspired total devotion</a> — <em>Excerpt:</em> Tim Smith, who has died aged 59, made a bizarre kind of rock music that was so wrong it was right. 🎵</p>\n",
 				"content_text": "[Cardiacs' Tim Smith: a one-man subculture who inspired total devotion](https://www.theguardian.com/music/2020/jul/22/cardiacs-tim-smith-a-one-man-subculture-who-inspired-total-devotion) — _Excerpt:_ Tim Smith, who has died aged 59, made a bizarre kind of rock music that was so wrong it was right. 🎵\n",
 				"date_published": "2020-07-22T22:21:26+01:00",
 				"url": "https://thedimpau.se/2020/07/22/cardiacs-tim-smith.html",
@@ -30087,7 +30105,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2020/03/01/february-photoblogging-challenge.html",
 				
-				"content_html": "<p>February Photoblogging Challenge Day 30: <strong>Vision</strong> - Hawk-eyed. Fresco by Giandomenico Tiepolo. (Ca' Rezzonico, Venice, 2019) 📷</p>\n<img src=\"https://eu.uploads.micro.blog/775/2020/80bdd502ab.jpg\" alt=\"Hawk-eyed\" title=\"Hawk-eyed\" border=\"0\" width=\"600\" height=\"600\" />\n",
+				"content_html": "<p>February Photoblogging Challenge Day 30: <strong>Vision</strong> - Hawk-eyed. Fresco by Giandomenico Tiepolo. (Ca&rsquo; Rezzonico, Venice, 2019) 📷</p>\n<img src=\"https://eu.uploads.micro.blog/775/2020/80bdd502ab.jpg\" alt=\"Hawk-eyed\" title=\"Hawk-eyed\" border=\"0\" width=\"600\" height=\"600\" />\n",
 				"content_text": "February Photoblogging Challenge Day 30: **Vision** - Hawk-eyed. Fresco by Giandomenico Tiepolo. (Ca' Rezzonico, Venice, 2019) 📷\n\n<img src=\"https://eu.uploads.micro.blog/775/2020/80bdd502ab.jpg\" alt=\"Hawk-eyed\" title=\"Hawk-eyed\" border=\"0\" width=\"600\" height=\"600\" />\n",
 				"date_published": "2020-03-01T21:33:54+01:00",
 				"url": "https://thedimpau.se/2020/03/01/february-photoblogging-challenge.html",
@@ -31419,7 +31437,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/11/26/listening-to-thanks.html",
 				
-				"content_html": "<p>Listening to <em>Thanks for the Dance</em>, the album of Leonard Cohen&rsquo;s final songs. 🎵</p>\n<blockquote>\n<p>What is immediately striking about <em>Thanks for the Dance</em> is how organic these meticulously constructed songs sound, given that five of them were assembled from the barest musical sketches and four others from lyrics Leonard had recited, but not put to music. It sounds, above all, like a labour of love, and one that is entirely faithful to Cohen’s abiding spirit.</p>\n</blockquote>\n<p>Adam Cohen on Leonard: ‘It was daunting finishing my dad&rsquo;s last music' – <a href=\"https://www.theguardian.com/music/2019/nov/24/leonard-cohen-adam-thanks-for-the-dance-interview\">link</a> 🔗</p>\n",
+				"content_html": "<p>Listening to <em>Thanks for the Dance</em>, the album of Leonard Cohen&rsquo;s final songs. 🎵</p>\n<blockquote>\n<p>What is immediately striking about <em>Thanks for the Dance</em> is how organic these meticulously constructed songs sound, given that five of them were assembled from the barest musical sketches and four others from lyrics Leonard had recited, but not put to music. It sounds, above all, like a labour of love, and one that is entirely faithful to Cohen’s abiding spirit.</p>\n</blockquote>\n<p>Adam Cohen on Leonard: ‘It was daunting finishing my dad&rsquo;s last music&rsquo; – <a href=\"https://www.theguardian.com/music/2019/nov/24/leonard-cohen-adam-thanks-for-the-dance-interview\">link</a> 🔗</p>\n",
 				"content_text": "Listening to _Thanks for the Dance_, the album of Leonard Cohen's final songs. 🎵\n\n>What is immediately striking about _Thanks for the Dance_ is how organic these meticulously constructed songs sound, given that five of them were assembled from the barest musical sketches and four others from lyrics Leonard had recited, but not put to music. It sounds, above all, like a labour of love, and one that is entirely faithful to Cohen’s abiding spirit.\n\nAdam Cohen on Leonard: ‘It was daunting finishing my dad's last music' – [link](https://www.theguardian.com/music/2019/nov/24/leonard-cohen-adam-thanks-for-the-dance-interview) 🔗\n",
 				"date_published": "2019-11-26T14:02:42+01:00",
 				"url": "https://thedimpau.se/2019/11/26/listening-to-thanks.html",
@@ -31842,7 +31860,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/11/02/england-south-africa.html",
 				
-				"content_html": "<p>England 6-12 South Africa at half-time in the RWC Final - not going quite as I’d hoped. England not nearly as composed and precise as last week and the Springboks' power is telling. 🏉</p>\n",
+				"content_html": "<p>England 6-12 South Africa at half-time in the RWC Final - not going quite as I’d hoped. England not nearly as composed and precise as last week and the Springboks&rsquo; power is telling. 🏉</p>\n",
 				"content_text": "England 6-12 South Africa at half-time in the RWC Final - not going quite as I’d hoped. England not nearly as composed and precise as last week and the Springboks' power is telling. 🏉\n",
 				"date_published": "2019-11-02T11:07:00+01:00",
 				"url": "https://thedimpau.se/2019/11/02/england-south-africa.html",
@@ -32742,7 +32760,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/07/01/england-v-india.html",
 				
-				"content_html": "<p><a href=\"http://www.bbc.co.uk/sport/cricket/48819515\">England v India</a>: Jonny Bairstow &amp; Liam Plunkett star in hosts' Cricket World Cup win. Exciting match to listen to on TMS - now England just need to maintain that level of performance. Perhaps the return of Jason Roy is the talisman the team needs 🏏</p>\n",
+				"content_html": "<p><a href=\"http://www.bbc.co.uk/sport/cricket/48819515\">England v India</a>: Jonny Bairstow &amp; Liam Plunkett star in hosts&rsquo; Cricket World Cup win. Exciting match to listen to on TMS - now England just need to maintain that level of performance. Perhaps the return of Jason Roy is the talisman the team needs 🏏</p>\n",
 				"content_text": "[England v India](http://www.bbc.co.uk/sport/cricket/48819515): Jonny Bairstow & Liam Plunkett star in hosts' Cricket World Cup win. Exciting match to listen to on TMS - now England just need to maintain that level of performance. Perhaps the return of Jason Roy is the talisman the team needs 🏏\n",
 				"date_published": "2019-07-01T06:16:00+01:00",
 				"url": "https://thedimpau.se/2019/07/01/england-v-india.html",
@@ -33192,7 +33210,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/04/27/went-to-see.html",
 				
-				"content_html": "<p>Went to see Suede at The Great Hall, Cardiff University Students' Union last night 🎵. They were amazingly good, an absolutely electric gig from start to finish. I saw Suede twice in the 1990s with exactly the same lineup of Brett Anderson, Richard Oakes, Mat Osman, Simon Gilbert and Neil Codling. Last night&rsquo;s performance was as good as, if not better than, those earlier days.</p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\" alt=\"Suede1\" title=\"suede1.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\" alt=\"Suede2\" title=\"suede2.jpg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\" alt=\"Suede3\" title=\"suede3.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p>Great support from BC Camplight (aka Brian Christinzio).</p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\" alt=\"Bccamplight\" title=\"bccamplight.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p>The Suede setlist was</p>\n<ul>\n<li>As One</li>\n<li>My Insatiable One</li>\n<li>Outsiders</li>\n<li>We Are the Pigs</li>\n<li>So Young</li>\n<li>Metal Mickey</li>\n<li>New Generation</li>\n<li>Tides</li>\n<li>She&rsquo;s Not Dead</li>\n<li>Stay Together (Brett with Richard acoustic)</li>\n<li>The Drowners</li>\n<li>It Starts and Ends With You</li>\n<li>Indian Strings</li>\n<li>Trash</li>\n<li>Animal Nitrate</li>\n<li>Another No One (Brett solo acoustic)</li>\n<li>Beyond the Outskirts</li>\n<li>The Invisibles</li>\n<li>Flytipping</li>\n<li>Beautiful Ones (encore)</li>\n<li>Life Is Golden (encore)</li>\n</ul>\n",
+				"content_html": "<p>Went to see Suede at The Great Hall, Cardiff University Students&rsquo; Union last night 🎵. They were amazingly good, an absolutely electric gig from start to finish. I saw Suede twice in the 1990s with exactly the same lineup of Brett Anderson, Richard Oakes, Mat Osman, Simon Gilbert and Neil Codling. Last night&rsquo;s performance was as good as, if not better than, those earlier days.</p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\" alt=\"Suede1\" title=\"suede1.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\" alt=\"Suede2\" title=\"suede2.jpg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\" alt=\"Suede3\" title=\"suede3.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p>Great support from BC Camplight (aka Brian Christinzio).</p>\n<p><a href=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\" alt=\"Bccamplight\" title=\"bccamplight.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n<p>The Suede setlist was</p>\n<ul>\n<li>As One</li>\n<li>My Insatiable One</li>\n<li>Outsiders</li>\n<li>We Are the Pigs</li>\n<li>So Young</li>\n<li>Metal Mickey</li>\n<li>New Generation</li>\n<li>Tides</li>\n<li>She&rsquo;s Not Dead</li>\n<li>Stay Together (Brett with Richard acoustic)</li>\n<li>The Drowners</li>\n<li>It Starts and Ends With You</li>\n<li>Indian Strings</li>\n<li>Trash</li>\n<li>Animal Nitrate</li>\n<li>Another No One (Brett solo acoustic)</li>\n<li>Beyond the Outskirts</li>\n<li>The Invisibles</li>\n<li>Flytipping</li>\n<li>Beautiful Ones (encore)</li>\n<li>Life Is Golden (encore)</li>\n</ul>\n",
 				"content_text": "Went to see Suede at The Great Hall, Cardiff University Students' Union last night 🎵. They were amazingly good, an absolutely electric gig from start to finish. I saw Suede twice in the 1990s with exactly the same lineup of Brett Anderson, Richard Oakes, Mat Osman, Simon Gilbert and Neil Codling. Last night's performance was as good as, if not better than, those earlier days.\n\n<a href=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/360fb757c9.jpg\" alt=\"Suede1\" title=\"suede1.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/3492f0c273.jpg\" alt=\"Suede2\" title=\"suede2.jpg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n<a href=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/07455d2fc5.jpg\" alt=\"Suede3\" title=\"suede3.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nGreat support from BC Camplight (aka Brian Christinzio).\n\n<a href=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\"><img src=\"https://eu.uploads.micro.blog/775/2019/4cce718c8f.jpg\" alt=\"Bccamplight\" title=\"bccamplight.jpeg\" border=\"0\" width=\"600\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nThe Suede setlist was\n\n- As One  \n- My Insatiable One  \n- Outsiders  \n- We Are the Pigs  \n- So Young  \n- Metal Mickey  \n- New Generation  \n- Tides  \n- She's Not Dead  \n- Stay Together (Brett with Richard acoustic)  \n- The Drowners  \n- It Starts and Ends With You  \n- Indian Strings  \n- Trash  \n- Animal Nitrate  \n- Another No One (Brett solo acoustic)  \n- Beyond the Outskirts  \n- The Invisibles  \n- Flytipping  \n- Beautiful Ones (encore)  \n- Life Is Golden (encore)  \n\n",
 				"date_published": "2019-04-27T09:08:48+01:00",
 				"url": "https://thedimpau.se/2019/04/27/went-to-see.html",
@@ -33417,7 +33435,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/03/16/st-james-gate.html",
 				
-				"content_html": "<p>St. James' Gate. Wales - Ireland 🏉</p>\n",
+				"content_html": "<p>St. James&rsquo; Gate. Wales - Ireland 🏉</p>\n",
 				"content_text": "St. James' Gate. Wales - Ireland 🏉\n",
 				"date_published": "2019-03-16T16:40:11+01:00",
 				"url": "https://thedimpau.se/2019/03/16/st-james-gate.html",
@@ -33471,7 +33489,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/03/15/121318.html",
 				
-				"content_html": "<p>Checked in at Museum Ons' Lieve Heer op Solder. Ons' Lieve Heer op Solder</p>\n<img src=\"https://eu.uploads.micro.blog/775/2019/4283c2980e.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
+				"content_html": "<p>Checked in at Museum Ons&rsquo; Lieve Heer op Solder. Ons&rsquo; Lieve Heer op Solder</p>\n<img src=\"https://eu.uploads.micro.blog/775/2019/4283c2980e.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"content_text": "Checked in at Museum Ons' Lieve Heer op Solder. Ons' Lieve Heer op Solder\n\n<img src=\"https://eu.uploads.micro.blog/775/2019/4283c2980e.jpg\" width=\"600\" height=\"auto\" alt=\"\" />\n",
 				"date_published": "2019-03-15T12:13:18+01:00",
 				"url": "https://thedimpau.se/2019/03/15/121318.html",
@@ -33858,7 +33876,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/01/05/checked-in-at.html",
 				
-				"content_html": "<p>Checked in at Ca' Rezzonico</p>\n<img src=\"https://eu.uploads.micro.blog/775/2019/68449815e4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Checked in at Ca&rsquo; Rezzonico</p>\n<img src=\"https://eu.uploads.micro.blog/775/2019/68449815e4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"content_text": "Checked in at Ca' Rezzonico\n\n<img src=\"https://eu.uploads.micro.blog/775/2019/68449815e4.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2019-01-05T10:21:08+01:00",
 				"url": "https://thedimpau.se/2019/01/05/checked-in-at.html",
@@ -33975,7 +33993,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2019/01/03/054958.html",
 				
-				"content_html": "<p>Checked in at Ca' del Campo Hotel Venice. Venice, for four nights.</p>\n",
+				"content_html": "<p>Checked in at Ca&rsquo; del Campo Hotel Venice. Venice, for four nights.</p>\n",
 				"content_text": "Checked in at Ca' del Campo Hotel Venice. Venice, for four nights.\n",
 				"date_published": "2019-01-03T06:49:58+01:00",
 				"url": "https://thedimpau.se/2019/01/03/054958.html",
@@ -34686,7 +34704,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2018/09/29/the-facebook-account.html",
 				
-				"content_html": "<p>The Facebook account breach extends way beyond the site itself. The compromise of access tokens means the FB SSO (Single Sign-On) mechanism was also vulnerable, meaning users' accounts on third-party sites implementing the FB SSO system <a href=\"https://www.wired.com/story/facebook-security-breach-third-party-sites/\">may have also been compromised</a>.</p>\n",
+				"content_html": "<p>The Facebook account breach extends way beyond the site itself. The compromise of access tokens means the FB SSO (Single Sign-On) mechanism was also vulnerable, meaning users&rsquo; accounts on third-party sites implementing the FB SSO system <a href=\"https://www.wired.com/story/facebook-security-breach-third-party-sites/\">may have also been compromised</a>.</p>\n",
 				"content_text": "The Facebook account breach extends way beyond the site itself. The compromise of access tokens means the FB SSO (Single Sign-On) mechanism was also vulnerable, meaning users' accounts on third-party sites implementing the FB SSO system [may have also been compromised](https://www.wired.com/story/facebook-security-breach-third-party-sites/).\n",
 				"date_published": "2018-09-29T10:10:06+01:00",
 				"url": "https://thedimpau.se/2018/09/29/the-facebook-account.html",
@@ -34749,7 +34767,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2018/09/21/interesting-earliest-stories.html",
 				
-				"content_html": "<p>Interesting &lsquo;earliest&rsquo; stories in the news this week 🔖 <a href=\"https://www.bbc.co.uk/news/science-environment-45588213\">Earliest animal fossils are identified</a>, pushing back the age of earth&rsquo;s first animals by millions of years, and 🔖 <a href=\"https://www.bbc.co.uk/news/world-middle-east-45534133\">World&rsquo;s oldest brewery found</a>, meaning beer is also a lot older than was thought.</p>\n",
+				"content_html": "<p>Interesting &rsquo;earliest&rsquo; stories in the news this week 🔖 <a href=\"https://www.bbc.co.uk/news/science-environment-45588213\">Earliest animal fossils are identified</a>, pushing back the age of earth&rsquo;s first animals by millions of years, and 🔖 <a href=\"https://www.bbc.co.uk/news/world-middle-east-45534133\">World&rsquo;s oldest brewery found</a>, meaning beer is also a lot older than was thought.</p>\n",
 				"content_text": "Interesting 'earliest' stories in the news this week 🔖 [Earliest animal fossils are identified](https://www.bbc.co.uk/news/science-environment-45588213), pushing back the age of earth's first animals by millions of years, and 🔖 [World's oldest brewery found](https://www.bbc.co.uk/news/world-middle-east-45534133), meaning beer is also a lot older than was thought.\n",
 				"date_published": "2018-09-21T15:32:11+01:00",
 				"url": "https://thedimpau.se/2018/09/21/interesting-earliest-stories.html",
@@ -35595,7 +35613,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2018/07/16/currently-reading-jesus.html",
 				
-				"content_html": "<img src=\"https://cdn.micro.blog/books/9781847086709/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781847086709\">Jesus' Son</a> by Denis Johnson 📚</p>\n",
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781847086709/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://micro.blog/books/9781847086709\">Jesus&rsquo; Son</a> by Denis Johnson 📚</p>\n",
 				"content_text": "<img src=\"https://cdn.micro.blog/books/9781847086709/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Jesus' Son](https://micro.blog/books/9781847086709) by Denis Johnson 📚\n",
 				"date_published": "2018-07-16T08:33:24+01:00",
 				"url": "https://thedimpau.se/2018/07/16/currently-reading-jesus.html",
@@ -37128,7 +37146,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2018/02/08/watching-hairy-bikers.html",
 				
-				"content_html": "<p>Watching <a href=\"http://www.bbc.co.uk/programmes/b09lb54n\"><em>Hairy Bikers' Mediterranean Adventure</em></a> Episode 6/6 <em>Mainland Spain</em>. Some great looking food, especially the tapas, plus some flamenco. How have I missed the rest of this series - going to have to download! 📺</p>\n",
+				"content_html": "<p>Watching <a href=\"http://www.bbc.co.uk/programmes/b09lb54n\"><em>Hairy Bikers&rsquo; Mediterranean Adventure</em></a> Episode 6/6 <em>Mainland Spain</em>. Some great looking food, especially the tapas, plus some flamenco. How have I missed the rest of this series - going to have to download! 📺</p>\n",
 				"content_text": "Watching [*Hairy Bikers' Mediterranean Adventure*](http://www.bbc.co.uk/programmes/b09lb54n) Episode 6/6 *Mainland Spain*. Some great looking food, especially the tapas, plus some flamenco. How have I missed the rest of this series - going to have to download! 📺\n",
 				"date_published": "2018-02-08T21:56:14+01:00",
 				"url": "https://thedimpau.se/2018/02/08/watching-hairy-bikers.html",
@@ -38897,7 +38915,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2017/07/24/were-staying-in.html",
 				
-				"content_html": "<p>We&rsquo;re staying in a room about 12&rsquo;x15' - impressed that there is an illuminated exit sign above our door in case of emergency!</p>\n<img src=\"https://eu.uploads.micro.blog/775/2018/b22dad5230.jpg\" alt=\"IMG 0036\" title=\"IMG_0036.jpg\" border=\"0\" width=\"600\" height=\"800\" />\n",
+				"content_html": "<p>We&rsquo;re staying in a room about 12&rsquo;x15&rsquo; - impressed that there is an illuminated exit sign above our door in case of emergency!</p>\n<img src=\"https://eu.uploads.micro.blog/775/2018/b22dad5230.jpg\" alt=\"IMG 0036\" title=\"IMG_0036.jpg\" border=\"0\" width=\"600\" height=\"800\" />\n",
 				"content_text": "We're staying in a room about 12'x15' - impressed that there is an illuminated exit sign above our door in case of emergency!\n\n<img src=\"https://eu.uploads.micro.blog/775/2018/b22dad5230.jpg\" alt=\"IMG 0036\" title=\"IMG_0036.jpg\" border=\"0\" width=\"600\" height=\"800\" />\n",
 				"date_published": "2017-07-24T16:19:51+01:00",
 				"url": "https://thedimpau.se/2017/07/24/were-staying-in.html",
@@ -40251,7 +40269,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2016/12/22/160418.html",
 				
-				"content_html": "<p>Ca' Rezzonico selfie</p>\n<p><img src='https://eu.uploads.micro.blog/775/2017/c3e0355dea.jpg' style='max-width:600px;' /><br />via Instagram <a href=\"http://bit.ly/2hdzHGF\">bit.ly/2hdzHGF</a></p>\n",
+				"content_html": "<p>Ca&rsquo; Rezzonico selfie</p>\n<p><img src='https://eu.uploads.micro.blog/775/2017/c3e0355dea.jpg' style='max-width:600px;' /><br />via Instagram <a href=\"http://bit.ly/2hdzHGF\">bit.ly/2hdzHGF</a></p>\n",
 				"content_text": "Ca' Rezzonico selfie\n\n<img src='https://eu.uploads.micro.blog/775/2017/c3e0355dea.jpg' style='max-width:600px;' /><br />via Instagram [bit.ly/2hdzHGF](http://bit.ly/2hdzHGF)\n",
 				"date_published": "2016-12-22T17:04:18+01:00",
 				"url": "https://thedimpau.se/2016/12/22/160418.html",
@@ -40260,7 +40278,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2016/12/22/t811965565107466241.html",
 				
-				"content_html": "<p>Ca' Rezzonico selfie @ Ca' Rezzonico <a href=\"https://t.co/R9RpyVNhtO\">https://t.co/R9RpyVNhtO</a></p>\n",
+				"content_html": "<p>Ca&rsquo; Rezzonico selfie @ Ca&rsquo; Rezzonico <a href=\"https://t.co/R9RpyVNhtO\">https://t.co/R9RpyVNhtO</a></p>\n",
 				"content_text": "Ca' Rezzonico selfie @ Ca' Rezzonico [https://t.co/R9RpyVNhtO](https://t.co/R9RpyVNhtO)\n",
 				"date_published": "2016-12-22T17:04:10+01:00",
 				"url": "https://thedimpau.se/2016/12/22/t811965565107466241.html"
@@ -42713,7 +42731,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2015/11/25/t669438396834672640.html",
 				
-				"content_html": "<p>Horrendous! ::\nBooze &lsquo;n&rsquo; snooze: surviving my first adult sleepover <a href=\"https://t.co/o6RNVd7xh7\">https://t.co/o6RNVd7xh7</a></p>\n",
+				"content_html": "<p>Horrendous! ::\nBooze &rsquo;n&rsquo; snooze: surviving my first adult sleepover <a href=\"https://t.co/o6RNVd7xh7\">https://t.co/o6RNVd7xh7</a></p>\n",
 				"content_text": "Horrendous! ::\nBooze 'n' snooze: surviving my first adult sleepover [https://t.co/o6RNVd7xh7](https://t.co/o6RNVd7xh7)\n",
 				"date_published": "2015-11-25T09:52:06+01:00",
 				"url": "https://thedimpau.se/2015/11/25/t669438396834672640.html"
@@ -43827,7 +43845,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2015/08/08/t629901806206865408.html",
 				
-				"content_html": "<p>2nd ball of Stokes' 2nd over in the Australian 2nd innings was the 1,000,000th legal delivery bowled in Test cricket in England. #Ashes</p>\n",
+				"content_html": "<p>2nd ball of Stokes&rsquo; 2nd over in the Australian 2nd innings was the 1,000,000th legal delivery bowled in Test cricket in England. #Ashes</p>\n",
 				"content_text": "2nd ball of Stokes' 2nd over in the Australian 2nd innings was the 1,000,000th legal delivery bowled in Test cricket in England. #Ashes\n",
 				"date_published": "2015-08-08T07:27:48+01:00",
 				"url": "https://thedimpau.se/2015/08/08/t629901806206865408.html",
@@ -44118,7 +44136,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2015/06/29/t615655773125935104.html",
 				
-				"content_html": "<p>Of interest (to me, at least): Curiosity by Alberto Manguel, review: &lsquo;exhilarating and exhausting&rsquo; <a href=\"http://t.co/YzjdIUCtvl\">http://t.co/YzjdIUCtvl</a></p>\n",
+				"content_html": "<p>Of interest (to me, at least): Curiosity by Alberto Manguel, review: &rsquo;exhilarating and exhausting&rsquo; <a href=\"http://t.co/YzjdIUCtvl\">http://t.co/YzjdIUCtvl</a></p>\n",
 				"content_text": "Of interest (to me, at least): Curiosity by Alberto Manguel, review: 'exhilarating and exhausting' [http://t.co/YzjdIUCtvl](http://t.co/YzjdIUCtvl)\n",
 				"date_published": "2015-06-29T23:59:09+01:00",
 				"url": "https://thedimpau.se/2015/06/29/t615655773125935104.html"
@@ -44143,7 +44161,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2015/06/27/t614838055334191104.html",
 				
-				"content_html": "<p>Fish are cooked an looking good' <a href=\"http://t.co/cRWSiQIueu\">http://t.co/cRWSiQIueu</a></p>\n",
+				"content_html": "<p>Fish are cooked an looking good&rsquo; <a href=\"http://t.co/cRWSiQIueu\">http://t.co/cRWSiQIueu</a></p>\n",
 				"content_text": "Fish are cooked an looking good' [http://t.co/cRWSiQIueu](http://t.co/cRWSiQIueu)\n",
 				"date_published": "2015-06-27T17:49:50+01:00",
 				"url": "https://thedimpau.se/2015/06/27/t614838055334191104.html"
@@ -45651,7 +45669,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2014/10/11/t520979317959192576.html",
 				
-				"content_html": "<p>This is Katherine - firm goats' cheese washed with cider brandy, made by Pete Humphries of Somerset&rsquo;s Whitelake Dairy <a href=\"http://t.co/pAy2i7E6hC\">http://t.co/pAy2i7E6hC</a></p>\n",
+				"content_html": "<p>This is Katherine - firm goats&rsquo; cheese washed with cider brandy, made by Pete Humphries of Somerset&rsquo;s Whitelake Dairy <a href=\"http://t.co/pAy2i7E6hC\">http://t.co/pAy2i7E6hC</a></p>\n",
 				"content_text": "This is Katherine - firm goats' cheese washed with cider brandy, made by Pete Humphries of Somerset's Whitelake Dairy [http://t.co/pAy2i7E6hC](http://t.co/pAy2i7E6hC)\n",
 				"date_published": "2014-10-11T17:48:43+01:00",
 				"url": "https://thedimpau.se/2014/10/11/t520979317959192576.html"
@@ -48325,7 +48343,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2014/02/20/t436573433343004672.html",
 				
-				"content_html": "<p>Refreshing in the Rhoswenallt Inn after nearly 3 hours of Year 8 Parents' Evening at St. John Baptist Church in Wales High School.</p>\n",
+				"content_html": "<p>Refreshing in the Rhoswenallt Inn after nearly 3 hours of Year 8 Parents&rsquo; Evening at St. John Baptist Church in Wales High School.</p>\n",
 				"content_text": "Refreshing in the Rhoswenallt Inn after nearly 3 hours of Year 8 Parents' Evening at St. John Baptist Church in Wales High School.\n",
 				"date_published": "2014-02-20T19:49:52+01:00",
 				"url": "https://thedimpau.se/2014/02/20/t436573433343004672.html",
@@ -48472,7 +48490,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2014/01/22/t425987504609959936.html",
 				
-				"content_html": "<p>Five years' use of @LogMeIn now over - all removed from my computers and iOS devices. #logmeout #goodbyelogmein </p>\n",
+				"content_html": "<p>Five years&rsquo; use of @LogMeIn now over - all removed from my computers and iOS devices. #logmeout #goodbyelogmein </p>\n",
 				"content_text": "Five years' use of @LogMeIn now over - all removed from my computers and iOS devices. #logmeout #goodbyelogmein \n",
 				"date_published": "2014-01-22T14:45:10+01:00",
 				"url": "https://thedimpau.se/2014/01/22/t425987504609959936.html",
@@ -49870,7 +49888,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2013/09/13/t378580555912458240.html",
 				
-				"content_html": "<p>Will be spending the weekend in a Fullers' pub/hotel. Could be dangerous!</p>\n",
+				"content_html": "<p>Will be spending the weekend in a Fullers&rsquo; pub/hotel. Could be dangerous!</p>\n",
 				"content_text": "Will be spending the weekend in a Fullers' pub/hotel. Could be dangerous!\n",
 				"date_published": "2013-09-13T19:06:52+01:00",
 				"url": "https://thedimpau.se/2013/09/13/t378580555912458240.html"
@@ -51445,7 +51463,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2013/06/04/t341959442348261376.html",
 				
-				"content_html": "<p>&hellip;with a view' <a href=\"http://t.co/C7OMaT2B33\">http://t.co/C7OMaT2B33</a></p>\n",
+				"content_html": "<p>&hellip;with a view&rsquo; <a href=\"http://t.co/C7OMaT2B33\">http://t.co/C7OMaT2B33</a></p>\n",
 				"content_text": "...with a view' [http://t.co/C7OMaT2B33](http://t.co/C7OMaT2B33)\n",
 				"date_published": "2013-06-04T17:47:39+01:00",
 				"url": "https://thedimpau.se/2013/06/04/t341959442348261376.html"
@@ -51677,7 +51695,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2013/04/23/t326815395652710404.html",
 				
-				"content_html": "<p>World Book Night: Ten writers' reasons for reading <a href=\"http://t.co/21S7graaB3\">http://t.co/21S7graaB3</a> via @guardian</p>\n",
+				"content_html": "<p>World Book Night: Ten writers&rsquo; reasons for reading <a href=\"http://t.co/21S7graaB3\">http://t.co/21S7graaB3</a> via @guardian</p>\n",
 				"content_text": "World Book Night: Ten writers' reasons for reading [http://t.co/21S7graaB3](http://t.co/21S7graaB3) via @guardian\n",
 				"date_published": "2013-04-23T22:50:36+01:00",
 				"url": "https://thedimpau.se/2013/04/23/t326815395652710404.html"
@@ -52213,7 +52231,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2013/03/10/t310766048741830656.html",
 				
-				"content_html": "<p>Mothers' Day in The Caraway, Carmarthen <a href=\"http://t.co/fsuJ9VsqBR\">http://t.co/fsuJ9VsqBR</a></p>\n",
+				"content_html": "<p>Mothers&rsquo; Day in The Caraway, Carmarthen <a href=\"http://t.co/fsuJ9VsqBR\">http://t.co/fsuJ9VsqBR</a></p>\n",
 				"content_text": "Mothers' Day in The Caraway, Carmarthen [http://t.co/fsuJ9VsqBR](http://t.co/fsuJ9VsqBR)\n",
 				"date_published": "2013-03-10T15:56:14+01:00",
 				"url": "https://thedimpau.se/2013/03/10/t310766048741830656.html"
@@ -52791,7 +52809,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2012/12/06/t276739518407778304.html",
 				
-				"content_html": "<p>In need of refreshment. Bringing a hip flask to the next St. John&rsquo;s Parents' Evening. :(</p>\n",
+				"content_html": "<p>In need of refreshment. Bringing a hip flask to the next St. John&rsquo;s Parents&rsquo; Evening. :(</p>\n",
 				"content_text": "In need of refreshment. Bringing a hip flask to the next St. John's Parents' Evening. :(\n",
 				"date_published": "2012-12-06T18:26:57+01:00",
 				"url": "https://thedimpau.se/2012/12/06/t276739518407778304.html"
@@ -53636,7 +53654,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2012/08/06/t232353824248049664.html",
 				
-				"content_html": "<p>RT @MarsCuriosity: No photo or it didn&rsquo;t happen? Well lookee here, I&rsquo;m casting a shadow on the ground in Mars' Gale crater #MSL <a href=\"http://t\">http://t</a> &hellip;</p>\n",
+				"content_html": "<p>RT @MarsCuriosity: No photo or it didn&rsquo;t happen? Well lookee here, I&rsquo;m casting a shadow on the ground in Mars&rsquo; Gale crater #MSL <a href=\"http://t\">http://t</a> &hellip;</p>\n",
 				"content_text": "RT @MarsCuriosity: No photo or it didn't happen? Well lookee here, I'm casting a shadow on the ground in Mars' Gale crater #MSL [http://t](http://t) ...\n",
 				"date_published": "2012-08-06T06:54:03+01:00",
 				"url": "https://thedimpau.se/2012/08/06/t232353824248049664.html"
@@ -53660,7 +53678,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2012/08/06/t232347703177261056.html",
 				
-				"content_html": "<p>RT @MarsCuriosity: Entering Mars' atmosphere. 7. Minutes. Of. Terror. Starts. NOW. #MSL</p>\n",
+				"content_html": "<p>RT @MarsCuriosity: Entering Mars&rsquo; atmosphere. 7. Minutes. Of. Terror. Starts. NOW. #MSL</p>\n",
 				"content_text": "RT @MarsCuriosity: Entering Mars' atmosphere. 7. Minutes. Of. Terror. Starts. NOW. #MSL\n",
 				"date_published": "2012-08-06T06:29:43+01:00",
 				"url": "https://thedimpau.se/2012/08/06/t232347703177261056.html"
@@ -53701,7 +53719,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2012/07/26/t228569065336233985.html",
 				
-				"content_html": "<p>My favourite white wine of this year'&rsquo;s tasting event in Cardiff - ordered a couple of bottles, g&hellip; <a href=\"http://t.co/kI1TO7cy\">http://t.co/kI1TO7cy</a></p>\n",
+				"content_html": "<p>My favourite white wine of this year&rsquo;&rsquo;s tasting event in Cardiff - ordered a couple of bottles, g&hellip; <a href=\"http://t.co/kI1TO7cy\">http://t.co/kI1TO7cy</a></p>\n",
 				"content_text": "My favourite white wine of this year''s tasting event in Cardiff - ordered a couple of bottles, g... [http://t.co/kI1TO7cy](http://t.co/kI1TO7cy)\n",
 				"date_published": "2012-07-26T20:14:46+01:00",
 				"url": "https://thedimpau.se/2012/07/26/t228569065336233985.html",
@@ -53782,7 +53800,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2012/07/11/t223142008951279616.html",
 				
-				"content_html": "<p>Kate Humble on #VolcanoLive just mentioned #bbc site down due to &lsquo;technical difficulties&rsquo; - now we know [nothing]!</p>\n",
+				"content_html": "<p>Kate Humble on #VolcanoLive just mentioned #bbc site down due to &rsquo;technical difficulties&rsquo; - now we know [nothing]!</p>\n",
 				"content_text": "Kate Humble on #VolcanoLive just mentioned #bbc site down due to 'technical difficulties' - now we know [nothing]!\n",
 				"date_published": "2012-07-11T20:49:35+01:00",
 				"url": "https://thedimpau.se/2012/07/11/t223142008951279616.html"
@@ -55520,7 +55538,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2011/11/11/t135026482568380417.html",
 				
-				"content_html": "<p>Flash drive of Throwing Muses' Anthology at the gigs was a great idea - never seen it before! Still can&rsquo;t get CD anywhere :( @kristinhersh</p>\n",
+				"content_html": "<p>Flash drive of Throwing Muses&rsquo; Anthology at the gigs was a great idea - never seen it before! Still can&rsquo;t get CD anywhere :( @kristinhersh</p>\n",
 				"content_text": "Flash drive of Throwing Muses' Anthology at the gigs was a great idea - never seen it before! Still can't get CD anywhere :( @kristinhersh\n",
 				"date_published": "2011-11-11T17:09:56+01:00",
 				"url": "https://thedimpau.se/2011/11/11/t135026482568380417.html"
@@ -56394,7 +56412,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2011/08/05/t99505173935828992.html",
 				
-				"content_html": "<p>But then wants to change &lsquo;tweet&rsquo; to &lsquo;sweet&rsquo; !!! Not so good.</p>\n",
+				"content_html": "<p>But then wants to change &rsquo;tweet&rsquo; to &lsquo;sweet&rsquo; !!! Not so good.</p>\n",
 				"content_text": "But then wants to change 'tweet' to 'sweet' !!! Not so good.\n",
 				"date_published": "2011-08-05T16:40:56+01:00",
 				"url": "https://thedimpau.se/2011/08/05/t99505173935828992.html"
@@ -56607,7 +56625,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2011/07/02/t87213428573351936.html",
 				
-				"content_html": "<p>Romcom, pizza and wine tonight&hellip;girls' night in plus me&hellip;</p>\n",
+				"content_html": "<p>Romcom, pizza and wine tonight&hellip;girls&rsquo; night in plus me&hellip;</p>\n",
 				"content_text": "Romcom, pizza and wine tonight...girls' night in plus me...\n",
 				"date_published": "2011-07-02T18:37:56+01:00",
 				"url": "https://thedimpau.se/2011/07/02/t87213428573351936.html",
@@ -56829,7 +56847,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2011/05/20/t71631200531398656.html",
 				
-				"content_html": "<p>Rapture tomorrow&hellip;better not happen &lsquo;til after Dr. Who! <a href=\"http://bbc.in/jpYylo\">http://bbc.in/jpYylo</a></p>\n",
+				"content_html": "<p>Rapture tomorrow&hellip;better not happen &rsquo;til after Dr. Who! <a href=\"http://bbc.in/jpYylo\">http://bbc.in/jpYylo</a></p>\n",
 				"content_text": "Rapture tomorrow...better not happen 'til after Dr. Who! [http://bbc.in/jpYylo](http://bbc.in/jpYylo)\n",
 				"date_published": "2011-05-20T18:39:43+01:00",
 				"url": "https://thedimpau.se/2011/05/20/t71631200531398656.html"
@@ -57439,7 +57457,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2011/03/19/t49098994848251904.html",
 				
-				"content_html": "<p>Dylan Thomas' writing shed and boat house - better pictures will be uploaded to <a href=\"http://flickr.com/ianam\">http://flickr.com/ianam</a> soon! <a href=\"http://plixi.com/p/85193068\">http://plixi.com/p/85193068</a></p>\n",
+				"content_html": "<p>Dylan Thomas&rsquo; writing shed and boat house - better pictures will be uploaded to <a href=\"http://flickr.com/ianam\">http://flickr.com/ianam</a> soon! <a href=\"http://plixi.com/p/85193068\">http://plixi.com/p/85193068</a></p>\n",
 				"content_text": "Dylan Thomas' writing shed and boat house - better pictures will be uploaded to [http://flickr.com/ianam](http://flickr.com/ianam) soon! [http://plixi.com/p/85193068](http://plixi.com/p/85193068)\n",
 				"date_published": "2011-03-19T14:24:47+01:00",
 				"url": "https://thedimpau.se/2011/03/19/t49098994848251904.html",
@@ -60882,7 +60900,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2010/02/05/t8697629268.html",
 				
-				"content_html": "<p>RT @alandavies1: tee hee <a href=\"http://www.mydavidcameron.com\">www.mydavidcameron.com</a> - very creative!</p>\n",
+				"content_html": "<p>RT @alandavies1: tee hee <a href=\"https://www.mydavidcameron.com\">www.mydavidcameron.com</a> - very creative!</p>\n",
 				"content_text": "RT @alandavies1: tee hee www.mydavidcameron.com - very creative!\n",
 				"date_published": "2010-02-05T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/02/05/t8697629268.html"
@@ -61238,7 +61256,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2010/01/21/t8007904388.html",
 				
-				"content_html": "<p>Turkey: Solidarity with Tekel workers' resistance against government and unions!:</p>\n<p><a href=\"http://bit.ly/5tylfU\">http://bit.ly/5tylfU</a></p>\n",
+				"content_html": "<p>Turkey: Solidarity with Tekel workers&rsquo; resistance against government and unions!:</p>\n<p><a href=\"http://bit.ly/5tylfU\">http://bit.ly/5tylfU</a></p>\n",
 				"content_text": "Turkey: Solidarity with Tekel workers' resistance against government and unions!: \n\n[http://bit.ly/5tylfU](http://bit.ly/5tylfU)\n",
 				"date_published": "2010-01-21T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/01/21/t8007904388.html"
@@ -61286,7 +61304,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2010/01/20/t7982188686.html",
 				
-				"content_html": "<p>Farmers' offensive brings Greece to standstill: After refusal of their dem  <a href=\"http://bit.ly/4wrAO8\">http://bit.ly/4wrAO8</a></p>\n",
+				"content_html": "<p>Farmers&rsquo; offensive brings Greece to standstill: After refusal of their dem  <a href=\"http://bit.ly/4wrAO8\">http://bit.ly/4wrAO8</a></p>\n",
 				"content_text": "Farmers' offensive brings Greece to standstill: After refusal of their dem  [http://bit.ly/4wrAO8](http://bit.ly/4wrAO8)\n",
 				"date_published": "2010-01-20T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/01/20/t7982188686.html"
@@ -61415,7 +61433,7 @@
 			{
 				"id": "http://TheDimPause.micro.blog/2010/01/16/t7823436858.html",
 				
-				"content_html": "<p>Tension before start of Alexandros Grigoropoulos' assassins trial: <a href=\"http://bit.ly/7cXZBD\">http://bit.ly/7cXZBD</a></p>\n",
+				"content_html": "<p>Tension before start of Alexandros Grigoropoulos&rsquo; assassins trial: <a href=\"http://bit.ly/7cXZBD\">http://bit.ly/7cXZBD</a></p>\n",
 				"content_text": "Tension before start of Alexandros Grigoropoulos' assassins trial: [http://bit.ly/7cXZBD](http://bit.ly/7cXZBD)\n",
 				"date_published": "2010-01-16T01:00:00+01:00",
 				"url": "https://thedimpau.se/2010/01/16/t7823436858.html"
