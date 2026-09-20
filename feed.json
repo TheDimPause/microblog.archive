@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2026/09/20/my-top-weekly-artists-as.html",
+				
+				"content_html": "<p>🎵 My top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Morrissey (76 plays), Fausto, Metropolitan Symphony Orchestra and Chorus, Bergonzi, Stella, Bastianini, Wildermann, Vanni, Simionato, Antony (28), Isabelle Faust, Akademie für Alte Musik Berlin &amp; Bernhard Forck (24), Thomas Burritt; Conspirare; Craig Hella Johnson (19), The Smiths (16)</p>\n",
+				"content_text": "🎵 My top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): Morrissey (76 plays), Fausto, Metropolitan Symphony Orchestra and Chorus, Bergonzi, Stella, Bastianini, Wildermann, Vanni, Simionato, Antony (28), Isabelle Faust, Akademie für Alte Musik Berlin & Bernhard Forck (24), Thomas Burritt; Conspirare; Craig Hella Johnson (19), The Smiths (16)\n",
+				"date_published": "2026-09-20T08:07:49+01:00",
+				"url": "https://thedimpau.se/2026/09/20/my-top-weekly-artists-as.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2026/09/18/watched-in-the-grey-pure.html",
 				
-				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1122573\">In the Grey</a>, 2026 - ★★★ 🎥</p>\n<p>Pure Guy Ritchie.</p>\n",
-				"content_text": "Watched: [In the Grey](https://www.themoviedb.org/movie/1122573), 2026 - ★★★ 🎥\n\nPure Guy Ritchie.\n",
+				"content_html": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FdQgIcW6Th08kMRf2HBoYWoFE6OD.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Watched: <a href=\"https://www.themoviedb.org/movie/1122573\">In the Grey</a>, 2026 - ★★★ 🎥</p>\n<p>Pure Guy Ritchie.</p>\n",
+				"content_text": "<img src=\"https://micro.blog/photos/100x/https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Fw154%2FdQgIcW6Th08kMRf2HBoYWoFE6OD.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nWatched: [In the Grey](https://www.themoviedb.org/movie/1122573), 2026 - ★★★ 🎥\n\nPure Guy Ritchie.\n",
 				"date_published": "2026-09-18T17:16:50+01:00",
 				"url": "https://thedimpau.se/2026/09/18/watched-in-the-grey-pure.html",
 				"tags": ["FilmTV"]
