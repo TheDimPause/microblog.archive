@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2026/09/27/my-top-weekly-artists-as.html",
+				
+				"content_html": "<p>🎵 My top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: Olivier Latry (5 plays), Takács Quartet (4), Takács Quartet, Marc-André Hamelin (3)</p>\n",
+				"content_text": "🎵 My top weekly artists as logged by [last.fm](https://www.last.fm/user/nntk): Olivier Latry (5 plays), Takács Quartet (4), Takács Quartet, Marc-André Hamelin (3)\n",
+				"date_published": "2026-09-27T06:21:32+01:00",
+				"url": "https://thedimpau.se/2026/09/27/my-top-weekly-artists-as.html",
+				"tags": ["Music"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2026/09/25/pint-of-butty-bach-in.html",
 				
 				"content_html": "<p>Pint of Butty Bach in The Grace, Gloucester Road, Bristol 🍺</p>\n<img src=\"uploads/2026/mood-1790354549692.jpg\" alt=\"A pint of beer from Wye Valley Brewery, a glass of water, and a copy of New Scientist magazine are on a wooden table in a cozy pub with people chatting at the bar in the background.\">\n",
@@ -27,8 +36,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/09/24/cricket-lunchtime-maintenance.html",
 				"title": "Cricket lunchtime maintenance",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"uploads/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"uploads/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
 				"date_published": "2026-09-24T12:58:37+01:00",
 				"url": "https://thedimpau.se/2026/09/24/cricket-lunchtime-maintenance.html",
 				"tags": ["Photography","Cricket","Glass Photo"]
