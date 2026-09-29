@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2026/09/29/currently-reading-the-autobiography-by.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9780241401446/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9780241401446/\">The Autobiography</a> by Alastair Cook 🏏📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780241401446/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [The Autobiography](https://thedimpau.se/books/9780241401446/) by Alastair Cook 🏏📚\n",
+				"date_published": "2026-09-29T09:04:02+03:00",
+				"url": "https://thedimpau.se/2026/09/29/currently-reading-the-autobiography-by.html",
+				"tags": ["Books","Cricket"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2026/09/28/finished-reading-carls-doomsday-scenario.html",
 				
 				"content_html": "<img src=\"https://cdn.micro.blog/books/9789062228676/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9789062228676/\">Carl&rsquo;s doomsday scenario: Dungeon Crawler Carl 2</a> by Matt Dinniman 📚</p>\n",
@@ -81,8 +90,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/09/24/all-sorts-happening-on-the.html",
 				"title": "All sorts happening on the wicket at tea 🙂",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2RG3uXJhTnESRbJAO9cpfo\"><img src=\"uploads/2026/l3bvc3qvntbhzwuwnjctnze2ns00nji1ltkxmjetndkzzgrknjfhodmxl3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/2RG3uXJhTnESRbJAO9cpfo\"><img src=\"uploads/2026/l3bvc3qvntbhzwuwnjctnze2ns00nji1ltkxmjetndkzzgrknjfhodmxl3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2RG3uXJhTnESRbJAO9cpfo\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntbhzwuwnjctnze2ns00nji1ltkxmjetndkzzgrknjfhodmxl3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/2RG3uXJhTnESRbJAO9cpfo\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvntbhzwuwnjctnze2ns00nji1ltkxmjetndkzzgrknjfhodmxl3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a>\n",
 				"date_published": "2026-09-24T17:33:45+03:00",
 				"url": "https://thedimpau.se/2026/09/24/all-sorts-happening-on-the.html",
 				"tags": ["Photography","Glass Photo"]
