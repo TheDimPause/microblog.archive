@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2026/10/10/my-spot.html",
+				
+				"content_html": "<p>My spot 🍺📖</p>\n<img src=\"uploads/2026/img-2663.jpg\" alt=\"A man with a white beard is sitting reading on sand under the shade of a large tree. A can of beer is next to him.\">\n",
+				"content_text": "My spot 🍺📖\n\n<img src=\"uploads/2026/img-2663.jpg\" alt=\"A man with a white beard is sitting reading on sand under the shade of a large tree. A can of beer is next to him.\">\n",
+				"date_published": "2026-10-10T11:51:40+03:00",
+				"url": "https://thedimpau.se/2026/10/10/my-spot.html",
+				"tags": ["Photography","Books","Beer"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2026/10/10/last-morning-in-kos-reading.html",
+				
+				"content_html": "<p>Last morning in Kos. Reading on the beach looking across to Pserimos and the Turkish coast.</p>\n<img src=\"uploads/2026/mood-1791617258921.jpg\" alt=\"A woman is lying on a sandy beach near calm water, reading a book, viewed from the shade of tree branches.\">\n",
+				"content_text": "Last morning in Kos. Reading on the beach looking across to Pserimos and the Turkish coast.\n\n<img src=\"uploads/2026/mood-1791617258921.jpg\" alt=\"A woman is lying on a sandy beach near calm water, reading a book, viewed from the shade of tree branches.\">\n",
+				"date_published": "2026-10-10T10:33:10+03:00",
+				"url": "https://thedimpau.se/2026/10/10/last-morning-in-kos-reading.html",
+				"tags": ["Photography"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2026/10/09/currently-reading-submission-by-michel.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781784702052/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781784702052/\">Submission</a> by Michel Houellebecq 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781784702052/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Submission](https://thedimpau.se/books/9781784702052/) by Michel Houellebecq 📚\n",
+				"date_published": "2026-10-09T12:28:01+03:00",
+				"url": "https://thedimpau.se/2026/10/09/currently-reading-submission-by-michel.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2026/10/09/morning-of-our-last-full.html",
 				
 				"content_html": "<p>Morning of our last full day in Kos 🇬🇷</p>\n<img src=\"uploads/2026/c80e8f2b-242e-4068-87ad-eb620151348d.jpg\" width=\"600\" height=\"450\" alt=\"A calm sea gently meets a sandy beach under a clear blue sky with distant mountains on the horizon.\">\n<p>Spinach and cheese pies for a beach breakfast</p>\n<img src=\"uploads/2026/a6c7e048-7b49-4983-9931-4dc8d9a61f7d.jpg\" width=\"600\" height=\"800\" alt=\"Two people relaxing on a sandy beach with iced coffee drinks and pies laid out on a cloth in front of them, next to the sea.\">\n",
@@ -36,8 +63,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/10/07/graviera-kalamon-olives-and-fish.html",
 				
-				"content_html": "<p>Graviera, Kalamon olives and fish biscuits 🙂</p>\n<img src=\"uploads/2026/img-5262.jpg\" alt=\"On a rustic wooden table, there are three white plates containing cheese cubes, small fish-shaped biscuits, and black olives, accompanied by a glass of white wine and a glass of red wine.\">\n",
-				"content_text": "Graviera, Kalamon olives and fish biscuits 🙂\n\n<img src=\"uploads/2026/img-5262.jpg\" alt=\"On a rustic wooden table, there are three white plates containing cheese cubes, small fish-shaped biscuits, and black olives, accompanied by a glass of white wine and a glass of red wine.\">\n",
+				"content_html": "<p>Graviera, Kalamon olives and fish biscuits 🙂</p>\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-5262.jpg\" alt=\"On a rustic wooden table, there are three white plates containing cheese cubes, small fish-shaped biscuits, and black olives, accompanied by a glass of white wine and a glass of red wine.\">\n",
+				"content_text": "Graviera, Kalamon olives and fish biscuits 🙂\n\n<img src=\"https://eu.uploads.micro.blog/775/2026/img-5262.jpg\" alt=\"On a rustic wooden table, there are three white plates containing cheese cubes, small fish-shaped biscuits, and black olives, accompanied by a glass of white wine and a glass of red wine.\">\n",
 				"date_published": "2026-10-07T21:03:43+03:00",
 				"url": "https://thedimpau.se/2026/10/07/graviera-kalamon-olives-and-fish.html",
 				"tags": ["Photography"]
@@ -81,8 +108,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/10/06/cultured-graffiti.html",
 				"title": "Cultured graffiti",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/6GFuH1qB0YCgCoeXizS9g7\"><img src=\"uploads/2026/l3bvc3qvnjexytcxzdutyzk0oc00nwvmlwjmmtatmgjjyty1mge4mde5l3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/6GFuH1qB0YCgCoeXizS9g7\"><img src=\"uploads/2026/l3bvc3qvnjexytcxzdutyzk0oc00nwvmlwjmmtatmgjjyty1mge4mde5l3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/6GFuH1qB0YCgCoeXizS9g7\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvnjexytcxzdutyzk0oc00nwvmlwjmmtatmgjjyty1mge4mde5l3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/6GFuH1qB0YCgCoeXizS9g7\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvnjexytcxzdutyzk0oc00nwvmlwjmmtatmgjjyty1mge4mde5l3bob3rv.jpg\" width=\"3072\" height=\"2300\"/></a>\n",
 				"date_published": "2026-10-06T21:02:11+03:00",
 				"url": "https://thedimpau.se/2026/10/06/cultured-graffiti.html",
 				"tags": ["Photography","Glass Photo"]
@@ -360,8 +387,8 @@
 			{
 				"id": "http://thedimpause.micro.blog/2026/09/24/cricket-lunchtime-maintenance.html",
 				"title": "Cricket lunchtime maintenance",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"uploads/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"uploads/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/7T9N7PabJkTHR6ekwXzIhu\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvmgmxytqwmmqtyjhmzc00zdbhltgwodutntqyzgqzmtazntm1l3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
 				"date_published": "2026-09-24T12:58:37+01:00",
 				"url": "https://thedimpau.se/2026/09/24/cricket-lunchtime-maintenance.html",
 				"tags": ["Photography","Cricket","Glass Photo"]
@@ -371,15 +398,15 @@
 				"title": "Flattening the wicket",
 				"content_html": "<p><a href=\"https://glass.photo/thedimpause/7S6LhVQnlidiEpUqsBcVxr\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvzguxnzbiytitm2y1ns00zjazlwezztgtmdlmyzg1y2mzmdyxl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
 				"content_text": "<a href=\"https://glass.photo/thedimpause/7S6LhVQnlidiEpUqsBcVxr\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvzguxnzbiytitm2y1ns00zjazlwezztgtmdlmyzg1y2mzmdyxl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
-				"date_published": "2026-09-24T12:58:37+01:00",
+				"date_published": "2026-09-24T14:58:37+03:00",
 				"url": "https://thedimpau.se/2026/09/24/flattening-the-wicket.html",
 				"tags": ["Photography","Glass Photo"]
 			},
 			{
 				"id": "http://thedimpause.micro.blog/2026/09/24/footprints-to-fill.html",
 				"title": "Footprints to fill 👣",
-				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2ynm4XJoyXxLilE0cFxSKX\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvyjmxzjrkzwqtmwq1zc00odllltljyzmtmzvmn2fiztc2y2jkl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
-				"content_text": "<a href=\"https://glass.photo/thedimpause/2ynm4XJoyXxLilE0cFxSKX\"><img src=\"https://eu.uploads.micro.blog/775/2026/l3bvc3qvyjmxzjrkzwqtmwq1zc00odllltljyzmtmzvmn2fiztc2y2jkl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
+				"content_html": "<p><a href=\"https://glass.photo/thedimpause/2ynm4XJoyXxLilE0cFxSKX\"><img src=\"uploads/2026/l3bvc3qvyjmxzjrkzwqtmwq1zc00odllltljyzmtmzvmn2fiztc2y2jkl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a></p>\n",
+				"content_text": "<a href=\"https://glass.photo/thedimpause/2ynm4XJoyXxLilE0cFxSKX\"><img src=\"uploads/2026/l3bvc3qvyjmxzjrkzwqtmwq1zc00odllltljyzmtmzvmn2fiztc2y2jkl3bob3rv.jpg\" width=\"2300\" height=\"3072\"/></a>\n",
 				"date_published": "2026-09-24T12:58:37+01:00",
 				"url": "https://thedimpau.se/2026/09/24/footprints-to-fill.html",
 				"tags": ["Photography","Glass Photo"]
