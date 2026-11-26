@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://thedimpause.micro.blog/2026/11/26/boreen-miles-boreen.html",
+				
+				"content_html": "<p>Boreen #018</p>\n<p>375 miles<br>\n🐇🐿️🦊⬛🐇🐿️🐿️</p>\n<p><a href=\"https://boreen.co.uk/?s\">Boreen</a></p>\n",
+				"content_text": "Boreen #018  \n\n375 miles  \n🐇🐿️🦊⬛🐇🐿️🐿️  \n\n[Boreen](https://boreen.co.uk/?s)\n",
+				"date_published": "2026-11-26T08:55:56+00:00",
+				"url": "https://thedimpau.se/2026/11/26/boreen-miles-boreen.html"
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2026/11/24/currently-reading-sabr-by-usman.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781761344282/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Currently reading: <a href=\"https://thedimpau.se/books/9781761344282/\">Sabr</a> by Usman Khawaja 📚</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781761344282/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nCurrently reading: [Sabr](https://thedimpau.se/books/9781761344282/) by Usman Khawaja 📚\n",
+				"date_published": "2026-11-24T12:04:57+00:00",
+				"url": "https://thedimpau.se/2026/11/24/currently-reading-sabr-by-usman.html",
+				"tags": ["Books"]
+			},
+			{
+				"id": "http://thedimpause.micro.blog/2026/11/24/finished-reading-thank-you-and.html",
+				
+				"content_html": "<img src=\"https://cdn.micro.blog/books/9781590304709/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n<p>Finished reading: <a href=\"https://thedimpau.se/books/9781590304709/\">Thank You and OK! An American Zen Failure in Japan</a> by David Chadwick 📚</p>\n<p>Audiobook edition.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9781590304709/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished reading: [Thank You and OK! An American Zen Failure in Japan](https://thedimpau.se/books/9781590304709/) by David Chadwick 📚\n\nAudiobook edition.\n",
+				"date_published": "2026-11-24T12:03:08+00:00",
+				"url": "https://thedimpau.se/2026/11/24/finished-reading-thank-you-and.html",
+				"tags": ["Books"]
+			},
+			{
 				"id": "http://thedimpause.micro.blog/2026/11/22/my-top-weekly-artists-as.html",
 				
 				"content_html": "<p>🎵 My top weekly artists as logged by <a href=\"https://www.last.fm/user/nntk\">last.fm</a>: U2 (9 plays), Speak No Evil (3), Keiichi Tanaka (2), Aqatuki (1), Radie Peat (1)</p>\n",
